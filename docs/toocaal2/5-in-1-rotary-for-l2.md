@@ -19,7 +19,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 
 ### 拆箱检查
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/1.jpg)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png)
 
 ### 适用物体参考
 当雕刻一些大型或者不规则的耗材时，需要使用一些不同类型的配件种类。以下是各种配件种类的适用物体参考。
@@ -29,14 +29,14 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 | 滚筒旋转 | 适用于不规则圆柱体和超长物体 | 5-200(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/2.jpg) |
 | 卡盘旋转 | 适用于具有圆形<br/>或非圆形底座的物体 | 0-140(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/3.jpg) |
 | 球面旋转 | 适用于球类物体 | 25-120(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/3) |
-| 环形旋转 | 适用于戒指外圈 | 12-100(mm) | ![](https://cdn.nlark.com/yuque/0/2024/png/47382939/1726884961361-cb017a2f-e73b-4ea3-8264-8aa6b655e7c8.png) |
-| 180°<br/>可调节翻转 | 适用于带柄马克杯等异形斜边圆柱体 | / | ![](https://cdn.nlark.com/yuque/0/2024/png/47382939/1726884962411-a319de81-0dd3-4e10-b98c-65c76fcd5a3a.png) |
+| 环形旋转 | 适用于戒指外圈 | 12-100(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/4) |
+| 180°<br/>可调节翻转 | 适用于带柄马克杯等异形斜边圆柱体 | / | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/5) |
 
 
 ### 滚筒旋转配件操作教程
 1. 将离合器组件插入旋转配件主体并通过螺丝固定。
 
-![固定离合器组件](https://cdn.nlark.com/yuque/0/2024/jpeg/47382939/1726911172107-51cf1147-9685-45a3-be3d-86dcd57a822a.jpeg)
+![固定离合器组件](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/6.jpg)
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整接口角度，方便您对齐并正确插入离合器组件。**
 
