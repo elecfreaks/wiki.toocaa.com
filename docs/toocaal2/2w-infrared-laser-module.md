@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 15
+sidebar_label: TOOCAA L2 2w红外激光模组
+
+---
 # TOOCAA L2 2W红光激光模组
 ## 了解您的TOOCAA L2 10W激光模组
 
