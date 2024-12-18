@@ -11,7 +11,7 @@ sidebar_label: 安全第一
 ### 1、通用安全信息  
 在操作本产品之前，请务必阅读并充分理解所有安全须知和使用步骤。使用者应严格遵守所有安全预防措施并确保本产品已正确组装且处于正常工作状态。只要您遵守安全规定并正确操作，本产品将为您带来愉快和高效的使用体验。
 
-![安全须知](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/1.png)
+![安全须知](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)
 
 请遵循以下操作原则：
 
@@ -42,7 +42,7 @@ sidebar_label: 安全第一
 
 不器 L2 搭配智能防护罩，请按照说明书正确安装并使用。激光作业过程中，智能防护罩将有效过滤散射的激光。在正确安装智能防护罩并将其连接通电后，智能防护罩的开关门状态与激光的发射状态连锁绑定，即：本产品会在智能防护罩门打开时自动暂停激光作业，防止激光泄露。
 
-![激光安全](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/1.png)
+![激光安全](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)
 
 请遵循以下安全准则：
 
@@ -58,7 +58,7 @@ sidebar_label: 安全第一
 ### 3、消防安全信息  
 设备在切割或雕刻材料时使用高密度激光束照射材料表面产生高温，目的是在不燃烧的情况下使材料气化。但大多数材料本质上是易燃的，可能被点燃并形成明火，明火可能烧毁设备及其周围环境。经验表明，用激光进行矢量切割最易产生明火，特别是丙烯酸材料。
 
-![消防安全](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2.png)
+![消防安全](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)
 
 请仔细阅读以下警告和建议：
 
@@ -72,7 +72,7 @@ sidebar_label: 安全第一
 ---
 
 ### 4、电气安全信息  
-![电气安全](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698199998925-08efb90d-882e-4f06-b880-7e83d13510c8.png)
+![电气安全](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)
 
 请仔细阅读以下警告和建议：
 
