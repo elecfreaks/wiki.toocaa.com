@@ -60,8 +60,8 @@ When cutting or engraving material, the equipment uses a high-density laser beam
 Warning and Indication Signs  
 Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pose a hazard before or during operation. If the signs are damaged or missing, replace them immediately. (You can print the picture on the following page to get the required signs)
 
-# Safety Label
-| **<font style="color:black;">ICON</font>** | **<font style="color:black;">Warning</font>** | **<font style="color:black;">Location</font>** |
+## Safety Label
+| **ICON** | **Warning** | **Location** |
 | --- | --- | :---: |
 | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module</font> |
 | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 10W laser module   |
