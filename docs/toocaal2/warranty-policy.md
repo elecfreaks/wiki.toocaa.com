@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 5
+sidebar_label: 保修政策
+
+---
 # 保修政策
 
 ## **有限保修**
