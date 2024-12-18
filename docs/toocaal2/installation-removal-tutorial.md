@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 10
+sidebar_label: TOOCAA激光模组安装
+
+---
 # TOOCAA激光模组安装/拆卸教程
 
 ## 了解您的TOOCAA激光模组
