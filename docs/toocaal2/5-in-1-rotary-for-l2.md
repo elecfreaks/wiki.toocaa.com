@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 19
+sidebar_label: TOOCAA 5-1 Rotary for L2
+
+---
 # TOOCAA 5-in-1 Rotary for L2用户指南
 ## 了解您的TOOCAA 5-in-1 Rotary for L2
 TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料的精密加工而设计。它具有5种配件种类，能在多种场景下处理不同类型材料，可满足寻求高质量雕刻和切割解决方案的爱好者和专业人士的需求。适用场景为手工项目、模型制作、小批量生产和教育用途。
