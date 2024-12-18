@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 7
+sidebar_label: TOOCAA L2说明
+
+---
 # 产品说明
 
 ## 各部件说明
