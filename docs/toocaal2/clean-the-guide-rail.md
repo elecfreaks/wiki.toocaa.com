@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 13
+sidebar_label: 清洁导轨
+
+---
 # 清洁导轨
 
 **请定期清洁导轨。**
