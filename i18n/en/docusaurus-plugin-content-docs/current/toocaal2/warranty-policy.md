@@ -9,7 +9,6 @@ If the product fails within the warranty period, please feel free to contact us 
 
 ## **Warranty coverage and duration**
 | **Guarantee** | **Warranty period** | **Remark |
-| --- | --- | --- |
 | Main components| 12months| Adapter, circuit board, motor, USB electronic lock, rail, synchronous belt, light bar. |
 | Wear parts | 6 months | Laser module |
 | Accessories | No warranty (free replacement if damaged on receipt) | Components other than main components and wear parts: power cord, USB cable, exhaust pipe, consumables, screwdriver, manual, outer cover acrylic board, profiles, etc. |
@@ -18,7 +17,7 @@ If the product fails within the warranty period, please feel free to contact us 
 ### Certain matters regarding product warranty are hereby notified as follows:
 ●The calculation of the warranty period begins on the date of the first purchase of the product and is based on the date of the invoice. If a valid invoice cannot be provided, the warranty period is calculated from the date of delivery of the product. For the remainder of the warranty period, repaired or replaced products or parts will continue to be covered by the warranty. If the remaining warranty period is less than 3 months, the warranty will be extended to 3 months; if the remaining warranty period is less than 30 days, the warranty will be extended to 30 days.
 ●Product packaging, gifts, consumables and accessories are not covered by the warranty. However, if the product is defective when first used, we will replace the product at no cost to you. If you need to replenish the packaging and accessories, or if you need to refurbish the product, TOOCAA will charge a fee of 30% of the suggested retail price of the product, as well as the shipping costs incurred during the logistics process.  
->●Regarding the warranty for products purchased in China and shipped abroad: For shipping costs during the warranty period, we will only cover the shipping costs to return the product to the original place of purchase after the product has been repaired.
+●Regarding the warranty for products purchased in China and shipped abroad: For shipping costs during the warranty period, we will only cover the shipping costs to return the product to the original place of purchase after the product has been repaired.
 ●TOOCAA is not responsible for any other commitments made by the reseller.
 
 ### Scope of Responsibility
