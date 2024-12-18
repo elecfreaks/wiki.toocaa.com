@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 3
+sidebar_label: 安全第一
+
+---
 # 安全第一
 
 ## 安全信息
