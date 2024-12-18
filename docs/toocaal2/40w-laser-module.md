@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 18
+sidebar_label: TOOCAA L2 40w激光模组
+
+---
 # TOOCAA L2 40W激光模组
 
 ## 了解您的TOOCAA L2 40W激光模组
