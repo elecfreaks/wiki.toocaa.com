@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 17
+sidebar_label: TOOCAA L2 20w激光模组
+
+---
 # TOOCAA L2 20W激光模组
 
 ## 了解您的TOOCAA L2 20W激光模组
