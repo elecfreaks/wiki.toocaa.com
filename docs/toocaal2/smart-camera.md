@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 20
+sidebar_label: TOOCAA Smart Camera
+
+---
     不器L2智能摄像头通过精准的辅助定位技术，助您完美实现所有的奇思妙想。TOOCAA Smart Camera for L2，以精度铸就完美。
 
 + 【金属质感】全金属外壳设计，兼顾耐用，彰显质感，尽显科技之美。
