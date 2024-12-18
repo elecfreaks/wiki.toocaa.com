@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 6
+sidebar_label: 开箱组装
+
+---
 # 开箱组装
 
 ## TOOCAA L2清单
