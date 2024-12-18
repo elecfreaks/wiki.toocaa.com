@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 12
+sidebar_label: 清洁激光器窗口镜
+
+---
 # 清洁激光器窗口镜
 
 :::info
