@@ -35,7 +35,7 @@ TOOCAA L2 is equipped with a smart enclosure, please follow the instructions to 
 **Please follow the safety guidelines below:**  
 l Never operate the machine with any part removed. Be aware that any part of the unit missing may expose the laser system and increase the risk of damage to the unit.  
 l Never engrave or cut any material containing PVC or vinyl (plastic is not recommended). These materials (as well as other chlorine/chlorinated materials) produce corrosive vapors that are extremely dangerous to humans and can cause damage to the equipment. Any damage caused by engraving or cutting any material containing PVC or vinyl is not covered by the warranty.  
-l Do not engrave or cut any unknown material. (Such like the vaporization and melting of many materials, including, but not limited to, PVC and polycarbonate, can emit harmful fumes.)  
+l Do not engrave or cut any unknown material. (Such like the vaporization and melting of many materials, including, but not limited to, PVC and polycarbonate, can emit harmful fumes.
 lRemove all reflective material from the work area before using the TOOCAA L2 and make sure there is no reflective material in the work area during use of the TOOCAA L2. As reflective materials can cause the laser to reflect and cause collateral damage.  
 l Make sure the work area is free of flammable and explosive materials before using the TOOCAA L2.  
 l Please pay close attention to whether the equipment is working properly when is running, and never run the equipment unattended.
@@ -62,7 +62,6 @@ Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pos
 
 ## Safety Label
 | **ICON** | **Warning** | **Location** |
-| --- | --- | :---: |
 | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module</font> |
 | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 10W laser module   |
 | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png) | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 20W laser module   |
