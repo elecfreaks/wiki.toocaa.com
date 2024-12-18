@@ -29,9 +29,7 @@ sidebar_label: 开箱组装
 | ![整理线材](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k3.png) | 请及时整理、收纳线材，防止线材缠绕打结或将人绊倒。 |
 | ![连接线操作](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k4.png) | 机器通电后，若无特殊说明，切勿插、拔任何连接线。 |
 
-:::
 ![预锁提示](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png) 预锁：将螺丝拧入螺丝孔内，但不彻底锁紧。
-:::
 
 ## 组装方法
 ![组装步骤1](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k5.png)
