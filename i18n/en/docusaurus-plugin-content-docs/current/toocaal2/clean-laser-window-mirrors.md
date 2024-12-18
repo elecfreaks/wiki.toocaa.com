@@ -34,6 +34,3 @@ swabs dampened with alcohol.![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/
 TOOCAA official website link:[https://www.toocaa.com/](https://www.toocaa.com/)
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E7%AA%97%E5%8F%A3%E9%95%9C%E6%B8%85%E6%B4%97/C5.png)
-
-:::
-
