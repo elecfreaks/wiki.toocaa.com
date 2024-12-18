@@ -6,8 +6,7 @@ sidebar_label: 清洁激光器窗口镜
 ---
 # 清洁激光器窗口镜
 
-:::info
-![提示图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/call.png)  
+![提示图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  
 激光器在使用一段时间后，窗口镜可能会积累过多灰尘或油污，从而导致激光切割能力明显下降。此时，需要清洁窗口镜，以恢复激光模组的雕刻和切割能力。建议清洁维护频率每周至少一次。
 
 图示中的激光器为20W激光器。
@@ -31,8 +30,7 @@ sidebar_label: 清洁激光器窗口镜
 
 ![Step 4](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E7%AA%97%E5%8F%A3%E9%95%9C%E6%B8%85%E6%B4%97/C4.png)
 
-:::info
-![提示图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/call.png)  
+![提示图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  
 如果激光器窗口镜出现了被灼烧的痕迹，且没有办法进行擦除，这个时候需要更换新窗口镜。我们为您额外配置了一个窗口镜，放置在配件盒中，您可以使用新的窗口镜将损坏的窗口镜进行更换。如果您后期还需要购买窗口镜，请访问 TOOCAA 官网或者扫描官网二维码查看并购买。
 
 TOOCAA 官网链接：[https://www.toocaa.com/](https://www.toocaa.com/)
