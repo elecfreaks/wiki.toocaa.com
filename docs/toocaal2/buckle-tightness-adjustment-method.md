@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 11
+sidebar_label: TOOCAA激光模组板扣松紧度调节方式
+
+---
 # 激光模组板扣松紧度调节方式
 
 **Step 1** 取出激光模组。
