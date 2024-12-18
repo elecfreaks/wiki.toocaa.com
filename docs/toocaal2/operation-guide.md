@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 7
+sidebar_label: TOOCAA L2操作指南
+
+---
 # 操作指南
 ## 在线操作指南
 请您访问该网站：https://www.toocaa.com/pages/file-library，下载案例所需文件。下面开始您第一个案例的制作吧。
