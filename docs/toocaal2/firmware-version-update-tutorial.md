@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 9
+sidebar_label: TOOCAA L2固件版本更新教程
+
+---
 # TOOCAA L2 固件版本更新教程
 
 ## 固件版本更新
