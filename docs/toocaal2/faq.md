@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 14
+sidebar_label: TOOCAA L2常见问题
+
+---
 # TOOCAA L2常见问题
 ## Q1: 不器 L2 可以切割和雕刻哪些材料？
 
