@@ -9,7 +9,7 @@ sidebar_label: TOOCAA L2固件版本更新教程
 ## 固件版本更新
 为了能让 L2 激光切割机达到最佳的切割雕刻水平，请尽量确保机器固件为最新版本。如当前固件版本并非最新固件版本，请阅读以下图文教学并完成最新版本的固件升级。
 
-![注意：固件版本号过低可能会影响切割及雕刻效果，请及时更新！](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/call.png)
+(http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)![注意：固件版本号过低可能会影响切割及雕刻效果，请及时更新！]
 
 ## TOOCAA Studio 官方网址
 **TOOCAA Studio 官方网址**：[https://toocaastudio.com/](https://test.toocaastudio.com/)
@@ -28,9 +28,8 @@ sidebar_label: TOOCAA L2固件版本更新教程
 
 ![TOOCAA Studio 连接串行端口选择弹窗](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/image%20(2).png)
 
-![注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法对固件进行升级。](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/call.png)
-
-**TOOCAA L2 串行端口核实方法**：将 USB 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。
+![注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法对固件进行升级。]
+(http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**TOOCAA L2 串行端口核实方法**：将 USB 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。
 
 右上角确认已连接设备型号为 **TOOCAA L2** 后，点击 **【固件信息】**。
 
