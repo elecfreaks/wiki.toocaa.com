@@ -1,3 +1,9 @@
+---
+
+sidebar_position: 21
+sidebar_label: TOOCAA烟雾净化器
+
+---
 # TOOCAA 烟雾净化器
 
 ## 产品简介
