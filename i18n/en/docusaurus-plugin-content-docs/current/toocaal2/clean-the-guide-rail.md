@@ -4,7 +4,7 @@ sidebar_position: 13
 sidebar_label: Clean The Guide Rail
 
 ---
-#Clean The Guide Rail
+# Clean The Guide Rail
 **Please clean the guide rail regularly.**
 
 If there is black power occuring in the guide rail during working, this is a normal phenomenon due to the grinding of the wheel, please clean it timely with a dust-free cloth.。
