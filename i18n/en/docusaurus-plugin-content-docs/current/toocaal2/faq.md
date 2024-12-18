@@ -47,7 +47,7 @@ The tool lock arm does not need to be pressed to the bottom, it only needs to be
 + Open **Control Panel**
 + Click "**Hardware and Sound**"
 + Click **Power Options**
-+ Under "Preferred Plans"， click Change plan settings for the active power plan.(http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Q%26A1.png)
++ Under "Preferred Plans"， click Change plan settings for the active power plan.![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Q%26A1.png)
 + Click **Change advanced power settings**
 + Open **USB Settings**
 + Open the **USB Selective Suspend setting** and select **Disabled** from the drop-down window.
@@ -56,31 +56,31 @@ The tool lock arm does not need to be pressed to the bottom, it only needs to be
 :::
 
 ### Check Drivers
-If you have problems connecting to your machine, you may need to install or update the drivers.
+If you have problems connecting to your machine, you may need to install or update the drivers.</font>
 
 Requires CH340 driver. The latest version is available from the WCH website for Windows, Mac, and Linux.    
-WCH website: [https://www.wch-ic.com/downloads/CH341SER_EXE.html](https://www.wch-ic.com/downloads/CH341SER_EXE.html)
+WCH website:  [https://www.wch-ic.com/downloads/CH341SER_EXE.html](https://www.wch-ic.com/downloads/CH341SER_EXE.html)
 
-
-
-If the above does not resolve the issue, please visit the Lightburn troubleshooting guide: [https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html](https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html). Or contact our technical support at support@toocaa.com.
+If the above does not resolve the issue, please visit the Lightburn troubleshooting guide: [https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html</font>](https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html). Or contact our technical support at support@toocaa.com.</font>
 
 # Q8: The laser module cannot be effectively fixed / the laser module is easy to slip
 Solution steps:
 
 1.Take out the laser module.
 
-(http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Take%20out%20the%20laser%20module.jpg)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Take%20out%20the%20laser%20module.jpg)
 
 2.Remove the outer screw and the tool lock arm.
 
-(http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Remove%20the%20outer%20screw%20and%20the%20tool%20lock%20arm.jpg)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Remove%20the%20outer%20screw%20and%20the%20tool%20lock%20arm.jpg)
 
 3.Adjust the tightness of the screw inside the tool carriage.
 
-(https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
+![](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)_**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
 
 ![Tighten clockwise.](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Tighten%20clockwise.png)
 
 ![Loosen counterclockwise.](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Loosen%20counterclockwise.png)
+
+
 
