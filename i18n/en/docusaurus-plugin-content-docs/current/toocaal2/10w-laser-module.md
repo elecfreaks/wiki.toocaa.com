@@ -8,7 +8,7 @@ sidebar_label: TOOCAA L2 10W Laser Module
 ## Get to know your TOOCAA L2 10W laser module
 TOOCAA L2 10W laser module is suitable for TOOCAA L2 laser cutting machine, with an output power of 10W. It supports cutting and engraving of more than 100 materials, making it easy to create more creative products.
 
-## <font style="color:rgb(15,17,17);background-color:rgb(255,255,255);">Product Design
+## Product Design
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/10w.jpg)
 
 ## Product Specifications
