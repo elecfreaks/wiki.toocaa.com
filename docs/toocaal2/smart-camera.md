@@ -17,7 +17,6 @@ sidebar_label: TOOCAA Smart Camera
 
 ## 产品规格
 | 模组尺寸 | 90mm * 40mm * 35mm |
-| --- | --- |
 | 像素数量 | 500万像素（2592px * 1944px） |
 | 分辨率 | 150 DPI |
 | 最大动态范围 | 85 dB |
