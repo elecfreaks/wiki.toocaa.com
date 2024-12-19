@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 1
-sidebar_label: story of toocaa
+sidebar_label: Story of toocaa
 
 ---
 # Story of TOOCAA L2
