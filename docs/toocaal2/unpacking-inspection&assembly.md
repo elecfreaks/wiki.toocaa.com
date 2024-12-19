@@ -23,7 +23,6 @@ sidebar_label: 开箱组装
 ## 组装须知
 
 | ![激光模组移动](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/move.png) | 激光模组在工作过程中会快速移动，建议将激光切割机放置在平稳、宽大、整洁的桌面上。 |
-| --- | --- |
 | ![预锁螺丝](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k1.png) | 同时安装多颗螺丝时，建议先预锁最外侧边角的螺丝，然后预锁剩余螺丝，最后再按照预锁顺序依次锁紧所有螺丝。 |
 | ![L型扳手](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k2.png) | 使用 L 型扳手安装螺丝时，建议先用长柄将螺丝拧入螺丝孔中，再用短柄进行锁紧。拆卸螺丝时，按照相反的步骤操作即可。 |
 | ![整理线材](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k3.png) | 请及时整理、收纳线材，防止线材缠绕打结或将人绊倒。 |
@@ -40,26 +39,26 @@ sidebar_label: 开箱组装
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="400" />
 
-**Step 1/33** 抬起机器，安装脚垫。
+**Step 1/32** 抬起机器，安装脚垫。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k7.png" alt="图片描述" width="700" />
 
-**Step 2/33** 打开X轴运动组件上的扳扣。
+**Step 2/32** 打开X轴运动组件上的扳扣。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k8.png" alt="图片描述" width="700" />
 
-**Step 3/33** 安装激光模组。
+**Step 3/32** 安装激光模组。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k9.png" alt="图片描述" width="700" />
 
-**Step 4/33** 按下扳扣，固定激光模组。
+**Step 4/32** 按下扳扣，固定激光模组。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k10.png" alt="图片描述" width="700" />
 
-**Step 5/33** 连接USB信号线，并锁紧螺丝。
+**Step 5/32** 连接USB信号线，并锁紧螺丝。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/533.png" alt="图片描述" width="700" />
 
-**Step 6/33** 使用M4*55平圆头螺丝，组装后挡板风扇组件。
+**Step 6/32** 使用M4*55平圆头螺丝，组装后挡板风扇组件。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k12.png" alt="图片描述" width="700" />
 
@@ -67,19 +66,19 @@ sidebar_label: 开箱组装
 请注意风扇和风扇防护网的安装方向。
 :::
 
-**Step 7/33** 安装后挡板固定型材。
+**Step 7/32** 安装后挡板固定型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k17.png" alt="图片描述" width="700" />
 
-**Step 8/33** 使用M4*10平圆头螺丝，锁紧后挡板和后挡板固定型材。
+**Step 8/32** 使用M4*10平圆头螺丝，锁紧后挡板和后挡板固定型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k18.png" alt="图片描述" width="700" />
 
-**Step 9/33** 使用M4*10平圆头螺丝，将氮气弹簧固定结构件安装在左挡板和右挡板上。
+**Step 9/32** 使用M4*10平圆头螺丝，将氮气弹簧固定结构件安装在左挡板和右挡板上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k19.png" alt="图片描述" width="700" />
 
-**Step 10/33** 将左挡板和右挡板安装到后挡板固定型材上。
+**Step 10/32** 将左挡板和右挡板安装到后挡板固定型材上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k20.png" alt="图片描述" width="700" />
 
@@ -87,101 +86,100 @@ sidebar_label: 开箱组装
 请注意面板的朝向，此时三块面板的补光灯都应处于上方位置。
 :::
 
-**Step 11/33** 使用M4*10平圆头螺丝，将左挡板和右挡板安装在后挡板固定型材上。
+**Step 11/32** 使用M4*10平圆头螺丝，将左挡板和右挡板安装在后挡板固定型材上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k22.png" alt="图片描述" width="700" />
 
-**Step 12/33** 连接补光灯控制线。
+**Step 12/32** 连接补光灯控制线。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k23.png" alt="图片描述" width="700" />
 
-**Step 13/33** 安装固定上盖板型材。
+**Step 13/32** 安装固定上盖板型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k24.png" alt="图片描述" width="700" />
 
 :::info
 请注意型材方向，型材的上下两层厚度不同，较厚一层应处于下方位置。请注意固定上盖板的亚克力板的方向，与型材连接位置有凹槽的一面朝下。
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k25.png" alt="图片描述" width="700" />
 :::
 
-**Step 14/33** 使用M4*10平圆头螺丝，锁紧固定上盖板和固定上盖板型材。
-
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k25.png" alt="图片描述" width="700" />
-
-**Step 15/33** 使用M4*10平圆头螺丝，将前挡板安装到左挡板和右挡板上。
+**Step 14/32** 使用M4*10平圆头螺丝，锁紧固定上盖板和固定上盖板型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k26.png" alt="图片描述" width="700" />
 
-**Step 16/33** 使用M4*10平圆头螺丝，将底板安装到左挡板、右挡板和前挡板上。
+**Step 15/32** 将固定上盖板放置到左挡板和右挡板凹槽处。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k27.png" alt="图片描述" width="700" />
 
-**Step 17/33** 安装固定旋钮。
+**Step 16/32** 安装并锁紧M4*10的螺丝，将固定上盖板固定到左挡板、右挡板和后挡板上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k28.png" alt="图片描述" width="700" />
 
-**Step 18/33** 安装智能防护罩。
+**Step 17/32** 使用M4*16螺丝，将后盖板型材固定在左挡板和右挡板上。
+
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k28.png" alt="图片描述" width="700" />
+
+**Step 18/32** 安装运动上盖板型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k29.png" alt="图片描述" width="700" />
 
-**Step 19/33** 完成智能防护罩安装。
+**Step 19/32** 使用M4*10平圆头螺丝，锁紧运动上盖板和运动上盖板型材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k30.png" alt="图片描述" width="700" />
 
-**Step 20/33** 连接主机电源线，按下电源开关。
+**Step 20/32** 使用M4*20平圆头螺丝，安装运动上盖板上的氮气弹簧固定结构件。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k31.png" alt="图片描述" width="700" />
 
-**Step 21/33** 连接USB数据线。
+**Step 21/32** 将运动上盖板放置到左挡板和右挡板的凹槽处。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k32.png" alt="图片描述" width="700" />
 
-**Step 22/33** 连接激光模组信号线。
+**Step 22/32** 使用M5*14的沉头螺丝，将合页安装到运动上盖板和固定上盖板上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k33.png" alt="图片描述" width="700" />
 
-**Step 23/33** 打开智能防护罩。
+**Step 23/32** 使用M4*10平圆头螺丝，将前挡板型材安装到前挡板上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k34.png" alt="图片描述" width="700" />
 
-**Step 24/33** 放置材料并进行切割。
+**Step 24/32** 使用M4*10平圆头螺丝，将提手安装到前挡板上。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k35.png" alt="图片描述" width="700" />
 
-**Step 25/33** 激光雕刻完成，设备自动停止。
+**Step 25/32** 将前挡板型材安装在运动上盖板上,并使用M4*10平圆头螺丝，锁紧前挡板型材和运动上盖板。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k36.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/25.png" alt="图片描述" width="700" />
 
-**Step 26/33** 完成清理，开始下一个项目。
+**Step 26/32** 将氮气弹簧安装到左挡板和右挡板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k37.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/26.png" alt="图片描述" width="700" />
 
-**Step 27/33** 完成机器装配，检查各部件是否安装稳固。
+**Step 27/32** 将氮气弹簧安装到运动上盖板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k38.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/27.png" alt="图片描述" width="700" />
 
-**Step 28/33** 校准激光位置，确保雕刻或切割的精度。
+**Step 28/32** 将智能防护罩放置到机器上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k39.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/28.png" alt="图片描述" width="700" />
 
-**Step 29/33** 设置机器参数，选择适合的功率和速度设置。
+**Step 29/32** 使用M4*8沉头螺丝，将压板安装到激光切割机和智能防护罩上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k40.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/29.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/291.png" alt="图片描述" width="700" />
 
-**Step 30/33** 启动切割或雕刻，观察过程中是否正常运行。
+**Step 30/32** 连接灯罩板控制线。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k41.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/30.png" alt="图片描述" width="700" />
 
-**Step 31/33** 完成任务后，关闭机器并切断电源。
+**Step 31/32** 使用不锈钢卡箍，将风管安装到风扇法兰上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k42.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/31.png" alt="图片描述" width="700" />
 
-**Step 32/33** 对设备进行日常维护，清理工作台和激光模组。
+**Step 32/32** 拧紧不锈钢卡箍。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k43.png" alt="图片描述" width="700" />
-
-**Step 33/33** 保存工作文件，准备下次使用。
-
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k44.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/32.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/321.png" alt="图片描述" width="700" />
 
 ## 维护和保养
 
