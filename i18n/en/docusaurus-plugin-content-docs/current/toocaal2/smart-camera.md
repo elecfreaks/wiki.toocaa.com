@@ -70,7 +70,7 @@ For the camera to accurately assist the laser cutting machine in positioning and
 Please read the following camera connection tutorial and connect the camera.
 
 ### **Camera lens calibration**
-![](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)_**Q&A：The lens type of TOOCAA Smart Camera for L2 is a fisheye lens. To effectively use this type of fisheye lens, it is necessary to calibrate the lens to ensure that it does not distort when capturing images.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Q&A：The lens type of TOOCAA Smart Camera for L2 is a fisheye lens. To effectively use this type of fisheye lens, it is necessary to calibrate the lens to ensure that it does not distort when capturing images.**_
 
 #### **Camera Model Selection**
 Connect the laser cutter and camera to your computer with a USB cable, start LightBurn, and click the **Calibrate Camera Lens** option.
@@ -119,7 +119,7 @@ Use the mouse to mark and confirm the 4 positions on the test image in the order
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%A0%87%E8%AE%B0%E7%A1%AE%E8%AE%A4%E4%BD%8D%E7%BD%AE%E7%82%B9.png" alt="图片描述" width="700" />
 
-![]([https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png))_**Note: Please ensure to click the mouse accurately at the circle center.**_
+![]([http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note: Please ensure to click the mouse accurately at the circle center.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%BC%A0%E6%A0%87%E6%94%BE%E5%A4%A7%E8%BF%9B%E8%A1%8C%E4%BD%8D%E7%BD%AE%E7%82%B9%E6%A0%87%E8%AE%B0.png" alt="图片描述" width="700" />
 
