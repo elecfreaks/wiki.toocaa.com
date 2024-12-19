@@ -30,7 +30,7 @@ Please carefully check following parts. If there is any missed or damaged items,
 | Fitering Effect | 0.3μm 99.97% |
 | Noise | <55dB |
 | System Flow | 330m³/h |
-| Overll Dimension | 256 * 430 * 530mm |
+| Overll Dimension | 256 × 430 × 530mm |
 | Weight | 15.9kg |
 
 
