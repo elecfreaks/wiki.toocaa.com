@@ -7,7 +7,7 @@ sidebar_label: TOOCAA L2说明
 # 产品说明
 
 ## 各部件说明
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E1.jpg" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E1.jpg" alt="图片描述" width="700" /><br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E2.jpg" alt="图片描述" width="700" />
 
 ## 报警说明
