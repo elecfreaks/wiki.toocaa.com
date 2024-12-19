@@ -11,7 +11,7 @@ sidebar_label: TOOCAA L2 40w激光模组
 TOOCAA L2 40W激光模组适用于TOOCAA L2激光切割机，输出功率为40W，专为强力切割设计，轻松处理大厚度耗材。采用先进的激光压缩技术，0.13mm*0.15mm超大光斑实现与CO2机器相媲美的高功率切割效率。
 
 ## 产品外观
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w.png" alt="图片描述" width="700" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w.png" alt="图片描述" width="400" />" 
 
 ## 产品规格
 | **产品型号** | TC-LM40 |
