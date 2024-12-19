@@ -82,8 +82,8 @@ sidebar_label: 安全第一
 
 | **图标** | **警示** | **位置** |
 | --- | --- | --- |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png" alt="图片描述" width="700" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 2W 红光激光模组上 |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/10w.png" alt="图片描述" width="700" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 10W 激光模组上 |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="700" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 20W 激光模组上 |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png" alt="图片描述" width="700" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 40W 激光模组上 |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="700" /> | 激光从此处射出。 | 激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png" alt="图片描述" width="300" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 2W 红光激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/10w.png" alt="图片描述" width="300" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 10W 激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="300" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 20W 激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png" alt="图片描述" width="300" /> | 激光等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 40W 激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="300" /> | 激光从此处射出。 | 激光模组上 |
