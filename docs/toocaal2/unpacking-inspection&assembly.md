@@ -12,11 +12,11 @@ sidebar_label: 开箱组装
 ## TOOCAA L2耗材包清单
 | 种类            | 尺寸               | 数量 |
 |-----------------|--------------------|------|
-| 椴木板          | 210mm * 297mm * 3mm    | 1    |
-| 金色铝制铭牌    | 50mm * 25mm     | 1    |
-| 天蓝色铝制铭牌  |  50mm * 25mm     | 1    |
-| 不锈钢铭牌      |  50mm * 25mm      | 1    |
-| 铝板            | 210mm * 297mm * 0.5mm | 1    |
+| 椴木板          | 210mm × 297mm × 3mm    | 1    |
+| 金色铝制铭牌    | 50mm × 25mm     | 1    |
+| 天蓝色铝制铭牌  |  50mm × 25mm     | 1    |
+| 不锈钢铭牌      |  50mm × 25mm      | 1    |
+| 铝板            | 210mm × 297mm × 0.5mm | 1    |
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/pack.jpg" alt="图片描述" width="300" />
 
