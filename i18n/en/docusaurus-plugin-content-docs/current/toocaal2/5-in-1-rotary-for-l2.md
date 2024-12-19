@@ -16,7 +16,6 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 
 ### Product Specification
 | Product Name | TOOCAA 5-in-1 Rotary for L2 |
-| :--- | :--- |
 | Product Size | 286*88*128 (mm) |
 | Product Weight | Net weight2.0kg |
 | Types of Accessories | Roller Rotary, Chuck Rotary, Sphere Rotary, Ring Rotary, 180° adjustable flip mode |
@@ -184,7 +183,7 @@ If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuratio
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
 ### LightBurn
-**<font style="color:rgb(0, 0, 0);">Notice:**
+**Notice:**
 
 1. Make sure you have purchased, downloaded, and installed a genuine copy of LightBurn.
 2. Before using LightBurn to operate TOOCAA 5-in-1 Rotary for L2, please make sure you have updated the machine firmware through TOOCAA Studio. (To check whether it is the latest firmware, please read this document 《TOOCAA L2 Firmware Version Update Tutorial》:
@@ -195,9 +194,9 @@ If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuratio
 
  [https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc](https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc))
 
-<font style="color:rgb(0, 0, 0);">After the configuration file is downloaded, import it into the built-in SD card of TOOCAA L2. Insert the SD card containing the configuration file into TOOCAA L2 and double-click the button to start the machine.
+After the configuration file is downloaded, import it into the built-in SD card of TOOCAA L2. Insert the SD card containing the configuration file into TOOCAA L2 and double-click the button to start the machine.
 
-<font style="color:rgb(0, 0, 0);">
+
 
 Start LightBurn:
 
