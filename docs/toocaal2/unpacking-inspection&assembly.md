@@ -143,7 +143,7 @@ sidebar_label: 开箱组装
 
 **Step 23/32** 使用M4*10平圆头螺丝，将前挡板型材安装到前挡板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k34.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Unpacking/23.png" alt="图片描述" width="700" />
 
 **Step 24/32** 使用M4*10平圆头螺丝，将提手安装到前挡板上。
 
