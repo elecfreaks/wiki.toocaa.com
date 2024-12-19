@@ -17,6 +17,8 @@ TOOCAA L2 Smart Camera helps you realize all your wonderful ideas with precise a
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E4%B8%BB%E5%9B%BE.jpg" alt="图片描述" width="700" />
 
 ## **Product Specification**
+|  |  |  
+| :---: | :---: | 
 | Module size | 90mm * 40mm * 35mm |
 | Number of pixels               |   5 million pixels (2592px * 1944px) |
 | Resolution          | 150 DPI |
