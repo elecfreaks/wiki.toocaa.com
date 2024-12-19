@@ -57,11 +57,11 @@ Before switching on the power for the first time, please ensure the following po
 ## The step of installing the smoke purifier
 1. Install the smoke purifier ventilation duct.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1.jpg" alt="图片描述" width="700" />
 
 2. Install the ventilation duct onto the TOOCAA L2.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1-%E6%9C%BA%E5%99%A8.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1-%E6%9C%BA%E5%99%A8.jpg" alt="图片描述" width="700" />
 
 # Troubleshooting
 **Make sure the power is switched off before inspecting or repairing!**
