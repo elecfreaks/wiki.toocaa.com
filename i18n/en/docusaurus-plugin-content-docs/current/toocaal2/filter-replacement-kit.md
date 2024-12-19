@@ -11,7 +11,7 @@ Filter replacement kit for TOOCAA L2 smoke purifier is an important component of
 
 Filter replacement kit for TOOCAA L2 smoke purifier is easy to use and has a compact design. It is suitable for various working environments, especially indoor scenes with limited ventilation conditions. It makes the creative process healthier and more comfortable. It is an ideal choice for you to enhance your engraving and cutting experience.
 
-### Product <font style="color:rgb(6, 6, 7);">Specifications
+### Product Specifications
 | Product name | Filter replacement kit for TOOCAA L2 smoke purifier |
 | :---: | :---: |
 | Product size | 395*212*265(mm) |
