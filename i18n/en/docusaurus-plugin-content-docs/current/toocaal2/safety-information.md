@@ -62,9 +62,9 @@ Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pos
 
 ## Safety Label
 | **ICON** | **Warning** | **Location** |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 10W laser module   |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png) | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 20W laser module   |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 40W Laser Module  |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | The laser shoots out from here.    | On a laser module    |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png" alt="图片描述" width="300" /> | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/10w.png" alt="图片描述" width="300" /> | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 10W laser module   |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="300" /> | Laser products are classified as Class IV. Do not expose your eyes and skin to direct or reflected light.    | On a 20W laser module   |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png" alt="图片描述" width="300" /> | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 40W Laser Module  |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="300" /> | The laser shoots out from here.    | On a laser module    |
 
