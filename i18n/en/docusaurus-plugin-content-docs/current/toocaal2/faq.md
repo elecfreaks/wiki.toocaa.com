@@ -69,19 +69,19 @@ Solution steps:
 
 1.Take out the laser module.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Take%20out%20the%20laser%20module.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Take%20out%20the%20laser%20module.jpg" alt="图片描述" width="700" />
 
 2.Remove the outer screw and the tool lock arm.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Remove%20the%20outer%20screw%20and%20the%20tool%20lock%20arm.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Remove%20the%20outer%20screw%20and%20the%20tool%20lock%20arm.jpg" alt="图片描述" width="700" />
 
 3.Adjust the tightness of the screw inside the tool carriage.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
 
-![Tighten clockwise.](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Tighten%20clockwise.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Tighten%20clockwise.png" alt="图片描述" width="700" />
 
-![Loosen counterclockwise.](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Loosen%20counterclockwise.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Loosen%20counterclockwise.png" alt="图片描述" width="700" />
 
 
 
