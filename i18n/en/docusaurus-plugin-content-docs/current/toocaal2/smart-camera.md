@@ -75,9 +75,9 @@ Please read the following camera connection tutorial and connect the camera.
 #### **Camera Model Selection**
 Connect the laser cutter and camera to your computer with a USB cable, start LightBurn, and click the **Calibrate Camera Lens** option.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%A0%A1%E5%87%86%E6%91%84%E5%83%8F%E5%A4%B4%E9%95%9C%E5%A4%B4%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Click%20on%20the%20Calibrate%20Camera%20Lens%20option.png" alt="图片描述" width="700" />
 
-Select the camera model. Select** Fisheye Lens** and **5MP-60**, and click **Next**.
+Select the camera model. Select**Fisheye Lens** and **5MP-60**, and click **Next**.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Q&A：**_ _**5MP-60 means the camera has a resolution of 5 megapixels and can record video at 60 frames per second. Just select the corresponding parameters in LightBurn.**_
 
