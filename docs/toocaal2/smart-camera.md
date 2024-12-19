@@ -67,7 +67,7 @@ sidebar_label: TOOCAA Smart Camera
 #### 摄像头型号选择
 用USB线将激光切割机和摄像头与电脑相连，启动LightBurn，点击**校准摄像头镜头**选项。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%A0%A1%E5%87%86%E6%91%84%E5%83%8F%E5%A4%B4%E9%95%9C%E5%A4%B4%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Click%20on%20the%20Calibrate%20Camera%20Lens%20option.png" alt="图片描述" width="700" />
 
 选择摄像头型号，选择**鱼眼镜头**和**5MP-60**，点击下一步。
 
