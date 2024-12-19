@@ -40,7 +40,7 @@ Remove the magnetic nameplate on the top of the laser cutting machine.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/step2.png)
 
-#### **tep 3**
+#### **Step 3**
 Use the screw fittings to secure the camera to the top of the laser cutter.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note: Please remove the black protective cover on the camera after fixing it.**_
@@ -119,7 +119,7 @@ Use the mouse to mark and confirm the 4 positions on the test image in the order
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%A0%87%E8%AE%B0%E7%A1%AE%E8%AE%A4%E4%BD%8D%E7%BD%AE%E7%82%B9.png" alt="图片描述" width="700" />
 
-![]([http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note: Please ensure to click the mouse accurately at the circle center.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note: Please ensure to click the mouse accurately at the circle center.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%BC%A0%E6%A0%87%E6%94%BE%E5%A4%A7%E8%BF%9B%E8%A1%8C%E4%BD%8D%E7%BD%AE%E7%82%B9%E6%A0%87%E8%AE%B0.png" alt="图片描述" width="700" />
 
