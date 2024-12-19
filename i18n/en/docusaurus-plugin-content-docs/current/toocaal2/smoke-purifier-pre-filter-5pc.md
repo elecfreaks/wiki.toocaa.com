@@ -9,7 +9,7 @@ sidebar_label: TOOCAA Smoke Purifier Pre Filter(5PCS)
 ### Product Description
 TOOCAA L2 smoke purifier pre-filter (5PCS) is an important component of a smoke purifier. It can effectively filter smoke, dust, and odor generated during cutting and engraving. Especially in indoor scenes with limited ventilation conditions, keep your workspace fresh and clean, making the creative process healthier and more comfortable. It is an ideal choice for you to enhance your engraving and cutting experience.
 
-### Product <font style="color:rgb(6, 6, 7);">Specifications
+### Product Specifications
 | Product name | TOOCAA Smoke Purifier Pre-filter(5PCS) |
 | :---: | :---: |
 | Product size | 380*220*110(mm) |
