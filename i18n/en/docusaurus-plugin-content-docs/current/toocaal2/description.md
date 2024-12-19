@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 7
-sidebar_label: TOOCAA L2说明
+sidebar_label: TOOCAA L2 description
 
 ---
 # description
@@ -24,7 +24,7 @@ When the user triggers an alarm condition on the TOOCAA L2, the laser output is 
 | Long 1 beep, short 4 beeps | Flame detected in working area |
 
 
-## <font style="color:rgb(38, 38, 38);">Description of Indicator Light
+## Description of Indicator Light
 | Indicator Color | Indicator Light Meaning |
 | :---: | :---: |
 | Solid Yellow | Initialize |
@@ -36,4 +36,3 @@ When the user triggers an alarm condition on the TOOCAA L2, the laser output is 
 | Solid Yellow | Carving Completed |
 | Red Flashing | Test Mode |
 | Solid Yellow | Initialize |
-
