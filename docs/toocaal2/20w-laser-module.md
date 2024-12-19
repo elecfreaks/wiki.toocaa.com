@@ -11,7 +11,7 @@ sidebar_label: TOOCAA L2 20w激光模组
 TOOCAA L2 20W激光模组适用于TOOCAA L2激光切割机，输出功率为20W，支持100多种材质的切割及雕刻，轻松打造更多创意产品。
 
 ## 产品外观
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="700" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="400" />" 
 
 ## 产品规格
 | **产品型号** | TC-LM20 |
