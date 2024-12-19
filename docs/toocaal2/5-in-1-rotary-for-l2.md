@@ -33,129 +33,127 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 | 配件种类 | 配件适用物体 | 直径范围 | 使用场景 |
 | :---: | :---: | :---: | :---: |
 | 滚筒旋转 | 适用于不规则圆柱体和超长物体 | 5-200(mm) | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92.png" alt="图片描述" width="300" /> |
-| 卡盘旋转 | 适用于具有圆形<br/>或非圆形底座的物体 | 0-140(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%A4%B9%E7%88%AA.jpg) |
-| 球面旋转 | 适用于球类物体 | 25-120(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%90%83%E9%9D%A2.png) |
-| 环形旋转 | 适用于戒指外圈 | 12-100(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%8E%AF%E5%BD%A2.png) |
-| 180°<br/>可调节翻转 | 适用于带柄马克杯等异形斜边圆柱体 | / | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180.png) |
+| 卡盘旋转 | 适用于具有圆形<br/>或非圆形底座的物体 | 0-140(mm) | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%A4%B9%E7%88%AA.jpg" alt="图片描述" width="700" /> |
+| 球面旋转 | 适用于球类物体 | 25-120(mm) | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%90%83%E9%9D%A2.png" alt="图片描述" width="700" /> |
+| 环形旋转 | 适用于戒指外圈 | 12-100(mm) | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%8E%AF%E5%BD%A2.png" alt="图片描述" width="700" /> |
+| 180°<br/>可调节翻转 | 适用于带柄马克杯等异形斜边圆柱体 | / | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180.png" alt="图片描述" width="700" /> |
 
 
 ### 滚筒旋转配件操作教程
 1. 将离合器组件插入旋转配件主体并通过螺丝固定。
 
-![固定离合器组件](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9B%BA%E5%AE%9A%E7%A6%BB%E5%90%88%E5%99%A8%E7%BB%84%E4%BB%B6.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9B%BA%E5%AE%9A%E7%A6%BB%E5%90%88%E5%99%A8%E7%BB%84%E4%BB%B6.jpg" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整接口角度，方便您对齐并正确插入离合器组件。**
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E8%A7%92%E5%BA%A6.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E8%A7%92%E5%BA%A6.jpg" alt="图片描述" width="700" />
 
 2. 通过游标卡尺或者卷尺测量耗材的直径，根据耗材的直径尺寸选用合适的离合器组件连接位。
 
-![滚筒旋转配件适用尺寸类型](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BA%E5%AF%B8%E6%8E%A8%E8%8D%90.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BA%E5%AF%B8%E6%8E%A8%E8%8D%90.png" alt="图片描述" width="700" />
 
 3. 将滚轮组件沿着转台主体底部间隙插入离合器组件内。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整离合器组件内接口角度，方便您对齐并正确插入滚轮组件。**
 
-![滚轮组件插入](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%8F%92%E5%85%A5.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%8F%92%E5%85%A5.jpg" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：正确连接的状态下，滚轮组件尾部螺丝孔应与旋转配件主体螺丝孔完全对齐重合。**
 
-![滚轮组件连接检查](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BF%9E%E6%8E%A5%E6%A3%80%E6%9F%A5.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BF%9E%E6%8E%A5%E6%A3%80%E6%9F%A5.jpg" alt="图片描述" width="700" />
 
 4. 通过螺丝固定滚轮组件。
 
-![滚轮组件固定](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E7%BB%84%E4%BB%B6%E5%9B%BA%E5%AE%9A.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E7%BB%84%E4%BB%B6%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：请在固定后小范围旋转及移动滚轮组件，确保滚轮组件能正常使用。如出现松动说明滚轮组件尚未装好，请拆下滚轮组件后重新校准安装。**
 
-![滚轮组件测试](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%B5%8B%E8%AF%95.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%B5%8B%E8%AF%95.png" alt="图片描述" width="700" />
 
 ### 卡盘旋转配件操作教程
 1. 如图所示，顺时针调整卡盘旋钮为解锁，逆时针调整卡盘旋钮为锁紧，通过调整卡盘旋钮对卡盘进行展开或收缩，方便插入拓展夹爪。
 
-![卡盘旋钮调节](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E8%B0%83%E8%8A%82.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
 
 2. 向下按住卡盘顶部按键后选用合适耗材尺寸的拓展夹爪插入卡盘。
 
-![140mm扩展夹爪连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/140.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/140.png" alt="图片描述" width="700" />
 
-
-
-![110mm扩展夹爪连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
 
 ### 球面旋转配件操作教程
 1. 如图所示，顺时针调整卡盘旋钮为解锁，逆时针调整卡盘旋钮为锁紧，通过调整卡盘旋钮对卡盘进行展开或收缩，方便插入卡盘卡针。
 
-![卡盘旋钮调节](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
 
 2. 向下按住卡盘顶部按键后将卡盘卡针插入合适耗材尺寸的卡盘内。
 
-![卡盘卡针连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%8D%A1%E9%92%88.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%8D%A1%E9%92%88.png" alt="图片描述" width="700" />
 
 3. 将尾托立柱组件沿着转台主体底部间隙插入。
 
-![尾托立柱组件插入](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%9F%B1%E6%8F%92%E5%85%A5.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%9F%B1%E6%8F%92%E5%85%A5.jpg" alt="图片描述" width="700" />
 
 4. 通过螺丝配件将尾托立柱组件固定
 
-![尾托立柱组件固定](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
 ### 环形旋转配件操作教程
 1. 如图所示，顺时针调整卡盘旋钮为解锁，逆时针调整卡盘旋钮为锁紧，通过调整卡盘旋钮对卡盘进行展开或收缩，方便插入卡盘卡针。
 
-![卡盘旋钮调节](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
 
 2. 向下按住卡盘顶部按键后将卡盘卡针插入合适耗材尺寸的卡盘内。
 
-![卡盘卡针连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%8D%A1%E9%92%88.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%8D%A1%E9%92%88.png" alt="图片描述" width="700" />
 
 ### 180°可调节翻转操作教程
 通过侧面旋钮对转台主体进行倾斜角度调节，倾斜角度合适后扭紧旋钮进行固定。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：在对转台主体进行倾斜角度调节前需拆下滚筒组件及离合器组件。**
 
-![180°可调节翻转](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180%E5%8F%AF%E8%B0%83%E8%8A%82.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180%E5%8F%AF%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
 
 ### 尾托组件操作教程
 尾托组件由尾托立柱组件、尾托滑轮支架组件及尾托底板组件构成，可通过如图所示方式进行连接。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
 
-![尾托组件连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="700" />
 
-![尾托组件固定](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
 尾托组件专为尺寸较长的耗材而设计，通过旋钮可对尾托组件支撑轮高度进行调节，通过托起耗材尾部的方式令尺寸较长的耗材保持水平状态，便于高质量完成雕刻切割工作。
 
-![尾托组件调整高度](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%AB%98%E5%BA%A6%E8%B0%83%E6%95%B4.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%AB%98%E5%BA%A6%E8%B0%83%E6%95%B4.png" alt="图片描述" width="700" />
 
 ## 设备连接操作
 1. 将TOOCAA L2脚垫上的黑色硅胶垫拆下，通过垫高柱与脚垫相连，将机器垫高。
 
-![通过垫高柱垫高机器](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9E%AB%E9%AB%98%E6%9C%BA%E5%99%A8.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9E%AB%E9%AB%98%E6%9C%BA%E5%99%A8.png" alt="图片描述" width="700" />
 
 2. 将TOOCAA 5-in-1 Rotary for L2的马达线插头与TOOCAA L2的Z轴插座相连。
 
-![与TOOCAA L2 Z轴连接](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**Q&A:TOOCAA L2的Z轴连接处位于TOOCAA L2机身背面。**
 
-![Z轴连接位位置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D%E7%BD%AE.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D%E7%BD%AE.jpg" alt="图片描述" width="700" />
 
-![Z轴连接位位置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D.jpg" alt="图片描述" width="700" />
 
-![Z轴连接位标识](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E4%BD%8D%E7%BD%AE%E6%A0%87%E8%AF%86.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E4%BD%8D%E7%BD%AE%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" />
 
 ## 对焦操作
 根据耗材种类选择其适用的配件种类，调整TOOCAA 5-in-1 Rotary for L2机身、耗材与TOOCAA L2机器X轴至水平平行状态。
 
-![水平对齐](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B0%B4%E5%B9%B3%E5%AF%B9%E9%BD%90.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B0%B4%E5%B9%B3%E5%AF%B9%E9%BD%90.jpg" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：可通过购买水平仪辅助确认耗材是否处于水平状态。**
 
 调整激光模组对焦杆，使定焦杆的尖端轻触耗材。详细操作请阅读该片文档《在线操作指南》[https://www.yuque.com/elecfreaks-learn/guy1b1/ki121d80cr6i8wpn?singleDoc#](https://www.yuque.com/elecfreaks-learn/guy1b1/ki121d80cr6i8wpn?singleDoc#) 
 
-![对焦调整](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%AF%B9%E7%84%A6%E8%B0%83%E6%95%B4.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%AF%B9%E7%84%A6%E8%B0%83%E6%95%B4.jpg" alt="图片描述" width="700" />
 
 ## 软件操作
 ### TOOCAA 5-in-1 Rotary for L2配置文件下载及校验
@@ -237,14 +235,14 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 ### 2. 为什么向下按住卡盘顶部按键后拓展夹爪/卡盘卡针仍然无法插入
 请调整卡盘旋钮松紧后插入拓展夹爪/卡盘卡针。
 
-![调整卡盘旋钮松紧](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E6%9D%BE%E7%B4%A7.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E6%9D%BE%E7%B4%A7.jpg" alt="图片描述" width="700" />
 
 ### 3. 旋转配件侧面旋钮出现锁死故障 
 如侧面旋钮出现锁死无法转动的情况，请按下图所示沿着顺时针方向转动**旋转配件主体**，微调后即可轻松转动侧面旋钮。
 
-![顺时针方向转动旋转配件主体](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%A1%BA%E6%97%B6%E9%92%88%E6%96%B9%E5%90%91%E8%BD%AC%E5%8A%A8%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E4%B8%BB%E4%BD%93.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%A1%BA%E6%97%B6%E9%92%88%E6%96%B9%E5%90%91%E8%BD%AC%E5%8A%A8%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E4%B8%BB%E4%BD%93.jpg" alt="图片描述" width="700" />
 
-![侧面旋钮解除锁死故障](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E4%BE%A7%E9%9D%A2%E6%97%8B%E9%92%AE%E8%A7%A3%E9%99%A4%E9%94%81%E6%AD%BB%E6%95%85%E9%9A%9C.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E4%BE%A7%E9%9D%A2%E6%97%8B%E9%92%AE%E8%A7%A3%E9%99%A4%E9%94%81%E6%AD%BB%E6%95%85%E9%9A%9C.jpg" alt="图片描述" width="700" />
 
 ### 4.为什么雕刻后图像出现镜像 
 单击模式工具栏中的**旋转设置**进行设置参数的时候，需要取消**镜像输入**设置。
@@ -256,10 +254,10 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 ![Z轴过扫描手动设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%87%E6%89%AB%E6%8F%8F%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE.png)
 
-### **6.如何通过卡盘配件雕刻更大直径（＞140mm）的材料？**
+### 6.如何通过卡盘配件雕刻更大直径（＞140mm）的材料？
 如需雕刻更大直径（>140mm）的材料，建议使用滚筒旋转配件进行雕刻。
 
-### 7.**如何使用游标卡尺？**
+### 7.如何使用游标卡尺？
 如对游标卡尺的读数方式有疑问，请阅读以下教学文档。
 
 [https://en.wikipedia.org/wiki/Vernier_scale](https://en.wikipedia.org/wiki/Vernier_scale)
