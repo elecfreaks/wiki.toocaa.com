@@ -11,18 +11,17 @@ sidebar_label: TOOCAA L2 Unpacking Inspection & Assembly
 ## Consumable Parts Pack list
 | Type | Size | Quantity |
 | :---: | :---: | :---: |
-| Linden Wood Board | 210mm*297mm*3mm  | 1 |
-| Gold Aluminum Nameplate | 50mm*25mm | 1 |
-| Sky Blue Aluminum Nameplate | | 1 |
-| Stainless Steel Nameplate | | 1 |
-| Aluminum Plate | 210mm*297mm*0.5mm | 1 |
+| Linden Wood Board | 210mm * 297mm * 3mm  | 1 |
+| Gold Aluminum Nameplate | 50mm * 25mm | 1 |
+| Sky Blue Aluminum Nameplate | 50mm * 25mm | 1 |
+| Stainless Steel Nameplate | 50mm * 25mm | 1 |
+| Aluminum Plate | 210mm * 297mm * 0.5mm | 1 |
 
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/pack.jpg" alt="图片描述" width="300" />
 
 ## Assembly and Instruction for Operation
 | ![激光模组移动](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/move.png)  | The laser module will move quickly during operation. It is recommended that the laser cutter be placed on a smooth, wide and tidy table. |
-| --- | --- |
 | ![预锁螺丝](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k1.png) | When installing multiple screws at the same time, it is recommended to pre-lock the screws on the outermost corners first, then pre-lock the remaining screws, and finally lock all the screws in order of pre-locking. |
 | ![L型扳手](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k2.png) | When installing screws with the socket key, it is recommended that the screws be screwed into the screw holes with the long handle and then locked with the short handle. To remove the screws, just follow the opposite procedure. |
 | ![整理线材](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k3.png) | Please organize and store cables in a timely manner to prevent them from becoming tangled and knotted or tripping people up. |
