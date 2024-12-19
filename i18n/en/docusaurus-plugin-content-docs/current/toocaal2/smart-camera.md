@@ -18,7 +18,6 @@ TOOCAA L2 Smart Camera helps you realize all your wonderful ideas with precise a
 
 ## **Product Specification**
 | Module size | 90mm * 40mm * 35mm |
-| --- | --- |
 | Number of pixels               |   5 million pixels (2592px * 1944px) |
 | Resolution          | 150 DPI |
 | Max dynamic range | 85 dB |
