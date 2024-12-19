@@ -148,7 +148,8 @@ If the preview position is offset from the actual position, you can adjust the X
 #### **Practical operation and application of camera**
 Place the cutting materials into the laser cutter and click "**Update Overlay**".
 
-In the LightBurn overlay view, you can design the engraving and cutting of the material according to the target position.<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
+In the LightBurn overlay view, you can design the engraving and cutting of the material according to the target position.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note: Each time before using the camera, you need to perform a device connection and a two-step (Camera lens calibration and Camera alignment calibration) camera calibration operation.**_
 
