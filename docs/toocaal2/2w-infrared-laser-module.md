@@ -10,7 +10,7 @@ sidebar_label: TOOCAA L2 2w红外激光模组
 TOOCAA L2 2W红光激光模组适用于TOOCAA L2激光切割机，输出功率为2W，非常适合在各类金属、塑料、亚克力、珠宝、皮革等材料上雕刻。同时这款红外激光模块光斑尺寸为0.03mm*0.03mm，能捕捉创意中的每个细节，确保每个创意都能以无与伦比的精度执行。
 
 ## 产品外观
-![TOOCAA L2 2W 红光激光模组](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg" alt="图片描述" width="700" />" 
 
 # 产品规格
 | **产品型号** | TC-LM2 |
@@ -50,14 +50,14 @@ TOOCAA L2搭配智能防护罩，请按照说明书正确安装并使用智能�
 
 TOOCAA L2 2W红光激光模组上的警告和指示标志都粘贴在操作前或操作中可能造成危险的地方。若标志损坏或丢失，请立即更换，你可以打印下页的图片以获得所需的标志。
 
-![警示标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w%E6%8C%87%E7%A4%BA.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w%E6%8C%87%E7%A4%BA.jpg" alt="图片描述" width="700" />" 
 
 3. **安全标签**
 
 | **标签样式** | **标签含义** | **标签位置** |
 | :---: | :---: | :---: |
-| ![激光等级标签](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在2W红光激光模组上 |
-| ![激光射出标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | 激光从此处射出。 | 在2W红光激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png" alt="图片描述" width="400" />"  | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在2W红光激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="400" />"  | 激光从此处射出。 | 在2W红光激光模组上 |
 
 4. **适配器规格**
 
