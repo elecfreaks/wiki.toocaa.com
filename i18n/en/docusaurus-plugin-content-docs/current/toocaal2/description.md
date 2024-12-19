@@ -6,8 +6,8 @@ sidebar_label: TOOCAA L2 description
 ---
 # description
 ## Description of Components
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E1.jpg" alt="图片描述" width="700" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E2.jpg" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Description%20of%20Components.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E8%B5%84%E6%BA%90%2086%40300x-8%20(1).png" alt="图片描述" width="700" />
 
 ## Description of Alarm
 When the user triggers an alarm condition on the TOOCAA L2, the laser output is automatically switched off.
