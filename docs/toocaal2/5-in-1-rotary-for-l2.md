@@ -151,7 +151,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：可通过购买水平仪辅助确认耗材是否处于水平状态。**
 
-调整激光模组对焦杆，使定焦杆的尖端轻触耗材。详细操作请阅读该片文档《在线操作指南》[https://www.yuque.com/elecfreaks-learn/guy1b1/ki121d80cr6i8wpn?singleDoc#](https://www.yuque.com/elecfreaks-learn/guy1b1/ki121d80cr6i8wpn?singleDoc#) 
+调整激光模组对焦杆，使定焦杆的尖端轻触耗材。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%AF%B9%E7%84%A6%E8%B0%83%E6%95%B4.jpg" alt="图片描述" width="700" />
 
