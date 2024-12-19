@@ -56,7 +56,7 @@ sidebar_label: TOOCAA Smart Camera
 
 
 
-![](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
 
 # 摄像头连接教学
        为了让摄像头能精准辅助激光切割机定位及运作，需进行三项操作，分别是摄像头镜头校准、摄像头对齐校准以及摄像头应用。请阅读以下摄像头连接教学并对摄像头进行连接。
@@ -74,6 +74,8 @@ sidebar_label: TOOCAA Smart Camera
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9%E6%91%84%E5%83%8F%E5%A4%B4%E5%9E%8B%E5%8F%B7%E3%80%81%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%A4%B4%E5%92%8C5MP-60%E5%8F%82%E6%95%B0.png" alt="图片描述" width="700" />
+
+点击Align Camera选项开始摄像头对齐校准。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BBAlign%20Camera%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
 
@@ -141,7 +143,7 @@ sidebar_label: TOOCAA Smart Camera
 将耗材放入激光切割机内，点击**更新覆盖层**_**。**_
 
 在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。
-img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
 
