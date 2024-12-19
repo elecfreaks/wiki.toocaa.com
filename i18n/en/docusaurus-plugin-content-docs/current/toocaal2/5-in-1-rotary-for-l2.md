@@ -202,7 +202,7 @@ Start LightBurn:
 
 Click **Rotary Setup** in the Mode toolbar.
 
-![Click Rotary Setup.](https://cdn.nlark.com/yuque/0/2024/png/47382939/1726884983896-0b46dfaa-8b38-472f-a013-16fb42cb9710.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BB%E6%97%8B%E8%BD%AC%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 Select the type of rotary accessory you want to use (Chuck Rotary or Roller Rotary).
 
