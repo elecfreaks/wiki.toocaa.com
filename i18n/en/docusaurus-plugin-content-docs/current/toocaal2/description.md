@@ -6,7 +6,7 @@ sidebar_label: TOOCAA L2 description
 ---
 # description
 ## Description of Components
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Description%20of%20Components.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Description%20of%20Components.png" alt="图片描述" width="700" /><br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E8%B5%84%E6%BA%90%2086%40300x-8%20(1).png" alt="图片描述" width="700" />
 
 ## Description of Alarm
