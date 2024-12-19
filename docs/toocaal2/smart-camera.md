@@ -81,7 +81,7 @@ sidebar_label: TOOCAA Smart Camera
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS：如误点了其他选项，可通过LightBurn Tools→摄像头对齐校准，开始摄像头对齐校准。**_
 
-![点击摄像头对齐校准]([https://cdn.nlark.com/yuque/0/2024/png/47382939/1723275316055-64825f06-a105-46c4-98a6-92682296ccb6.png](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%91%84%E5%83%8F%E5%A4%B4%E5%AF%B9%E9%BD%90%E6%A0%A1%E5%87%86.png))
+![点击摄像头对齐校准](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%91%84%E5%83%8F%E5%A4%B4%E5%AF%B9%E9%BD%90%E6%A0%A1%E5%87%86.png)
 
 ### 摄像头对齐校准
 #### 连接模式选择
