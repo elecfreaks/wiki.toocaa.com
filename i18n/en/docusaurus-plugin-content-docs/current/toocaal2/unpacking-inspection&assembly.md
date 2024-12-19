@@ -31,8 +31,8 @@ sidebar_label: TOOCAA L2 Unpacking Inspection & Assembly
 ## Assembly Method
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k5.png" alt="图片描述" width="700" />
 
-Get and watch the tutorial video by visiting[https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial](https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial)
-
+Get and watch the tutorial video by visiting
+[https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial](https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial)
 or scanning the QR code.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="400" />
