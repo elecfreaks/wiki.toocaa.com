@@ -20,4 +20,4 @@ sidebar_label: TOOCAA激光模组板扣松紧度调节方式
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A12.png" alt="图片描述" width="700" />" 
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A13.png" alt="图片描述" width="700" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A13.png" alt="图片描述" width="700" />"
