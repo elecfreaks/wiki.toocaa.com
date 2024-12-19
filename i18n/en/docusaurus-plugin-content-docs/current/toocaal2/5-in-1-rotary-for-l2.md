@@ -26,7 +26,7 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 
 
 ### **Unboxing inspection**
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B8%85%E5%8D%95.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B8%85%E5%8D%95.png" alt="图片描述" width="900" />
 
 ### **Applicable object reference**
 We need to use different types of accessories when engraving some large or irregular consumables. The following is a reference for the objects that the 5 types of accessories are suitable for.
