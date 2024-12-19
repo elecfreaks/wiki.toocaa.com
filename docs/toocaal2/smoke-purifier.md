@@ -79,10 +79,10 @@ sidebar_label: TOOCAA烟雾净化器
 ### 安装烟雾净化器
 
 1. **安装通风管**  
-   ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1.jpg" alt="图片描述" width="700" />
 
 2. **将通风管连接到 TOOCAA L2 上**  
-   ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1-%E6%9C%BA%E5%99%A8.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1-%E6%9C%BA%E5%99%A8.jpg" alt="图片描述" width="700" />
 
 ---
 
