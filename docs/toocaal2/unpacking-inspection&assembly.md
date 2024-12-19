@@ -57,10 +57,7 @@ sidebar_label: 开箱组装
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k10.png" alt="图片描述" width="700" />
 
 **Step 5/33** 连接USB信号线，并锁紧螺丝。
-
-:::info
-恭喜你已完成激光雕刻机的安装，接下来我们将进行智能防护罩的安装。
-:::
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/533.png" alt="图片描述" width="700" />
 
 **Step 6/33** 使用M4*55平圆头螺丝，组装后挡板风扇组件。
 
