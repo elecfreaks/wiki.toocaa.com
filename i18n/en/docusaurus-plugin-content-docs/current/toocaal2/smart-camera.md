@@ -5,7 +5,7 @@ sidebar_label: TOOCAA Smart Camera
 
 ---
 # TOOCAA Smart Camera
-## <font style="color:rgb(38, 38, 38);">Product Description</font>
+## Product Description
 TOOCAA L2 Smart Camera helps you realize all your wonderful ideas with precise auxiliary positioning technology. TOOCAA Smart Camera for L2 achieves perfection with precision.
 
 + **【Metal Texture】**The all-metal shell design is durable and luxurious. A combination of design and technology can create something that feels futuristic.
