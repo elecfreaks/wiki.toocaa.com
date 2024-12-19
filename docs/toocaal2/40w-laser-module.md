@@ -11,7 +11,7 @@ sidebar_label: TOOCAA L2 40w激光模组
 TOOCAA L2 40W激光模组适用于TOOCAA L2激光切割机，输出功率为40W，专为强力切割设计，轻松处理大厚度耗材。采用先进的激光压缩技术，0.13mm*0.15mm超大光斑实现与CO2机器相媲美的高功率切割效率。
 
 ## 产品外观
-![TOOCAA L2 40W 激光模组](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w.png" alt="图片描述" width="700" />" 
 
 ## 产品规格
 | **产品型号** | TC-LM40 |
@@ -51,11 +51,11 @@ TOOCAA L2搭配智能防护罩，请按照说明书正确安装并使用智能�
 
 TOOCAA L2 40W激光模组上的警告和指示标志都粘贴在操作前或操作中可能造成危险的地方。若标志损坏或丢失，请立即更换，你可以打印下页的图片以获得所需的标志。
 
-![警示标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w%E6%A0%87%E8%AF%86.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w%E6%A0%87%E8%AF%86.png" alt="图片描述" width="700" />" 
 
 3. **安全标签**
 
 | **标签样式** | **标签含义** | **标签位置** |
 | :---: | --- | :---: |
-| ![激光等级标签](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png) | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在40W激光模组上 |
-| ![激光射出标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | 激光从此处射出。 | 在40W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/40w.png" alt="图片描述" width="400" />"  | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在40W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="400" />"  | 激光从此处射出。 | 在40W激光模组上 |
