@@ -71,13 +71,13 @@ sidebar_label: TOOCAA Smart Camera
 
 选择摄像头型号，选择**鱼眼镜头**和**5MP-60**，点击下一步。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9%E6%91%84%E5%83%8F%E5%A4%B4%E5%9E%8B%E5%8F%B7%E3%80%81%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%A4%B4%E5%92%8C5MP-60%E5%8F%82%E6%95%B0.png" alt="图片描述" width="700" />
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BBAlign%20Camera%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS：如误点了其他选项，可通过LightBurn Tools→摄像头对齐校准，开始摄像头对齐校准。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**TIPS：如误点了其他选项，可通过LightBurn Tools→摄像头对齐校准，开始摄像头对齐校准。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%91%84%E5%83%8F%E5%A4%B4%E5%AF%B9%E9%BD%90%E6%A0%A1%E5%87%86.png" alt="图片描述" width="700" />
 
