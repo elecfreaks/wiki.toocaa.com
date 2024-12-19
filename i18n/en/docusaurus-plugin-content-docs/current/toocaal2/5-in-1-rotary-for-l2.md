@@ -15,6 +15,8 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 + 【Efficient Service】Please contact us if you encounter any problems with the swivel attachment, TOOCAA product experts will provide friendly customer service and professional technical support within 24 hours.
 
 ### Product Specification
+|  |  |  
+| :---: | :---: | 
 | Product Name | TOOCAA 5-in-1 Rotary for L2 |
 | Product Size | 286*88*128 (mm) |
 | Product Weight | Net weight2.0kg |
