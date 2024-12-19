@@ -25,7 +25,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 
 ### 拆箱检查
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B8%85%E5%8D%95.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B8%85%E5%8D%95.png" alt="图片描述" width="900" />
 
 ### 适用物体参考
 当雕刻一些大型或者不规则的耗材时，需要使用一些不同类型的配件种类。以下是各种配件种类的适用物体参考。
