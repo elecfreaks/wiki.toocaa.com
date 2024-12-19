@@ -38,23 +38,23 @@ sidebar_label: 开箱组装
 通过访问 [TOOCAA L2 组装教程](https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial) 或扫描二维码获取和观看教程视频。
 :::
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="500" />
 
 **Step 1/33** 抬起机器，安装脚垫。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k7.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k7.png" alt="图片描述" width="500" />
 
 **Step 2/33** 打开X轴运动组件上的扳扣。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k8.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k8.png" alt="图片描述" width="500" />
 
 **Step 3/33** 安装激光模组。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k9.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k9.png" alt="图片描述" width="500" />
 
 **Step 4/33** 按下扳扣，固定激光模组。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k10.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k10.png" alt="图片描述" width="500" />
 
 **Step 5/33** 连接USB信号线，并锁紧螺丝。
 
@@ -64,7 +64,7 @@ sidebar_label: 开箱组装
 
 **Step 6/33** 使用M4*55平圆头螺丝，组装后挡板风扇组件。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k12.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k12.png" alt="图片描述" width="500" />
 
 :::info
 请注意风扇和风扇防护网的安装方向。
@@ -72,19 +72,19 @@ sidebar_label: 开箱组装
 
 **Step 7/33** 安装后挡板固定型材。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k17.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k17.png" alt="图片描述" width="500" />
 
 **Step 8/33** 使用M4*10平圆头螺丝，锁紧后挡板和后挡板固定型材。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k18.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k18.png" alt="图片描述" width="500" />
 
 **Step 9/33** 使用M4*10平圆头螺丝，将氮气弹簧固定结构件安装在左挡板和右挡板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k19.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k19.png" alt="图片描述" width="500" />
 
 **Step 10/33** 将左挡板和右挡板安装到后挡板固定型材上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k20.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k20.png" alt="图片描述" width="500" />
 
 :::info
 请注意面板的朝向，此时三块面板的补光灯都应处于上方位置。
@@ -92,15 +92,15 @@ sidebar_label: 开箱组装
 
 **Step 11/33** 使用M4*10平圆头螺丝，将左挡板和右挡板安装在后挡板固定型材上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k22.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k22.png" alt="图片描述" width="500" />
 
 **Step 12/33** 连接补光灯控制线。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k23.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k23.png" alt="图片描述" width="500" />
 
 **Step 13/33** 安装固定上盖板型材。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k24.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k24.png" alt="图片描述" width="500" />
 
 :::info
 请注意型材方向，型材的上下两层厚度不同，较厚一层应处于下方位置。请注意固定上盖板的亚克力板的方向，与型材连接位置有凹槽的一面朝下。
@@ -108,82 +108,83 @@ sidebar_label: 开箱组装
 
 **Step 14/33** 使用M4*10平圆头螺丝，锁紧固定上盖板和固定上盖板型材。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k25.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k25.png" alt="图片描述" width="500" />
 
 **Step 15/33** 使用M4*10平圆头螺丝，将前挡板安装到左挡板和右挡板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k26.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k26.png" alt="图片描述" width="500" />
 
 **Step 16/33** 使用M4*10平圆头螺丝，将底板安装到左挡板、右挡板和前挡板上。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k27.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k27.png" alt="图片描述" width="500" />
 
 **Step 17/33** 安装固定旋钮。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k28.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k28.png" alt="图片描述" width="500" />
 
 **Step 18/33** 安装智能防护罩。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k29.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k29.png" alt="图片描述" width="500" />
 
 **Step 19/33** 完成智能防护罩安装。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k30.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k30.png" alt="图片描述" width="500" />
 
 **Step 20/33** 连接主机电源线，按下电源开关。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k31.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k31.png" alt="图片描述" width="500" />
 
 **Step 21/33** 连接USB数据线。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k32.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k32.png" alt="图片描述" width="500" />
 
 **Step 22/33** 连接激光模组信号线。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k33.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k33.png" alt="图片描述" width="500" />
 
 **Step 23/33** 打开智能防护罩。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k34.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k34.png" alt="图片描述" width="500" />
 
 **Step 24/33** 放置材料并进行切割。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k35.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k35.png" alt="图片描述" width="500" />
 
 **Step 25/33** 激光雕刻完成，设备自动停止。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k36.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k36.png" alt="图片描述" width="500" />
 
 **Step 26/33** 完成清理，开始下一个项目。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k37.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k37.png" alt="图片描述" width="500" />
 
 **Step 27/33** 完成机器装配，检查各部件是否安装稳固。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k38.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k38.png" alt="图片描述" width="500" />
 
 **Step 28/33** 校准激光位置，确保雕刻或切割的精度。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k39.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k39.png" alt="图片描述" width="500" />
 
 **Step 29/33** 设置机器参数，选择适合的功率和速度设置。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k40.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k40.png" alt="图片描述" width="500" />
 
 **Step 30/33** 启动切割或雕刻，观察过程中是否正常运行。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k41.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k41.png" alt="图片描述" width="500" />
 
 **Step 31/33** 完成任务后，关闭机器并切断电源。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k42.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k42.png" alt="图片描述" width="500" />
+
 **Step 32/33** 对设备进行日常维护，清理工作台和激光模组。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k43.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k43.png" alt="图片描述" width="500" />
 
 **Step 33/33** 保存工作文件，准备下次使用。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k44.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k44.png" alt="图片描述" width="500" />
 
 ## 维护和保养
 
