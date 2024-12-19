@@ -9,7 +9,7 @@ sidebar_label: TOOCAA L2 20W Laser Module
 TOOCAA L2 20W laser module is suitable for TOOCAA L2 laser cutting machine, with an output power of 20W. It supports cutting and engraving of more than 100 materials, making it easy to create more creative products.
 
 ## Product Design
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="400" /> 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="300" /> 
 
 ## Product Specifications
 | Product Model | TC-LM20 |
