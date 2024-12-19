@@ -23,18 +23,18 @@ In short, the TOOCAA L2 is the ideal choice for you with its exquisite design, e
 ## Specification
 |  | Model | 10W | 20W |
 | :---: | :---: | :---: | :---: |
-| Machine Body | Machine Size | 645×617×306 mm<br/>(25.35×24.29×12.05 inches) | |
-| | Work Area | 415×395 mm(16.34×15.55 inches) | |
-| | Position Accuracy  | 0.01 mm | |
-| | Re-Positioning Accuracy | 0.02 mm | |
-| | Maximum Engraving Speed | 400 mm/s | |
-| | Extended Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis Interface | |
-| | Protection | Flame detection, body tilt detection, smart enclosure safety interlock, USB key switch and extendable emergency stop switch. | |
-| | Laser Class | Class 1 | |
-| | Materials | Aluminum + Acrylic | |
-| | GW | 19 kg | |
-| | NW | 17 kg | |
-| | Packing Size | 720mm × 705mm × 248mm | |
+| Machine Body | Machine Size | 645×617×306 mm<br/>(25.35×24.29×12.05 inches) | 645×617×306 mm<br/>(25.35×24.29×12.05 inches) |
+| | Work Area | 415×395 mm(16.34×15.55 inches) | 415×395 mm(16.34×15.55 inches) |
+| | Position Accuracy  | 0.01 mm | 0.01 mm |
+| | Re-Positioning Accuracy | 0.02 mm | 0.02 mm |
+| | Maximum Engraving Speed | 400 mm/s | 400 mm/s |
+| | Extended Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis Interface |
+| | Protection | Flame detection, body tilt detection, smart enclosure safety interlock, USB key switch and extendable emergency stop switch. | Flame detection, body tilt detection, smart enclosure safety interlock, USB key switch and extendable emergency stop switch. |
+| | Laser Class | Class 1 | Class 1 |
+| | Materials | Aluminum + Acrylic | Aluminum + Acrylic |
+| | GW | 19 kg | 19 kg |
+| | NW | 17 kg | 17 kg |
+| | Packing Size | 720mm × 705mm × 248mm | 720mm × 705mm × 248mm |
 | | Input Voltage | 100-240V 50-60HZ | 100-240V 50-60HZ |
 | | Power | 72W | 108W |
 | | Maximum Thickness of One-pass Cutting (basswood boards) | 6 mm | 10 mm |
@@ -42,12 +42,12 @@ In short, the TOOCAA L2 is the ideal choice for you with its exquisite design, e
 | | Laser Power | 10W | 20W |
 | | Input Voltage | 24V | 24V |
 | | Spot Size | 0.08×0.18 mm | 0.15×0.27 mm |
-| Supported Materials | Engraving Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | |
-|  | Cutting Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabric, canvas, corrugated paper, cardboard, plastic, dark acrylic (except blue)  | |
-| Software  | Support Software | LightBurn，LaserGRBL，TOOCAA Studio | |
-| | Support Operation System  | Windows，MacOS | |
-| | Support Transporting Methods | TF Card, Type-C | |
-| Certification Information | Certificates | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDoC, prop 65, TSCA, FDA Registration | |
+| Supported Materials | Engraving Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) |
+|  | Cutting Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabric, canvas, corrugated paper, cardboard, plastic, dark acrylic (except blue)  | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabric, canvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) |
+| Software  | Support Software | LightBurn，LaserGRBL，TOOCAA Studio | LightBurn，LaserGRBL，TOOCAA Studio |
+| | Support Operation System  | Windows，MacOS | Windows，MacO |
+| | Support Transporting Methods | TF Card, Type-C | TF Card, Type-C |
+| Certification Information | Certificates | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDoC, prop 65, TSCA, FDA Registration | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDoC, prop 65, TSCA, FDA Registratio |
 | Adapter | Input | 100-240V~50/60Hz 1.5A | 100-240V~50/60Hz 3.5A |
 | | Output | 24V ⎓ 3.0A 72.0W | 24.0V ⎓ 5.0A 120.0W |
 
