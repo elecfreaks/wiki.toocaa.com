@@ -10,7 +10,7 @@ sidebar_label: TOOCAA L2 2w红外激光模组
 TOOCAA L2 2W红光激光模组适用于TOOCAA L2激光切割机，输出功率为2W，非常适合在各类金属、塑料、亚克力、珠宝、皮革等材料上雕刻。同时这款红外激光模块光斑尺寸为0.03mm*0.03mm，能捕捉创意中的每个细节，确保每个创意都能以无与伦比的精度执行。
 
 ## 产品外观
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg" alt="图片描述" width="700" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg" alt="图片描述" width="400" />" 
 
 # 产品规格
 | **产品型号** | TC-LM2 |
