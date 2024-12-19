@@ -11,7 +11,7 @@ sidebar_label: TOOCAA L2 10w激光模组
 TOOCAA L2 10W激光模组适用于TOOCAA L2激光切割机，输出功率为10W，支持100多种材质的切割及雕刻，轻松打造更多创意产品。
 
 # 产品外观
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/10w.jpg" alt="图片描述" width="400" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/10w.jpg" alt="图片描述" width="400" /> 
 
 # 产品规格
 | **产品型号** | TC-LM10 |
@@ -50,7 +50,7 @@ TOOCAA L2搭配智能防护罩，请按照说明书正确安装并使用智能�
 
 TOOCAA L2 10W激光模组上的警告和指示标志都粘贴在操作前或操作中可能造成危险的地方。若标志损坏或丢失，请立即更换，你可以打印下页的图片以获得所需的标志。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/10w%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" />" 
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/10w%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" /> 
 
 3. **安全标签**
 
