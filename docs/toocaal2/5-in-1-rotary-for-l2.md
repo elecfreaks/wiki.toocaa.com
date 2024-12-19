@@ -119,9 +119,9 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="400" />
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="400" />
 
 尾托组件专为尺寸较长的耗材而设计，通过旋钮可对尾托组件支撑轮高度进行调节，通过托起耗材尾部的方式令尺寸较长的耗材保持水平状态，便于高质量完成雕刻切割工作。
 
