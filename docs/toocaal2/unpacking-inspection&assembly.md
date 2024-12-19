@@ -38,7 +38,7 @@ sidebar_label: 开箱组装
 通过访问 [TOOCAA L2 组装教程](https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial) 或扫描二维码获取和观看教程视频。
 :::
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k6.png" alt="图片描述" width="400" />
 
 **Step 1/33** 抬起机器，安装脚垫。
 
