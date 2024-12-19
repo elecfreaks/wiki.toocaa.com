@@ -72,7 +72,7 @@ TOOCAA L2 2W Infrared Laser Module adapter needs to be self-assembled, and the a
 
 | Adapter | Input power | 100-240V~50/60Hz 3.5A |
 | :---: | :---: | :---: |
-| | Output power | 24.0V ⎓ 5.0A 120.0W |
+| Adapter | Output power | 24.0V ⎓ 5.0A 120.0W |
 
 
 Since the adapter output power is backward compatible, users can choose the TOOCAA official 20W laser module adapter or 40W laser module adapter for connection.
