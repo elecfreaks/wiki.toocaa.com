@@ -32,7 +32,7 @@ sidebar_label: 开箱组装
 ![预锁提示](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png) 预锁：将螺丝拧入螺丝孔内，但不彻底锁紧。
 
 ## 组装方法
-![组装步骤1](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k5.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k5.png" alt="图片描述" width="300" />
 
 :::info
 通过访问 [TOOCAA L2 组装教程](https://www.toocaa.com/blogs/user-guide/basic-user-guide-toocaa-l2-machine-assembly-tutorial) 或扫描二维码获取和观看教程视频。
