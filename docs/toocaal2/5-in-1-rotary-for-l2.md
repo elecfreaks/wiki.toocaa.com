@@ -32,7 +32,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 | 配件种类 | 配件适用物体 | 直径范围 | 使用场景 |
 | :---: | :---: | :---: | :---: |
-| 滚筒旋转 | 适用于不规则圆柱体和超长物体 | 5-200(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92.png) |
+| 滚筒旋转 | 适用于不规则圆柱体和超长物体 | 5-200(mm) | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92.png" alt="图片描述" width="300" /> |
 | 卡盘旋转 | 适用于具有圆形<br/>或非圆形底座的物体 | 0-140(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%A4%B9%E7%88%AA.jpg) |
 | 球面旋转 | 适用于球类物体 | 25-120(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%90%83%E9%9D%A2.png) |
 | 环形旋转 | 适用于戒指外圈 | 12-100(mm) | ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%8E%AF%E5%BD%A2.png) |
