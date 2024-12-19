@@ -152,7 +152,7 @@ Select the appropriate accessories according to the type of cutting/engraving ma
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/28222438/1698200013046-8e0b66ab-818c-4d0a-bdaa-d6357655291a.png)_**TIPS**_**：**_**You can purchase a level to help confirm whether the cutting/engraving material is in a horizontal state.**_
 
-Adjust the laser module focus lever so that the tip of the focus lever touches the cutting/engraving material. For detailed operations, please read the document 《Online Operation Guide》[https://www.toocaa.com/blogs/user-guide/online-operation-guide-for-toocaa-l2](https://www.toocaa.com/blogs/user-guide/online-operation-guide-for-toocaa-l2)
+Adjust the laser module focus lever so that the tip of the focus lever touches the cutting/engraving material. 
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%AF%B9%E7%84%A6%E8%B0%83%E6%95%B4.jpg" alt="图片描述" width="700" />
 
