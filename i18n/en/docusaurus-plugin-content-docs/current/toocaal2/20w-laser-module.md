@@ -9,7 +9,7 @@ sidebar_label: TOOCAA L2 20W Laser Module
 TOOCAA L2 20W laser module is suitable for TOOCAA L2 laser cutting machine, with an output power of 20W. It supports cutting and engraving of more than 100 materials, making it easy to create more creative products.
 
 ## Product Design
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="400" /> 
 
 ## Product Specifications
 | Product Model | TC-LM20 |
@@ -52,14 +52,14 @@ TOOCAA L2 is equipped with a smart protective cover. Please follow the instructi
 
 The signs of warning and instruction on TOOCAA L2 are affixed to places that may cause danger before or during operation. If the icon is damaged or missing, please replace it immediately. You can print the image on the next page to get it.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w%E6%A0%87%E8%AF%86.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" /> 
 
 3. Safety icon
 
 | Icon | Meaning | Location |
 | :---: | --- | :---: |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light<br/> | On a 20W laser module<br/> |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | The laser is emitted from here. | On a 20W laser module |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="300" /> | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light<br/> | On a 20W laser module<br/> |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="300" /> | The laser is emitted from here. | On a 20W laser module |
 
 
 # TOOCAA L2 20W engraving recommended parameters
