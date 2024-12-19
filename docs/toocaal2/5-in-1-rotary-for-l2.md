@@ -15,7 +15,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 | 产品名 | TOOCAA 5-in-1 Rotary for L2 |
 | :---: | :---: |
-| 产品尺寸 | 286 * 88 * 128 (mm) |
+| 产品尺寸 | 286 × 88 × 128 (mm) |
 | 产品重量 | 净重2.0kg |
 | 配件种类 | 滚筒旋转、卡盘旋转、球面旋转、环形旋转、180°可调节翻转模式 |
 | 雕刻直径范围 | 滚筒旋转：5-200(mm)<br/>卡盘旋转：0-140(mm)<br/>球面旋转：25-120(mm)<br/>环形旋转：12-100(mm) |
@@ -78,7 +78,6 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 2. 向下按住卡盘顶部按键后选用合适耗材尺寸的拓展夹爪插入卡盘。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/140.png" alt="图片描述" width="700" />
-
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
 
 ### 球面旋转配件操作教程
@@ -117,9 +116,9 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 ### 尾托组件操作教程
 尾托组件由尾托立柱组件、尾托滑轮支架组件及尾托底板组件构成，可通过如图所示方式进行连接。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
-
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="400" />
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="400" />
 
@@ -158,9 +157,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 ## 软件操作
 ### TOOCAA 5-in-1 Rotary for L2配置文件下载及校验
 1. 请点击下方链接进行配置文件下载。
-
-配置文件下载链接：
-
+   配置文件下载链接：
 [https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc](https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc)
 
 2. 在配置文件下载完成后将其导入TOOCAA L2内置SD卡内，随后插入TOOCAA L2，单击按钮令激光模块归位后双击按钮启动机器即可完成配置文件设置。
@@ -210,7 +207,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 无论您的旋转配件模式是**滚筒式**还是**卡盘式**，旋转轴均选择**Z轴**。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E8%BD%B4%E9%80%89%E6%8B%A9Z%E8%BD%B4.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E8%BD%B4%E9%80%89%E6%8B%A9Z%E8%BD%B4.png" alt="图片描述" width="400" />
 
 点击**OK**按钮完成旋转配件设置。
 
