@@ -169,62 +169,62 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 3. 通过LightBurn连接机器，在**编辑**处点击**机器设置。**
 
-![机器设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%9C%BA%E5%99%A8%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%9C%BA%E5%99%A8%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 选择**输出设置**。
 
-![输出设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BE%93%E5%87%BA%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BE%93%E5%87%BA%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 若**Z Steps per mm($102)**后缀显示为**100.000**即为文件配置完成，TOOCAA 5-in-1 Rotary for L2可开始正常运作。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**注意：若Z Steps per mm($102)后缀显示不为100.000，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：support@elecfreaks.com），我们会尽快为您解决。**
 
-![Z Steps per mm($102)后缀显示为100.000](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
 ### LightBurn
 启动LightBurn。
 
 单击模式工具栏中的**旋转设置。**
 
-![点击旋转设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BB%E6%97%8B%E8%BD%AC%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BB%E6%97%8B%E8%BD%AC%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 选择您当前需要使用的旋转配件模式（**卡盘式**或**滚筒式**）。 
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**注意：除滚筒旋转配件选择滚筒式以外，卡盘旋转配件、球面旋转配件、环形旋转配件及180°可调节翻转模式均选择卡盘式。**
 
-![选择旋转配件种类](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E7%A7%8D%E7%B1%BB.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E7%A7%8D%E7%B1%BB.png" alt="图片描述" width="700" />
 
 如果是**滚筒式**旋转配件模式，请将**每转步数值**设置为**32.00**毫米，将**滚轮直径值**设置为**16.00**毫米。
 
-![滚筒式旋转配件模式需设置每转步数值及滚轮直径值](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E5%BC%8F%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E6%A8%A1%E5%BC%8F%E9%9C%80%E8%AE%BE%E7%BD%AE%E6%AF%8F%E8%BD%AC%E6%AD%A5%E6%95%B0%E5%80%BC%E5%8F%8A%E6%BB%9A%E8%BD%AE%E7%9B%B4%E5%BE%84%E5%80%BC.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E5%BC%8F%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E6%A8%A1%E5%BC%8F%E9%9C%80%E8%AE%BE%E7%BD%AE%E6%AF%8F%E8%BD%AC%E6%AD%A5%E6%95%B0%E5%80%BC%E5%8F%8A%E6%BB%9A%E8%BD%AE%E7%9B%B4%E5%BE%84%E5%80%BC.png" alt="图片描述" width="700" />
 
 如果是**卡盘式**旋转配件模式，请将**每转步数值**设置为**160.00**毫米。
 
-![卡盘式旋转配件模式需设置每转步数值](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%BC%8F%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E6%A8%A1%E5%BC%8F%E9%9C%80%E8%AE%BE%E7%BD%AE%E6%AF%8F%E8%BD%AC%E6%AD%A5%E6%95%B0%E5%80%BC.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%BC%8F%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E6%A8%A1%E5%BC%8F%E9%9C%80%E8%AE%BE%E7%BD%AE%E6%AF%8F%E8%BD%AC%E6%AD%A5%E6%95%B0%E5%80%BC.png" alt="图片描述" width="700" />
 
 请仔细测量并输入旋转配件上物品的**物体直径**。每次在旋转配件上放置不同直径的物体时，都必须更新此值。如果不准确，雕刻结果将出现扭曲或断开等不良情况。
 
-![卡盘旋转模式下输入物体直径](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E6%97%8B%E8%BD%AC%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BE%93%E5%85%A5%E7%89%A9%E4%BD%93%E7%9B%B4%E5%BE%84.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E6%97%8B%E8%BD%AC%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BE%93%E5%85%A5%E7%89%A9%E4%BD%93%E7%9B%B4%E5%BE%84.png" alt="图片描述" width="700" />
 
-![滚筒旋转模式下输入物体直径](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E6%97%8B%E8%BD%AC%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BE%93%E5%85%A5%E7%89%A9%E4%BD%93%E7%9B%B4%E5%BE%84.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E6%97%8B%E8%BD%AC%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BE%93%E5%85%A5%E7%89%A9%E4%BD%93%E7%9B%B4%E5%BE%84.png" alt="图片描述" width="700" />
 
 无论您的旋转配件模式是**滚筒式**还是**卡盘式**，旋转轴均选择**Z轴**。
 
-![旋转轴选择Z轴](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E8%BD%B4%E9%80%89%E6%8B%A9Z%E8%BD%B4.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E8%BD%B4%E9%80%89%E6%8B%A9Z%E8%BD%B4.png" alt="图片描述" width="700" />
 
 点击**OK**按钮完成旋转配件设置。
 
-![点击ok](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BBok.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BBok.png" alt="图片描述" width="700" />
 
 将激光模组开始位置设置为**当前位置。**
 
-![开始位置设置为当前位置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E4%BD%8D%E7%BD%AE%E8%AE%BE%E7%BD%AE%E4%B8%BA%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E4%BD%8D%E7%BD%AE%E8%AE%BE%E7%BD%AE%E4%B8%BA%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE.png" alt="图片描述" width="700" />
 
 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)**注意：滚筒式旋转配件模式下，极限工作速度设置为6000mm/min；卡盘式旋转配件模式下，极限工作速度设置为12000mm/min。请基于您所选的材质酌情减少雕刻速度。**
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 
 ## 常见问题解答
 ### 1.旋转配件出现不旋转或旋转不规律的故障 
@@ -247,12 +247,12 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 ### 4.为什么雕刻后图像出现镜像 
 单击模式工具栏中的**旋转设置**进行设置参数的时候，需要取消**镜像输入**设置。
 
-![取消镜像输入设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8F%96%E6%B6%88%E9%95%9C%E5%83%8F%E8%BE%93%E5%85%A5%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8F%96%E6%B6%88%E9%95%9C%E5%83%8F%E8%BE%93%E5%85%A5%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 ### 5.雕刻图像顶部或底部不完整
 请手动设置Z轴过扫描。设置方法：在LightBurn中画一个略大于雕刻图像的矩形框，选择功率为0后再进行图像雕刻即可。
 
-![Z轴过扫描手动设置](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%87%E6%89%AB%E6%8F%8F%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%87%E6%89%AB%E6%8F%8F%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
 ### 6.如何通过卡盘配件雕刻更大直径（＞140mm）的材料？
 如需雕刻更大直径（>140mm）的材料，建议使用滚筒旋转配件进行雕刻。
