@@ -16,6 +16,8 @@ sidebar_label: TOOCAA Smart Camera
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E4%B8%BB%E5%9B%BE.jpg" alt="图片描述" width="700" />
 
 ## 产品规格
+|  |  |  
+| :---: | :---: | 
 | 模组尺寸 | 90mm * 40mm * 35mm |
 | 像素数量 | 500万像素（2592px * 1944px） |
 | 分辨率 | 150 DPI |
