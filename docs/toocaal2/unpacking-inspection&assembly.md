@@ -22,11 +22,13 @@ sidebar_label: 开箱组装
 
 ## 组装须知
 
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/move.png) | 激光模组在工作过程中会快速移动，建议将激光切割机放置在平稳、宽大、整洁的桌面上。 |<br/>
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k1.png) | 同时安装多颗螺丝时，建议先预锁最外侧边角的螺丝，然后预锁剩余螺丝，最后再按照预锁顺序依次锁紧所有螺丝。 |<br/>
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k2.png) | 使用 L 型扳手安装螺丝时，建议先用长柄将螺丝拧入螺丝孔中，再用短柄进行锁紧。拆卸螺丝时，按照相反的步骤操作即可。 |<br/>
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k3.png) | 请及时整理、收纳线材，防止线材缠绕打结或将人绊倒。 |<br/>
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k4.png) | 机器通电后，若无特殊说明，切勿插、拔任何连接线。 |<br/>
+|  |  |  
+| :---: | :---: | 
+| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/move.png) | 激光模组在工作过程中会快速移动，建议将激光切割机放置在平稳、宽大、整洁的桌面上。|
+| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k1.png) | 同时安装多颗螺丝时，建议先预锁最外侧边角的螺丝，然后预锁剩余螺丝，最后再按照预锁顺序依次锁紧所有螺丝。|
+| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k2.png) | 使用 L 型扳手安装螺丝时，建议先用长柄将螺丝拧入螺丝孔中，再用短柄进行锁紧。拆卸螺丝时，按照相反的步骤操作即可。|
+| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k3.png) | 请及时整理、收纳线材，防止线材缠绕打结或将人绊倒。|
+| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/k4.png) | 机器通电后，若无特殊说明，切勿插、拔任何连接线。|
 
 ![预锁提示](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png) 预锁：将螺丝拧入螺丝孔内，但不彻底锁紧。
 
