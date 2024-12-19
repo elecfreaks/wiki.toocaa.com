@@ -7,9 +7,9 @@ sidebar_label: TOOCAA L2说明
 # 产品说明
 
 ## 各部件说明
-![部件说明1](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E1.jpg)
-
-![部件说明2](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E2.jpg) ![部件说明3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E3.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E1.jpg" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E2.jpg" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%90%84%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E3.png" alt="图片描述" width="300" />
 
 ## 报警说明
 当不器 L2触发报警状态时，会自动关闭激光输出。
