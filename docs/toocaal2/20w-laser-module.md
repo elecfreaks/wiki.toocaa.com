@@ -11,7 +11,7 @@ sidebar_label: TOOCAA L2 20w激光模组
 TOOCAA L2 20W激光模组适用于TOOCAA L2激光切割机，输出功率为20W，支持100多种材质的切割及雕刻，轻松打造更多创意产品。
 
 ## 产品外观
-![TOOCAA L2 20W 激光模组](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w.jpg" alt="图片描述" width="700" />" 
 
 ## 产品规格
 | **产品型号** | TC-LM20 |
@@ -50,14 +50,14 @@ TOOCAA L2搭配智能防护罩，请按照说明书正确安装并使用智能�
 
 TOOCAA L2 20W激光模组上的警告和指示标志都粘贴在操作前或操作中可能造成危险的地方。若标志损坏或丢失，请立即更换，你可以打印下页的图片以获得所需的标志。
 
-![警示标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w%E6%A0%87%E8%AF%86.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/20w%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" />" 
 
 3. **安全标签**
 
 | **标签样式** | **标签含义** | **标签位置** |
 | :---: | --- | :---: |
-| ![激光等级标签](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png) | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在20W激光模组上 |
-| ![激光射出标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | 激光从此处射出。 | 在20W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="400" />"  | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在20W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="400" />"  | 激光从此处射出。 | 在20W激光模组上 |
 
 ## TOOCAA L2 20W雕刻推荐参数
 
