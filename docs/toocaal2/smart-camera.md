@@ -53,7 +53,8 @@ sidebar_label: TOOCAA Smart Camera
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/step4.png)
 
 #### 第五步
-将摄像头的USB线连接到电脑上，打开LightBurn并按照以下教程完成连接操作，即可开始正常使用![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/step5.png)
+将摄像头的USB线连接到电脑上，打开LightBurn并按照以下教程完成连接操作，即可开始正常使用。
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/step5.png)
 
 
 
@@ -142,7 +143,8 @@ sidebar_label: TOOCAA Smart Camera
 #### 摄像头实操应用
 将耗材放入激光切割机内，点击**更新覆盖层**_**。**_
 
-在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
+在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
 
