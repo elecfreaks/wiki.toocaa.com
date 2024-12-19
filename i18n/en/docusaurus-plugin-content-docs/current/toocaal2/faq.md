@@ -48,7 +48,8 @@ warning
 + Open **Control Panel**
 + Click "**Hardware and Sound**"
 + Click **Power Options**
-+ Under "Preferred Plans"， click Change plan settings for the active power plan.![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Q%26A1.png)
++ Under "Preferred Plans"， click Change plan settings for the active power plan.<br/>
+  ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Q%26A1.png)
 + Click **Change advanced power settings**
 + Open **USB Settings**
 + Open the **USB Selective Suspend setting** and select **Disabled** from the drop-down window.
