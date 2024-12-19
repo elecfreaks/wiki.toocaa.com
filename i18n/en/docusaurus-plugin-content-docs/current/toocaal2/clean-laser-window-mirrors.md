@@ -24,10 +24,7 @@ sidebar_label: Clean Laser Window Mirrors
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E7%AA%97%E5%8F%A3%E9%95%9C%E6%B8%85%E6%B4%97/C3.png)
 
 **Step 4/4** Clean the inner and outer frames of the hood with paper towels or dust-free cloths 
-
-dampened with alcohol; and clean the lenses and red-light outlets with detergent using cotton 
-
-swabs dampened with alcohol.![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E7%AA%97%E5%8F%A3%E9%95%9C%E6%B8%85%E6%B4%97/C4.png)
+dampened with alcohol; and clean the lenses and red-light outlets with detergent using cotton swabs dampened with alcohol.![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E7%AA%97%E5%8F%A3%E9%95%9C%E6%B8%85%E6%B4%97/C4.png)
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)If the laser window mirror has burn marks and there is no way to erase it, you need to replace it with a new window mirror. We have configured an additional window mirror for you and placed it in the accessory box. You can use the new window mirror to replace the damaged window mirror. If you need to purchase a window mirror later, please visit the TOOCAA official website or scan the official website QR code to view and purchase it.
 
