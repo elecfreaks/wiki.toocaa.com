@@ -56,8 +56,8 @@ TOOCAA L2 20W激光模组上的警告和指示标志都粘贴在操作前或操�
 
 | **标签样式** | **标签含义** | **标签位置** |
 | :---: | --- | :---: |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="400" />"  | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在20W激光模组上 |
-| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="400" />"  | 激光从此处射出。 | 在20W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/20w.png" alt="图片描述" width="300" />"  | 激光产品等级为四级。切勿将眼睛与皮肤暴露在直射光或反射光中。 | 在20W激光模组上 |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="300" />"  | 激光从此处射出。 | 在20W激光模组上 |
 
 ## TOOCAA L2 20W雕刻推荐参数
 
