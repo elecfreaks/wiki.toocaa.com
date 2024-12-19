@@ -12,10 +12,10 @@ TOOCAA L2 smoke purifier pre-filter (5PCS) is an important component of a smoke 
 ### Product Specifications
 | Product name | TOOCAA Smoke Purifier Pre-filter(5PCS) |
 | :---: | :---: |
-| Product size | 380*220*110(mm) |
-| Single-piece smoke purifier pre-filter size | 365*175*25(mm) |
+| Product size | 380 * 220 * 110(mm) |
+| Single-piece smoke purifier pre-filter size | 365 * 175 * 25(mm) |
 | Product weight | Gross weight 0.55kg |
-| Type of accessories | Pre filter*5 |
+| Type of accessories | Pre filter * 5 |
 | Replacement cycle | 7-14 day |
 | Compatible machines | TOOCAA smoke purifier |
 
