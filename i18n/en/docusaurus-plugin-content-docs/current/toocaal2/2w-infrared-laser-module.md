@@ -9,7 +9,7 @@ sidebar_label: TOOCAA L2 2W Infrared Laser Module
 TOOCAA L2 2W infrared laser module is suitable for the TOOCAA L2 laser cutting machine. It has an output power of 2W and is very suitable for engraving on various metals, plastics, acrylic, jewelry, leather, and other materials. The spot size of this infrared laser module is 0.03mm*0.03mm, which can capture every detail in the creation and ensure that each work can be performed with unparalleled precision.
 
 ## Product Design
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg" alt="图片描述" width="400" /> 
 
 ## **Product Specifications**
 | Product Model | TC-LM2 |
@@ -56,14 +56,14 @@ TOOCAA L2 is equipped with a smart protective cover. Please follow the instructi
 
 The signs of warning and instruction on the TOOCAA L2 2W Infrared Laser Module are affixed to places that may cause danger before or during operation. If the icon is damaged or missing, please replace it immediately. You can print the image on the next page to get it.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w%E6%8C%87%E7%A4%BA.jpg)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w%E6%8C%87%E7%A4%BA.jpg" alt="图片描述" width="700" />
 
 3. Safety icon
 
 | Icon | Meaning | Location |
 | :---: | :---: | :---: |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png) | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module |
-| ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png) | The laser is emitted from here. | On a 2W Infrared Laser Module |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/2w.png" alt="图片描述" width="300" /> | The laser product grade is Class IV. Avoid eyes and skin to direct or scattered light.<br/> | On a 2W Infrared Laser Module |
+| <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/biu.png" alt="图片描述" width="300" /> | The laser is emitted from here. | On a 2W Infrared Laser Module |
 
 
 4. Adapter specifications
