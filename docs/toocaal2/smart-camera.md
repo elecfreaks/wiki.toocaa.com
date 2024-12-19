@@ -82,12 +82,12 @@ sidebar_label: TOOCAA Smart Camera
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%91%84%E5%83%8F%E5%A4%B4%E5%AF%B9%E9%BD%90%E6%A0%A1%E5%87%86.png" alt="图片描述" width="700" />
 
 ## 摄像头对齐校准
-#### 连接模式选择
+### 连接模式选择
 连接模式选择摄像头位于激光切割机顶部模式（左1选项）。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%BF%9E%E6%8E%A5%E6%A8%A1%E5%BC%8F%E9%80%89%E6%8B%A9.png" alt="图片描述" width="700" />
 
-#### 测试图像生成
+### 测试图像生成
 准备一张**400*400**的纸或其他材料用于**测试图像生成**。将材料平铺于激光切割机底部，根据所选材料厚度进行对应的参数调整，选择合适材料的雕刻参数后进行**走边框**操作，随后点击开始雕刻测试图像。测试图像雕刻完成后点击下一步。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意：如图所示参数仅供参考，请根据实际测试材料的材质及厚度进行对应的参数设置！**_
@@ -98,7 +98,7 @@ sidebar_label: TOOCAA Smart Camera
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%A6%82%E5%A4%8D%E4%BD%8D%E5%90%8E%E4%BB%8D%E5%87%BA%E7%8E%B0%E8%AD%A6%E6%8A%A5%E5%A3%B0%EF%BC%8C%E5%8F%AF%E9%80%82%E5%BD%93%E8%B0%83%E5%B0%8F%E6%AF%94%E4%BE%8B.png" alt="图片描述" width="700" />
 
-#### 图像位置捕获与标记
+### 图像位置捕获与标记
 对生成的测试图像进行**图像捕获**，捕获完成后进行下一步。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**注意:捕获后图像应与预览视角一样。如果图像捕获后为鱼眼视角，请回到镜头校准步骤重新进行镜头校准。**_
@@ -120,7 +120,7 @@ sidebar_label: TOOCAA Smart Camera
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E5%AE%8C%E6%88%90.png" alt="图片描述" width="700" />
 
 ## 摄像头应用
-#### 摄像头控制窗口覆盖层预览
+### 摄像头控制窗口覆盖层预览
 点击**窗口→摄像头控制**，打开摄像头控制窗口。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A7%E5%88%B6%E7%AA%97%E5%8F%A3.png" alt="图片描述" width="700" />
@@ -137,7 +137,7 @@ sidebar_label: TOOCAA Smart Camera
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/X%E8%BD%B4%E5%8F%8AY%E8%BD%B4%E8%B0%83%E6%95%B4.png" alt="图片描述" width="700" />
 
-#### 摄像头实操应用
+### 摄像头实操应用
 将耗材放入激光切割机内，点击**更新覆盖层**_**。**_
 
 在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。![设计参考](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png)
