@@ -5,7 +5,7 @@ sidebar_label: TOOCA L2 Laser Engraver
 
 # TOOCA L2 Laser Engraver
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/toocaa.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/wiki/3.jpg)
 
 ## Directory
 
