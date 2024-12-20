@@ -18,7 +18,7 @@ sidebar_label: TOOCAA Smart Camera
 ## 产品规格
 |  |  |  
 | :---: | :---: | 
-| 模组尺寸 | 90mm * 40mm * 35mm |
+| 模组尺寸 | 90mm × 40mm × 35mm |
 | 像素数量 | 500万像素（2592px * 1944px） |
 | 分辨率 | 150 DPI |
 | 最大动态范围 | 85 dB |
@@ -27,7 +27,7 @@ sidebar_label: TOOCAA Smart Camera
 | 兼容系统 | Win XP、Win 7 or Linux 2.6.20及以上版本 |
 | 兼容软件 | LightBurn、TOOCAA Studio |
 | 毛重 | 250g |
-| 包装尺寸 | 135mm * 55mm * 102mm |
+| 包装尺寸 | 135mm × 55mm × 102mm |
 
 
 ## 摄像头安装
