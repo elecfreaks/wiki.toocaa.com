@@ -23,7 +23,7 @@ If the product fails within the warranty period, please feel free to contact us 
 - TOOCAA is not responsible for any other commitments made by the reseller.</br>
 
 ### Scope of Responsibility
-●In providing after-sales service, TOOCAA is liable for product damage only when assuming responsibility for transportation and repair.
+●In providing after-sales service, TOOCAA is liable for product damage only when assuming responsibility for transportation and repair.<br/>
 ●In no event shall TOOCAA be liable for personal injury or any incidental, special, indirect or consequential damages arising out of or in connection with the use or inability to use TOOCAA products. This includes, but is not limited to, lost profits, lost data, business interruption, or any other commercial damages or losses, regardless of cause and regardless of the theory of liability (contract, tort, or otherwise), even if TOOCAA has been advised of the possibility of such damages. While we will do our best to provide quality products and services, we will not be liable for the circumstances mentioned above.
 
 ###  This warranty policy does not apply to the following.
