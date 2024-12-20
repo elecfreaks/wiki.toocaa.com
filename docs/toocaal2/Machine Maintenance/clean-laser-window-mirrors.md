@@ -1,10 +1,10 @@
 ---
 
 sidebar_position: 12
-sidebar_label: 清洁激光器窗口镜
+sidebar_label: 激光器窗口镜清洁
 
 ---
-# 清洁激光器窗口镜
+# 激光器窗口镜清洁
 
 ![提示图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  激光器在使用一段时间后，窗口镜可能会积累过多灰尘或油污，从而导致激光切割能力明显下降。此时，需要清洁窗口镜，以恢复激光模组的雕刻和切割能力。建议清洁维护频率每周至少一次。
 
