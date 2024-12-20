@@ -8,7 +8,7 @@ sidebar_label: TOOCAA L2 Firmware Version Update Tutorial
 ## **Firmware version update**
 To achieve the best cutting and engraving level for the L2 laser cutting machine, please ensure that the machine firmware is the latest version. If the current firmware version is not the latest, please read the following graphic instructions and complete the firmware upgrade to the newest version.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_Note：**A firmware version number that is too low may impact the effects of cutting and engraving. Please update it in time!**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**Note：A firmware version number that is too low may impact the effects of cutting and engraving. Please update it in time!**_
 
 ## **TOOCAA Studio's official website**
 TOOCAA Studio official website: https://toocaastudio.com/
