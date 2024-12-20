@@ -45,8 +45,8 @@ Before the operation, please carefully check the safety precautions as below to 
 4. Do not pick and place filter elements when products are in operation. 
 5. Hands or other objects should not touch the rotating impeller.
 
-# Tutorial
-## Checking Before Operation
+## Tutorial
+### Checking Before Operation
 Before switching on the power for the first time, please ensure the following points to make sure it’s working safely.
 
 1. Whether the appearance is intact;
@@ -54,7 +54,7 @@ Before switching on the power for the first time, please ensure the following po
 3. Whether filter element is evenly placed;
 4. Whether the cover and box body is installed securely.
 
-## The step of installing the smoke purifier
+### The step of installing the smoke purifier
 1. Install the smoke purifier ventilation duct.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1.jpg" alt="图片描述" width="700" />
@@ -63,7 +63,7 @@ Before switching on the power for the first time, please ensure the following po
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E8%A3%85%E9%80%9A%E6%B0%94%E7%AE%A1-%E6%9C%BA%E5%99%A8.jpg" alt="图片描述" width="700" />
 
-# Troubleshooting
+## Troubleshooting
 **Make sure the power is switched off before inspecting or repairing!**
 
 **Problem 1: **The machine still works, but the air flow is very weak and suction power is greatly reduced.
@@ -78,7 +78,7 @@ Before switching on the power for the first time, please ensure the following po
 
 **Solution: **Turn off the power and open the top cover. Check if there is any foreign body blocked in the air inlet. Then turn the speed-adjusting knob to the lowest level and restart the machine. The machine will be back to normal.
 
-# Attention
+## Attention
 1. The power input of this product shall be used with in the specified nominal voltage scope (subject to power identification on the product body). It's strictly forbidden for the use with excessive high or low voltage, if the ambient voltage is unstable, please turn off the machine, unplug the power plug and use it again when the voltage gets normal.
 2. While using the machine, the ambient temperature range of the gas and the dust sucked into the air inlet should be: atmospheric temperature ~50°C, never use it when the temperature is higher or lower than this temperature scope.
 3. When using the machine, the humidity of the gas and the dust sucked into the air inlet should be between 40%-80%, if the humidity is excessively high, the filter element will become invalid rapidly and the internal circuit will be damaged; never use it when the humidity is higher than 80%.
