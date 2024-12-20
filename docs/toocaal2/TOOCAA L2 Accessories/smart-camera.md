@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 20
-sidebar_label: TOOCAA Smart Camera
+sidebar_label: TOOCAA L2智能摄像头
 
 ---
 #不器 L2 智能摄像头
