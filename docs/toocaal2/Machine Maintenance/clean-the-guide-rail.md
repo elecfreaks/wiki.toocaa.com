@@ -1,10 +1,10 @@
 ---
 
 sidebar_position: 13
-sidebar_label: 清洁导轨
+sidebar_label: 导轨清洁
 
 ---
-# 清洁导轨
+# 导轨清洁
 
 **请定期清洁导轨。**
 
