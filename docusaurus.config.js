@@ -75,7 +75,7 @@ const config = {
       algolia: {
         appId: '5BRNKLHRIM',
 
-        apiKey: '0ec62903d139b30a091f2e00fc7eab05',
+        apiKey: '8a4e05df2b4288ffa85421fef088efc5',
 
         indexName: 'wiki',
 
