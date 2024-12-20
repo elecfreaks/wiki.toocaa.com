@@ -8,6 +8,8 @@ sidebar_label: Warranty-Policy
 If the product fails within the warranty period, please feel free to contact us via e-mail. to contact us via e-mail. To ensure that we can quickly address the issue for you, please provide a valid purchase order number or other proof of purchase in the email and describe the product failure in detail. We will be happy to address your concerns and ensure your satisfaction is our top priority.
 
 ## **Warranty coverage and duration**
+|  |  |  
+| :---: | :---: | 
 | **Guarantee** | **Warranty period** | **Remark |
 | Main components| 12months| Adapter, circuit board, motor, USB electronic lock, rail, synchronous belt, light bar. |
 | Wear parts | 6 months | Laser module |
