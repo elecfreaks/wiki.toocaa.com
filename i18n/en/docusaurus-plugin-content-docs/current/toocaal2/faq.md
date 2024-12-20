@@ -1,6 +1,6 @@
 ---
 
-sidebar_position: 14
+sidebar_position: 2
 sidebar_label: TOOCAA L2 FAQ Duplicate
 
 ---
