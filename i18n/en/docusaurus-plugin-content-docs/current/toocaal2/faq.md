@@ -6,8 +6,9 @@ sidebar_label: TOOCAA L2 FAQ Duplicate
 ---
 # FAQ
 ## Q1: What materials can TOOCAA L2 cut and engrave?
+|  |  |  
+| :---: | :---: | 
 | Cutting Materials | Basswood, Paulownia, Pine, Plywood, Beech, Walnut, Bamboo, MDF,<br/>Leather, Fabric, Canvas, Corrugated, Cardboard, Plastic, Dark Acrylic (Except Blue) |
-| :---: | --- |
 | Engraving Materials | Basswood, Paulownia, Pine, Plywood, Beech, Walnut, Bamboo, MDF,<br/>Leather, Fabric, Canvas, Corrugated, Cardboard, Plastic, Dark Acrylic (Except Blue) |
 
 
