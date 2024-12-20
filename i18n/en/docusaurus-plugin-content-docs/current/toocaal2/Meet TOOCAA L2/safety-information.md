@@ -30,7 +30,7 @@ Before operating this product, be sure to read and fully understand all safety i
 
 
 ## Laser Safety Information
-The laser module is a Class I laser product.  
+The laser module is a **Class I** laser product.  
 Under normal conditions, the laser module is wrapped in a light shield, the TOOCAA L2 has a tilt detection feature so if the unit is moved during operation, the laser module will stop emitting light without posing a hazard to people. To ensure your eyes safety, always wear the supplied goggles.  
 TOOCAA L2 is equipped with a smart enclosure, please follow the instructions to install and use it correctly. The enclosure will effectively filter out scattered laser light during operation. When the enclosure is properly installed and connected to the power supply, the opening and closing status of the enclosure is interlocked with the laser emission state, i.e., the product will automatically pause the laser operation when the enclosure is open, to prevent the laser from leaking out.
 
