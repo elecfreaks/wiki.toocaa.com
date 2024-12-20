@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 19
-sidebar_label: TOOCAA 5-1 Rotary for L2
+sidebar_label: TOOCAA 5-1 旋转配件
 
 ---
 # TOOCAA 5-in-1 Rotary for L2用户指南
