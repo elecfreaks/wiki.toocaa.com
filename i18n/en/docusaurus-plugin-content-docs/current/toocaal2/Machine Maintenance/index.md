@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 6
-sidebar_label: Machine-Maintenance
+sidebar_label: Machine Maintenance
 ---
 # Machine Maintenance
 ## [Installation Removal Tutorial](https://wiki.toocaa.com/en/toocaal2/Machine%20Maintenance/installation-removal-tutorial)
