@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: TOOCAA-L2配件
+sidebar_label: TOOCAA L2配件
 ---
 # TOOCAA L2配件
 ## [TOOCAA L2激光模组](https://wiki.toocaa.com/toocaal2/TOOCAA%20L2%20Accessories/Laser%20Module/)
