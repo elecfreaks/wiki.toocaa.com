@@ -55,7 +55,7 @@ const config = {
         title: 'LEARN',
         logo: {
           alt: 'TOOCAA Logo',
-          src: 'https://www.toocaa.com/cdn/shop/files/Group_14609_3bcaf720-7dce-402d-8adf-39a3ee11a9b3.png',
+          src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO.png',
           href: 'https://www.toocaa.com/',
           target:  '_self',
         },
