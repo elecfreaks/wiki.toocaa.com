@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 2
-sidebar_label: Meet TOOCAA L2
+sidebar_label: Meet-TOOCAA-L2
 ---
 # Meet TOOCAA L2
 ## [Product description&specification](https://wiki.toocaa.com/en/toocaal2/Meet%20TOOCAA%20L2/Product%20description&specification)
