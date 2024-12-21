@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: TOOCAA L2维护
+sidebar_label: TOOCAA-L2维护
 ---
 # TOOCAA L2维护
 ## [TOOCAA激光模组安装](https://wiki.toocaa.com/toocaal2/Machine%20Maintenance/installation-removal-tutorial)
