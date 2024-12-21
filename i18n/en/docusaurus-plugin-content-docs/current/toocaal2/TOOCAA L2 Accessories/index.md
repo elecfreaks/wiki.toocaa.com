@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 4
-sidebar_label: TOOCAA L2 Accessories
+sidebar_label: TOOCAA-L2-Accessories
 ---
 
 # TOOCAA L2 Accessories
