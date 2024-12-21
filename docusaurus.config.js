@@ -53,7 +53,7 @@ const config = {
       title: 'TOOCAA Support Center',
       logo: {
         alt: 'TOOCAA Logo',
-        src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO111.png',
+        src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGOb.png',
         width: 200,
         height: 20,
         href: 'https://www.toocaa.com/',
