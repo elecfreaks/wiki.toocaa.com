@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'LEARN',
+  title: 'TOOCAA Support Center',
   tagline: 'Focus on micro:bit accessories!',
   url: 'https://wiki.toocaa.com/',
   baseUrl: '/',
