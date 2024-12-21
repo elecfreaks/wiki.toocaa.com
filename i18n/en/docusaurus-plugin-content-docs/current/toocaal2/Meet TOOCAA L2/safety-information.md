@@ -68,7 +68,7 @@ When cutting or engraving material, the equipment uses a high-density laser beam
 
 ### Warning and Indication Signs
 Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pose a hazard before or during operation. If the signs are damaged or missing, replace them immediately. (You can print the picture on the following page to get the required signs)</br>
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS：You can right-click on the label images in the table below to download them, print the labels yourself, and attach them to the laser module.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS：You can right-click the icon image in the table below to download, print, and stick it on the laser module.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/3.png" alt="图片描述" width="700" />
 
