@@ -52,10 +52,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'LEARN',
+        title: 'TOOCAA Support Center',
         logo: {
           alt: 'TOOCAA Logo',
-          src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO.png',
+          src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO111.png',
           href: 'https://www.toocaa.com/',
           target:  '_self',
         },
