@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 1
-sidebar_label: TOOCAA L2 激光模组
+sidebar_label: TOOCAA-L2-激光模组
 ---
 # TOOCAA L2 激光模组
 ![TOOCAA wiki](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/wiki/1.jpg)
