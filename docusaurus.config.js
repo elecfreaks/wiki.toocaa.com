@@ -58,8 +58,8 @@ const config = {
           src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO.png',
           href: 'https://www.toocaa.com/',
           target:  '_self',
-           width: 200,
-        height: 20,
+           width: 100,
+        height: 10,
         },
         style: 'primary',
         items: [
