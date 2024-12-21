@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TOOCAA Support Center',
   tagline: 'Focus on micro:bit accessories!',
-  url: 'https://wiki.toocaa.com/',
+  url: 'https://wiki.toocaa.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
