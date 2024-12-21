@@ -79,8 +79,7 @@ sidebar_label: 安全第一
 
 设备 L2 上的警告和指示标志均粘贴在可能造成危险的区域。若标志损坏或丢失，请立即更换，以确保安全操作。
 
-![警示标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  
-**提示：您可以右键单击下表中的标签图片进行下载，自行打印后粘贴在激光模块或相关部件上。**
+![警示标志](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  **提示：您可以右键单击下表中的标签图片进行下载，自行打印后粘贴在激光模块或相关部件上。**
 
 ![安全标志图片](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/3.png)
 
