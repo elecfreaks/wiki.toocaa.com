@@ -67,7 +67,12 @@ When cutting or engraving material, the equipment uses a high-density laser beam
 - Please be assured that you will be able to ensure the safe and stable operation of the power supply as long as you follow the correct procedures for operating the electrical equipment and perform regular maintenance and inspections.
 
 ### Warning and Indication Signs
-Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pose a hazard before or during operation. If the signs are damaged or missing, replace them immediately. (You can print the picture on the following page to get the required signs)
+
+Warning and instruction signs on the TOOCAA L2 are affixed in areas that may pose a hazard before or during operation. If the signs are damaged or missing, replace them immediately.
+
+![Warning Sign](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  _**TIPS: You can right-click the icon image in the table below to download, print, and stick it on the laser module.**_
+
+![Safety Sign Image](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/3.png)
 
 
 ## Safety Label 
