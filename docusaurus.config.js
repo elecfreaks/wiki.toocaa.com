@@ -54,8 +54,8 @@ const config = {
       logo: {
         alt: 'TOOCAA Logo',
         src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/FLOGO.png',
-        width: 200,
-        height: 20,
+        width: 100,
+        height: 10,
         href: 'https://www.toocaa.com/',
         target: '_self',
       },
