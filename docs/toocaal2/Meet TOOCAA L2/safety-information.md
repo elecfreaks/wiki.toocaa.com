@@ -76,8 +76,8 @@ sidebar_label: 安全第一
 ---
 
 ### 5、警示和指示标志  
-不器 L2 上的警告和指示标志都粘贴在可能造成危险的地方。若标志损坏或丢失，请立即更换。
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：您可以右键单击下表中的标签图片进行下载，自行打印后贴在激光模块上。**
+不器 L2 上的警告和指示标志都粘贴在可能造成危险的地方。若标志损坏或丢失，请立即更换。</br>
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)_**TIPS**_**：您可以右键单击下表中的标签图片进行下载，自行打印标签后贴在激光模块上。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80/3.png" alt="图片描述" width="700" />
 
