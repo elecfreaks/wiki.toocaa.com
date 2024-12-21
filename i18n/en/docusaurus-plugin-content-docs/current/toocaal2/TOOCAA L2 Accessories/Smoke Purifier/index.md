@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: TOOCAA-L2-Smoke-Purifier
+sidebar_label: TOOCAA L2 Smoke Purifier
 ---
 # TOOCAA L2 Smoke Purifier
 ## [TOOCAA Smoke Purifier](https://wiki.toocaa.com/en/toocaal2/TOOCAA%20L2%20Accessories/Smoke%20Purifier/smoke-purifier)
