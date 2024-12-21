@@ -1,6 +1,6 @@
 ﻿---
 sidebar_position: 5
-sidebar_label: TOOCAA L2 烟雾净化器
+sidebar_label: TOOCAA-L2-烟雾净化器
 ---
 # TOOCAA L2 烟雾净化器
 ## [TOOCAA烟雾净化器](https://wiki.toocaa.com/toocaal2/TOOCAA%20L2%20Accessories/Smoke%20Purifier/smoke-purifier)
