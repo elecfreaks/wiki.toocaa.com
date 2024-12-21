@@ -48,106 +48,84 @@ const config = {
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-({
-  navbar: {
-    title: 'TOOCAA Support Center',
-    logo: {
-      alt: 'TOOCAA Logo',
-      src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO111.png',
-      width: 200,
-      height: 20,
-      href: 'https://www.toocaa.com/',
-      target: '_self',
-    },
-  },
-})
-
-        style: 'primary',
-        items: [
-          {
-            type: 'localeDropdown',
-          },
-
-        ],
+  themeConfig: /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
+    navbar: {
+      title: 'TOOCAA Support Center',
+      logo: {
+        alt: 'TOOCAA Logo',
+        src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/LOGO111.png',
+        width: 200,
+        height: 20,
+        href: 'https://www.toocaa.com/',
+        target: '_self',
       },
-      docs: {
-        sidebar: {
-          autoCollapseCategories: true
-        }
-      },
-      algolia: {
-        appId: '5BRNKLHRIM',
-
-        apiKey: '8a4e05df2b4288ffa85421fef088efc5',
-
-        indexName: 'wiki',
-
-        contextualSearch: true,
-
-        //externalUrlRegex: 'external\\.com|domain\\.com',
-
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
+      items: [
+        {
+          type: 'localeDropdown',
         },
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-
-        //... other Algolia params
+      ],
+    },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'X',
-                href: 'https://twitter.com/elecfreaks',
-              },
-              {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/ElecFreaksTech',
-              },
-              {
-                label: 'Instagram',
-                href: 'https://instagram.com/elecfreaks',
-              },
-              {
-                label: 'Youtube',
-                href: 'https://www.youtube.com/channel/UCNx8XvTeFVnJuYQYhH-FxmQ',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                href: 'https://www.toocaa.com/blogs/toocaa-knowledge-share',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/elecfreaks',
-              },
-            ],
-          },
-        ],
-        copyright: `版权所有 © 2013~${new Date().getFullYear()}  深圳恩孚科技. `,
+    },
+    algolia: {
+      appId: '5BRNKLHRIM',
+      apiKey: '8a4e05df2b4288ffa85421fef088efc5',
+      indexName: 'wiki',
+      contextualSearch: true,
+      replaceSearchResultPathname: {
+        from: '/docs/',
+        to: '/',
       },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+      searchPagePath: 'search',
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/elecfreaks',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/ElecFreaksTech',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://instagram.com/elecfreaks',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCNx8XvTeFVnJuYQYhH-FxmQ',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'Blog',
+              href: 'https://www.toocaa.com/blogs/toocaa-knowledge-share',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/elecfreaks',
+            },
+          ],
+        },
+      ],
+      copyright: `版权所有 © 2013~${new Date().getFullYear()} 深圳恩孚科技.`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  }),
 };
 
 module.exports = config;
-
