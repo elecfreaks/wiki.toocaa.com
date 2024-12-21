@@ -10,7 +10,7 @@ const config = {
   tagline: 'Focus on micro:bit accessories!',
   url: 'https://wiki.toocaa.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ELECFREAKS',
