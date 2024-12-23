@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: TOOCA L2 Laser Engraver
+sidebar_label: TOOCAA L2 Laser Engraver
 ---
 
 # TOOCAA L2 Laser Engraver
