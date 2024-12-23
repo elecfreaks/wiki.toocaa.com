@@ -9,7 +9,7 @@ sidebar_label: TOOCAA L2固件版本更新教程
 ## 固件版本更新
 为了能让 L2 激光切割机达到最佳的切割雕刻水平，请尽量确保机器固件为最新版本。如当前固件版本并非最新固件版本，请阅读以下图文教学并完成最新版本的固件升级。
 
-注意：固件版本号过低可能会影响切割及雕刻效果，请及时更新！
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)注意：固件版本号过低可能会影响切割及雕刻效果，请及时更新！
 
 ## TOOCAA Studio 官方网址
 **TOOCAA Studio 官方网址**：[https://toocaastudio.com/](https://test.toocaastudio.com/)
