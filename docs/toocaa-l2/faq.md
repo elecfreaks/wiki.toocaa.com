@@ -97,7 +97,7 @@ sidebar_label: TOOCAA L2常见问题
 
 **Step 3** 通过扳扣对扳扣内螺丝进行松紧调节。
 
-![Step 3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/call.png)  **TIPS**：顺时针调节为拧紧状态，逆时针调节为拧松状态，请您结合实际情况酌情调整。
+![Step 3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)  **TIPS**：顺时针调节为拧紧状态，逆时针调节为拧松状态，请您结合实际情况酌情调整。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A12.png" alt="图片描述" width="700" />" 
 
