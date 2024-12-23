@@ -14,11 +14,9 @@ To achieve the best cutting and engraving level for the L2 laser cutting machine
 TOOCAA Studio official website: https://toocaastudio.com/
 
 ## **Important things to know before updating**
-1.Ensure the TOOCAA L2 laser cutting machine is connected to the computer via a USB cable and the serial port is selected correctly.
-
-2.Ensure the power and WI-FI connection between the TOOCAA L2 laser cutting machine and the computer is stable during the firmware update process.
-
-3. Do not use or move the TOOCAA L2 laser cutting machine and computer during the firmware version update.
+1.Ensure the TOOCAA L2 laser cutting machine is connected to the computer via a USB cable and the serial port is selected correctly.</br>
+2.Ensure the power and WI-FI connection between the TOOCAA L2 laser cutting machine and the computer is stable during the firmware update process.</br>
+3.Do not use or move the TOOCAA L2 laser cutting machine and computer during the firmware version update.
 
 ## **Firmware upgrade graphic tutorial**
 Connect the TOOCAA L2 laser cutting machine to the computer with a USB cable. After starting the TOOCAA L2 laser cutting machine, use any browser to open TOOCAA Studio and click **[Please connect the device]**.
