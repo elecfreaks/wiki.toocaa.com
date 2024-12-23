@@ -44,7 +44,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9B%BA%E5%AE%9A%E7%A6%BB%E5%90%88%E5%99%A8%E7%BB%84%E4%BB%B6.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整接口角度，方便您对齐并正确插入离合器组件。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整接口角度，方便您对齐并正确插入离合器组件。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E8%A7%92%E5%BA%A6.jpg" alt="图片描述" width="700" />
 
@@ -54,11 +54,11 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 3. 将滚轮组件沿着转台主体底部间隙插入离合器组件内。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整离合器组件内接口角度，方便您对齐并正确插入滚轮组件。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：通过扭动旋转配件主体旋钮调整离合器组件内接口角度，方便您对齐并正确插入滚轮组件。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%8F%92%E5%85%A5.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意**_**：正确连接的状态下，滚轮组件尾部螺丝孔应与旋转配件主体螺丝孔完全对齐重合。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意**_**：正确连接的状态下，滚轮组件尾部螺丝孔应与旋转配件主体螺丝孔完全对齐重合。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BF%9E%E6%8E%A5%E6%A3%80%E6%9F%A5.jpg" alt="图片描述" width="700" />
 
@@ -66,7 +66,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E7%BB%84%E4%BB%B6%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意**_**：请在固定后小范围旋转及移动滚轮组件，确保滚轮组件能正常使用。如出现松动说明滚轮组件尚未装好，请拆下滚轮组件后重新校准安装。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意**_**：请在固定后小范围旋转及移动滚轮组件，确保滚轮组件能正常使用。如出现松动说明滚轮组件尚未装好，请拆下滚轮组件后重新校准安装。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%B5%8B%E8%AF%95.png" alt="图片描述" width="700" />
 
@@ -109,7 +109,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 ### 180°可调节翻转操作教程
 通过侧面旋钮对转台主体进行倾斜角度调节，倾斜角度合适后扭紧旋钮进行固定。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意**_**：在对转台主体进行倾斜角度调节前需拆下滚筒组件及离合器组件。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意**_**：在对转台主体进行倾斜角度调节前需拆下滚筒组件及离合器组件。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180%E5%8F%AF%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
 
@@ -118,7 +118,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="400" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意**_**：尾托滑轮支架组件装入尾托立柱组件时需注意方口方向。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="400" />
 
@@ -135,7 +135,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)**Q&A:TOOCAA L2的Z轴连接处位于TOOCAA L2机身背面。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Q&A:TOOCAA L2的Z轴连接处位于TOOCAA L2机身背面。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D%E7%BD%AE.jpg" alt="图片描述" width="700" />
 
@@ -148,7 +148,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B0%B4%E5%B9%B3%E5%AF%B9%E9%BD%90.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：可通过购买水平仪辅助确认耗材是否处于水平状态。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：可通过购买水平仪辅助确认耗材是否处于水平状态。**
 
 调整激光模组对焦杆，使定焦杆的尖端轻触耗材。
 
@@ -162,7 +162,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 2. 在配置文件下载完成后将其导入TOOCAA L2内置SD卡内，随后插入TOOCAA L2，单击按钮令激光模块归位后双击按钮启动机器即可完成配置文件设置。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：双击按钮启动机器时会有响应音乐。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：双击按钮启动机器时会有响应音乐。**
 
 3. 通过LightBurn连接机器，在**编辑**处点击**机器设置。**
 
@@ -174,7 +174,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 若**Z Steps per mm($102)**后缀显示为**100.000**即为文件配置完成，TOOCAA 5-in-1 Rotary for L2可开始正常运作。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)**注意：若Z Steps per mm($102)后缀显示不为100.000，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：support@elecfreaks.com），我们会尽快为您解决。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：若Z Steps per mm($102)后缀显示不为100.000，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：support@elecfreaks.com），我们会尽快为您解决。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
@@ -187,7 +187,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 选择您当前需要使用的旋转配件模式（**卡盘式**或**滚筒式**）。 
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)**注意：除滚筒旋转配件选择滚筒式以外，卡盘旋转配件、球面旋转配件、环形旋转配件及180°可调节翻转模式均选择卡盘式。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：除滚筒旋转配件选择滚筒式以外，卡盘旋转配件、球面旋转配件、环形旋转配件及180°可调节翻转模式均选择卡盘式。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E7%A7%8D%E7%B1%BB.png" alt="图片描述" width="700" />
 
@@ -219,7 +219,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)**注意：滚筒式旋转配件模式下，极限工作速度设置为6000mm/min；卡盘式旋转配件模式下，极限工作速度设置为12000mm/min。请基于您所选的材质酌情减少雕刻速度。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：滚筒式旋转配件模式下，极限工作速度设置为6000mm/min；卡盘式旋转配件模式下，极限工作速度设置为12000mm/min。请基于您所选的材质酌情减少雕刻速度。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 

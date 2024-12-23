@@ -44,7 +44,7 @@ sidebar_label: TOOCAA L2智能摄像头
 #### 第三步
 用螺丝配件将摄像头固定在激光切割机顶部。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：固定相机前请先取下相机上的黑色保护盖。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：固定相机前请先取下相机上的黑色保护盖。**_
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/step3.png)
 
@@ -59,13 +59,13 @@ sidebar_label: TOOCAA L2智能摄像头
 
 
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
 
 ## 摄像头连接教学
        为了让摄像头能精准辅助激光切割机定位及运作，需进行三项操作，分别是摄像头镜头校准、摄像头对齐校准以及摄像头应用。请阅读以下摄像头连接教学并对摄像头进行连接。
 
 ### 摄像头镜头校准
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Q&A：TOOCAA Smart Camera for L2镜头类型为鱼眼镜头，为了有效使用该类鱼眼镜头，需对其进行镜头校准，确保其在捕捉图像时不会失真。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A：TOOCAA Smart Camera for L2镜头类型为鱼眼镜头，为了有效使用该类鱼眼镜头，需对其进行镜头校准，确保其在捕捉图像时不会失真。**_
 
 #### 摄像头型号选择
 用USB线将激光切割机和摄像头与电脑相连，启动LightBurn，点击**校准摄像头镜头**选项。
@@ -74,14 +74,14 @@ sidebar_label: TOOCAA L2智能摄像头
 
 选择摄像头型号，选择**鱼眼镜头**和**5MP-60**，点击下一步。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9%E6%91%84%E5%83%8F%E5%A4%B4%E5%9E%8B%E5%8F%B7%E3%80%81%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%A4%B4%E5%92%8C5MP-60%E5%8F%82%E6%95%B0.png" alt="图片描述" width="700" />
 点击**Align Camera**选项开始摄像头对齐校准。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BBAlign%20Camera%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS：如误点了其他选项，可通过LightBurn Tools→摄像头对齐校准，开始摄像头对齐校准。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS：如误点了其他选项，可通过LightBurn Tools→摄像头对齐校准，开始摄像头对齐校准。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%91%84%E5%83%8F%E5%A4%B4%E5%AF%B9%E9%BD%90%E6%A0%A1%E5%87%86.png" alt="图片描述" width="700" />
 
@@ -94,18 +94,18 @@ sidebar_label: TOOCAA L2智能摄像头
 #### 测试图像生成
 准备一张**400*400**的纸或其他材料用于**测试图像生成**。将材料平铺于激光切割机底部，根据所选材料厚度进行对应的参数调整，选择合适材料的雕刻参数后进行**走边框**操作，随后点击开始雕刻测试图像。测试图像雕刻完成后点击下一步。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：如图所示参数仅供参考，请根据实际测试材料的材质及厚度进行对应的参数设置！**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：如图所示参数仅供参考，请根据实际测试材料的材质及厚度进行对应的参数设置！**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%B5%8B%E8%AF%95%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%AD%A5%E9%AA%A4.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：如出现警报声，需检查激光头是否已复位。如复位后仍出现警报声，可适当调小比例。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：如出现警报声，需检查激光头是否已复位。如复位后仍出现警报声，可适当调小比例。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%A6%82%E5%A4%8D%E4%BD%8D%E5%90%8E%E4%BB%8D%E5%87%BA%E7%8E%B0%E8%AD%A6%E6%8A%A5%E5%A3%B0%EF%BC%8C%E5%8F%AF%E9%80%82%E5%BD%93%E8%B0%83%E5%B0%8F%E6%AF%94%E4%BE%8B.png" alt="图片描述" width="700" />
 
 #### 图像位置捕获与标记
 对生成的测试图像进行**图像捕获**，捕获完成后进行下一步。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意:捕获后图像应与预览视角一样。如果图像捕获后为鱼眼视角，请回到镜头校准步骤重新进行镜头校准。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意:捕获后图像应与预览视角一样。如果图像捕获后为鱼眼视角，请回到镜头校准步骤重新进行镜头校准。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%9B%BE%E5%83%8F%E6%8D%95%E8%8E%B7.png" alt="图片描述" width="700" />
 
@@ -113,11 +113,11 @@ sidebar_label: TOOCAA L2智能摄像头
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%A0%87%E8%AE%B0%E7%A1%AE%E8%AE%A4%E4%BD%8D%E7%BD%AE%E7%82%B9.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：请务必让鼠标准确点击于位置点的圆心处。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：请务必让鼠标准确点击于位置点的圆心处。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%BC%A0%E6%A0%87%E6%94%BE%E5%A4%A7%E8%BF%9B%E8%A1%8C%E4%BD%8D%E7%BD%AE%E7%82%B9%E6%A0%87%E8%AE%B0.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS：可通过鼠标对测试图像进行移动和放大缩小，从而精确点击四个位置点圆心。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS：可通过鼠标对测试图像进行移动和放大缩小，从而精确点击四个位置点圆心。**_
 
 四个位置点依次精准标记后点击**完成**。
 
@@ -135,7 +135,7 @@ sidebar_label: TOOCAA L2智能摄像头
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%9B%B4%E6%96%B0%E8%A6%86%E7%9B%96%E5%B1%82%E5%90%8E%E7%8A%B6%E6%80%81%E6%98%BE%E7%A4%BA.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS：激光切割机内部耗材进行调整后无需重新校准摄像头，直接点击更新覆盖层即可。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS：激光切割机内部耗材进行调整后无需重新校准摄像头，直接点击更新覆盖层即可。**_
 
 如果预览位置与实际位置出现偏移等情况，可在**相机控制处**适当对X轴及Y轴进行调整。
 
@@ -147,7 +147,7 @@ sidebar_label: TOOCAA L2智能摄像头
 在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：每次使用摄像头前均需进行设备连接操作及两项摄像头校准操作。**_
 
 ## 摄像头连接教学网址
 摄像头使用教学**网址**：https://docs.lightburnsoftware.com/Camera/index.html

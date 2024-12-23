@@ -79,7 +79,7 @@ Solution steps:
 
 3.Adjust the tightness of the screw inside the tool carriage.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Tighten%20clockwise.png" alt="图片描述" width="700" />
 

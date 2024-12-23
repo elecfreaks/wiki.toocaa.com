@@ -47,7 +47,7 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9B%BA%E5%AE%9A%E7%A6%BB%E5%90%88%E5%99%A8%E7%BB%84%E4%BB%B6.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：**_**Adjust the interface angle by twisting the knob of the rotating accessory can for easy alignment and proper insertion of the clutch components.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：**_**Adjust the interface angle by twisting the knob of the rotating accessory can for easy alignment and proper insertion of the clutch components.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E8%A7%92%E5%BA%A6.jpg" alt="图片描述" width="700" />
 
@@ -57,11 +57,11 @@ We need to use different types of accessories when engraving some large or irreg
 
 3. Insert the roller assembly into the clutch components along the gap at the bottom of the chuck body assembly.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：**_**By twisting the knob on the chuck body assembly of the rotating accessory to adjust the interface angle inside the clutch components, the roller assembly can be easily aligned and correctly inserted.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：**_**By twisting the knob on the chuck body assembly of the rotating accessory to adjust the interface angle inside the clutch components, the roller assembly can be easily aligned and correctly inserted.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%8F%92%E5%85%A5.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note：The screw holes at the rear of the roller assembly should be aligned perfectly with the screw holes on the chuck body assembly of the swivel attachment to be properly connected.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：The screw holes at the rear of the roller assembly should be aligned perfectly with the screw holes on the chuck body assembly of the swivel attachment to be properly connected.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%BF%9E%E6%8E%A5%E6%A3%80%E6%9F%A5.jpg" alt="图片描述" width="700" />
 
@@ -69,7 +69,7 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%BB%9A%E7%AD%92%E7%BB%84%E4%BB%B6%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note**_**：**_**Please rotate and move the roller assembly in a small range after fixing it to ensure that the roller assembly can be used normally. If it is loose, it means that the roller assembly has not been installed properly. Please remove the roller assembly and recalibrate and install it.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note**_**：**_**Please rotate and move the roller assembly in a small range after fixing it to ensure that the roller assembly can be used normally. If it is loose, it means that the roller assembly has not been installed properly. Please remove the roller assembly and recalibrate and install it.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%B5%8B%E8%AF%95.png" alt="图片描述" width="700" />
 
@@ -113,14 +113,14 @@ We need to use different types of accessories when engraving some large or irreg
 ### **180° Adjustable Flip Mode Accessories Operation Tutorial**
 The tilt angle of the chuck body assembly can be adjusted by the side knob. When the tilt angle is appropriate, tighten the knob to fix it.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note**_**：**_**Before adjusting the tilt angle of the chuck body assembly, the roller assembly and clutch components must be removed.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note**_**：**_**Before adjusting the tilt angle of the chuck body assembly, the roller assembly and clutch components must be removed.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180%E5%8F%AF%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
 
 ### **Support Module Operation Tutorial**
 The support module consists of a stock column assembly, a stock pulley bracket assembly, and a stock bottom plate assembly, which can be connected as shown in the figure.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note**_**：**_**Pay attention to the direction when installing the stock pulley bracket assembly into the stock column assembly.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note**_**：**_**Pay attention to the direction when installing the stock pulley bracket assembly into the stock column assembly.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%89%98%E7%AB%8B%E6%9F%B1%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="400" />
 
@@ -139,7 +139,7 @@ The support module is specially designed for longer consumables. The height of t
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5.jpg" alt="图片描述" width="700" />
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Q&A:**__**The Z-axis connection of TOOCAA L2 is located on the back of the TOOCAA L2 body.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A:**__**The Z-axis connection of TOOCAA L2 is located on the back of the TOOCAA L2 body.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%9E%E6%8E%A5%E4%BD%8D%E7%BD%AE.jpg" alt="图片描述" width="700" />
 
@@ -168,7 +168,7 @@ Adjust the laser module focus lever so that the tip of the focus lever touches t
 
 2. After downloading the configuration file, import it into the TOOCAA L2's built-in SD card, insert the SD card into TOOCAA L2, click the button to return the laser module to its initial position, and then double-click the button to start the machine to complete the configuration file setting.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**TIPS**_**：**_**Double-click the button to start the machine and there will be responsive music.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：**_**Double-click the button to start the machine and there will be responsive music.**_
 
 3. Connect the machine through LightBurn. Click **Machine Settings** in the Edit window.
 
@@ -180,7 +180,7 @@ Select** output settings**.
 
 If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuration is complete and the TOOCAA 5-in-1 Rotary for L2 can start to operate normally.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note: If the suffix of Steps per mm ($102) is not 100.000, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: **_[_**support@elecfreaks.com**_](mailto:support@elecfreaks.com)_**). We will solve it for you as soon as possible.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note: If the suffix of Steps per mm ($102) is not 100.000, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: **_[_**support@elecfreaks.com**_](mailto:support@elecfreaks.com)_**). We will solve it for you as soon as possible.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
@@ -208,7 +208,7 @@ Click **Rotary Setup** in the Mode toolbar.
 
 Select the type of rotary accessory you want to use (Chuck Rotary or Roller Rotary).
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note：Except for the roller rotary accessories which are of the roller type, the chuck rotary accessories, sphere rotary accessories, ring rotary accessories, and 180° adjustable flip mode accessories are all of the chuck type.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：Except for the roller rotary accessories which are of the roller type, the chuck rotary accessories, sphere rotary accessories, ring rotary accessories, and 180° adjustable flip mode accessories are all of the chuck type.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%80%89%E6%8B%A9%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E7%A7%8D%E7%B1%BB.png" alt="图片描述" width="700" />
 
@@ -240,7 +240,7 @@ Set the laser module's start position to the **current position**.
 
 Import the material into LightBurn, set appropriate parameters for the cutting/engraving material, and click **Frame** test. When the tested position meets the requirements, you can click Start Creation.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/idea.png)_**Note：**__**In roller rotary accessory mode, the maximum working speed is set to 6000mm/min; in chuck rotary accessory mode, the maximum working speed is set to 12000mm/min. Please reduce the engraving speed according to the material you choose.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：**__**In roller rotary accessory mode, the maximum working speed is set to 6000mm/min; in chuck rotary accessory mode, the maximum working speed is set to 12000mm/min. Please reduce the engraving speed according to the material you choose.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 
