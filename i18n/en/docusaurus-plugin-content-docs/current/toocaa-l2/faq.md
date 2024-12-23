@@ -63,7 +63,8 @@ If you have problems connecting to your machine, you may need to install or upda
 Requires CH340 driver. The latest version is available from the WCH website for Windows, Mac, and Linux.    
 WCH website:  [https://www.wch-ic.com/downloads/CH341SER_EXE.html](https://www.wch-ic.com/downloads/CH341SER_EXE.html)
 
-If the above does not resolve the issue, please visit the Lightburn troubleshooting guide: [https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html](https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html). Or contact our technical support at support@toocaa.com.
+If the above does not resolve the issue, please visit the Lightburn troubleshooting guide: [https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html](https://docs.lightburnsoftware.com/Troubleshooting/ConnectionTroubleshooting.html).<br/>
+ Or contact our technical support at support@toocaa.com.
 
 ## Q8: The laser module cannot be effectively fixed / the laser module is easy to slip
 Solution steps:
