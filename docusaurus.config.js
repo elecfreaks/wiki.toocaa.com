@@ -51,12 +51,6 @@ const config = {
   themeConfig: /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
     navbar: {
       title: 'TOOCAA Support Center',
-      logo: {
-        alt: 'TOOCAA Logo',
-        src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/bai.png',
-        href: 'https://www.toocaa.com/',
-        target: '_self',
-      },
       items: [
         {
           type: 'localeDropdown',
