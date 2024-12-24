@@ -7,7 +7,7 @@ sidebar_label: 开箱组装
 # 开箱组装
 
 ## TOOCAA L2清单
-![TOOCAA L2清单](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/list.jpg)
+![TOOCAA L2清单](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/list.png)
 
 ## TOOCAA L2耗材包清单
 | 种类            | 尺寸               | 数量 |
