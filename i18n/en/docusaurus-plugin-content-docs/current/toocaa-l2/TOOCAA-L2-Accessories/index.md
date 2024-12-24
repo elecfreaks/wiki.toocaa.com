@@ -13,4 +13,3 @@ import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
 
->>>>>>> c380ade1d5370e6620d9b463e3f2d54f0ad702b7
