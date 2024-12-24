@@ -20,7 +20,7 @@ TOOCAA Studio official website: [https://toocaastudio.com/](https://toocaastudio
 
 
 ## **Firmware upgrade graphic tutorial**
-Connect the TOOCAA L2 laser cutting machine to the computer with a USB cable. After starting the TOOCAA L2 laser cutting machine, use any browser to open TOOCAA Studio and click **[Please connect the device]**.
+Connect the TOOCAA L2 laser cutting machine to the computer with a USB cable. After starting the TOOCAA L2 laser cutting machine, use any browser to open TOOCAA Studio and click **[Connect device]**.
 
 ![TOOCAA Studio Home](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%BB%E9%A1%B5.png)
 
@@ -33,11 +33,11 @@ Select the **TOOCAA L2 Serial Port*** that appears in the pop-up window and clic
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：Please make sure that the serial port is the TOOCAA L2 serial port. If it is connected to other device serial ports, the firmware cannot be upgraded.**_
 
 
-After confirming in the upper right corner that the connected device model is TOOCAA L2, click **[Firmware Information]**.
+After confirming in the upper right corner that the connected device model is TOOCAA L2, click **[The firmware upgrade]**.
 
 ![Connection Success Page](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E7%82%B9%E5%87%BB%E5%BC%B9%E7%AA%97.jpg)
 
-After reading the version update content, click **[Update Firmware]**.
+After reading the version update content, click **[Update]**.
 
 ![Firmware Information Pop-Up Window](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E5%BC%B9%E7%AA%97.jpg)
 
