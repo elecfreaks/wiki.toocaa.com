@@ -5,7 +5,7 @@ sidebar_label: Disclaimer
 
 ---
 # Disclaimer
-SHENZHEN EF TECHNOLOGY CO., LIMITED(hereinafter referred to as "TOOCAA") cordially reminds you that it is important to read and fully understand the contents of this product manual. Proper operation of the product in accordance with the instructions is essential to avoid personal injury, ensure the quality of the finished product, and prevent damage to the product. To ensure that the value of the product is maximized, we urge you to ensure that all persons using the product are familiar with and understand the contents of the instruction manual. TOOCAA is not responsible for personal injury, property damage, or product damage resulting from improper handling or failure to follow product instructions.
+SHENZHEN EF TECHNOLOGY CO., LIMITED(hereinafter referred to as "**TOOCAA**") cordially reminds you that it is important to read and fully understand the contents of this product manual. Proper operation of the product in accordance with the instructions is essential to avoid personal injury, ensure the quality of the finished product, and prevent damage to the product. To ensure that the value of the product is maximized, we urge you to ensure that all persons using the product are familiar with and understand the contents of the instruction manual. TOOCAA is not responsible for personal injury, property damage, or product damage resulting from improper handling or failure to follow product instructions.
 
   
 **_When using TOOCAA products, you should:_**
