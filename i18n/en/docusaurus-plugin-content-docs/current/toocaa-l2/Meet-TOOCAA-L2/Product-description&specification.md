@@ -21,35 +21,34 @@ The embedded ambient light strip serves as a perfect visual indication of the ma
 In short, the TOOCAA L2 is the ideal choice for you with its exquisite design, excellent performance and comprehensive safety protection. Let's unleash your creativity and build a better future together!
 
 ## Specification
-|  | Model | 10W | 20W |
-| :---: | :---: | :---: | :---: |
-| Machine Body | Machine Size | 645×617×306 mm<br/>(25.35×24.29×12.05 inches) | 645×617×306 mm<br/>(25.35×24.29×12.05 inches) |
-| | Work Area | 415×395 mm(16.34×15.55 inches) | 415×395 mm(16.34×15.55 inches) |
-| | Position Accuracy  | 0.01 mm | 0.01 mm |
-| | Re-Positioning Accuracy | 0.02 mm | 0.02 mm |
-| | Maximum Engraving Speed | 400 mm/s | 400 mm/s |
-| | Extended Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis Interface |
-| | Protection | Flame detection, body tilt detection, smart enclosure safety interlock, USB key switch and extendable emergency stop switch. | Flame detection, body tilt detection, smart enclosure safety interlock, USB key switch and extendable emergency stop switch. |
-| | Laser Class | Class 1 | Class 1 |
-| | Materials | Aluminum + Acrylic | Aluminum + Acrylic |
-| | GW | 19 kg | 19 kg |
-| | NW | 17 kg | 17 kg |
-| | Packing Size | 720mm × 705mm × 248mm | 720mm × 705mm × 248mm |
-| | Input Voltage | 100-240V 50-60HZ | 100-240V 50-60HZ |
-| | Power | 72W | 108W |
-| | Maximum Thickness of One-pass Cutting (basswood boards) | 6 mm | 10 mm |
-| Laser Module | Laser Source | 450 nm - 460 nm Semiconductor laser | 450 nm - 460 nm Semiconductor laser |
-| | Laser Power | 10W | 20W |
-| | Input Voltage | 24V | 24V |
-| | Spot Size | 0.08×0.18 mm | 0.15×0.27 mm |
-| Supported Materials | Engraving Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) |
-|  | Cutting Materials | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabric, canvas, corrugated paper, cardboard, plastic, dark acrylic (except blue)  | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabric, canvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) |
-| Software  | Support Software | LightBurn，LaserGRBL，TOOCAA Studio | LightBurn，LaserGRBL，TOOCAA Studio |
-| | Support Operation System  | Windows，MacOS | Windows，MacO |
-| | Support Transporting Methods | TF Card, Type-C | TF Card, Type-C |
-| Certification Information | Certificates | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDoC, prop 65, TSCA, FDA Registration | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDoC, prop 65, TSCA, FDA Registratio |
-| Adapter | Input | 100-240V~50/60Hz 1.5A | 100-240V~50/60Hz 3.5A |
-| | Output | 24V ⎓ 3.0A 72.0W | 24.0V ⎓ 5.0A 120.0W |
+|  | **Model** | **2W IR** | **10W** | **20W** | **40W** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Whole Machine** | Machine Size | 645×617×306mm (25.35×24.29X12.05 inches) | 645×617×306mm (25.35×24.29X12.05 inches) | 645×617×306mm (25.35×24.29X12.05 inches) | 645×617×306mm (25.35×24.29X12.05 inches) |
+| | Work Area | 415×395mm (16.34×15.55 inches) | 415×395mm (16.34×15.55 inches) | 415×395mm (16.34×15.55 inches) | 415×395mm (16.34×15.55 inches) |
+| | Position Accuracy | 0.01mm | 0.01mm | 0.01mm | 0.01mm |
+| | Re-Positioning Accuracy | 0.02mm | 0.02mm | 0.02mm | 0.02mm |
+| | Maximum Engraving Speed | 400mm/s | 400mm/s | 400mm/s | 400mm/s |
+| | Extended Interface | Emergency Stop Interface, General Expansion Interface, Z-Axis | Emergency Stop Interface, General Expansion Interface, Z-Axis | Emergency Stop Interface, General Expansion Interface, Z-Axis | Emergency Stop Interface, General Expansion Interface, Z-Axis |
+| | Protection | Flame detection, body tilt detection, smart enclosure safety interlock,<br/>USB key switch and extendable emergency stop switch. | Flame detection, body tilt detection, smart enclosure safety interlock,<br/>USB key switch and extendable emergency stop switch. | Flame detection, body tilt detection, smart enclosure safety interlock,<br/>USB key switch and extendable emergency stop switch. | Flame detection, body tilt detection, smart enclosure safety interlock,<br/>USB key switch and extendable emergency stop switch. |
+| | Laser Class | Class 1 | Class 1 | Class 1 | Class 1 |
+| | Materials | Aluminum + Acrylic | Aluminum + Acrylic | Aluminum + Acrylic | Aluminum + Acrylic |
+| | GW | 19kg | 19kg | 19kg | 19kg |
+| | NW | 17kg | 17kg | 17kg | 17kg |
+| | Input Voltage | 100-240V 50/60HZ | 100-240V 50/60HZ | 100-240V 50/60HZ | 100-240V 50/60HZ |
+| | Power | 120W | 72W | 120W | 240W |
+| | Maximum Thickness of One-pass<br/>Cutting (basswood boards) | / | 6mm | 10mm | 15mm |
+| **Laser Module** | Laser Wavelength | Invisible Laser Wavelength: 1064±1nm   Visible Laser Wavelength: 655±5nm | 455±5nm | 455±5nm | 455±5nm |
+| | Laser Power | 2W | 10W | 20W | 40W |
+| | Input Voltage | 24V | 24V | 24V | 24V |
+| | Spot Size | 0.03×0.03mm | 0.08×0.18 mm | 0.15×0.27mm | 0.13×0.15mm |
+| **Supported Materials** | Engraving Materials | All kinds of metal, leather, opaque plastic, dark-colored non-transparent acrylic, stone, glass (with laser engraver marking paper), ceramic (with laser engraver marking paper), and circuit board | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | All kinds of metal, leather, opaque plastic, dark-colored non-transparent acrylic, stone, glass (with laser engraver marking paper), ceramic (with laser engraver marking paper), and circuit board | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue)  | All kinds of metal, leather, opaque plastic, dark-colored non-transparent acrylic, stone, glass (with laser engraver marking paper), ceramic (with laser engraver marking paper), and circuit board | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue)  |
+| | Cutting Materials | / | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) |
+| **Support Software** | Support Software | TOOCAA Studio, LightBurn, LaserGRBL | TOOCAA Studio, LightBurn, LaserGRBL | TOOCAA Studio, LightBurn, LaserGRBL | TOOCAA Studio, LightBurn, LaserGRBL |
+| | Support Operation System | Windows, MacOS | Windows, MacOS | Windows, MacOS | Windows, MacOS |
+| | Support Transporting Methods | TF Card, Type-C | TF Card, Type-C | TF Card, Type-C | TF Card, Type-C |
+| **Certification Information** | Certificates | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDOC, prop 65, TSCA, FDA | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDOC, prop 65, TSCA, FDA | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDOC, prop 65, TSCA, FDA | IEC60825, EU: CE RED, CE MD, RoHS 2.0, REACH 233<br/>US: FCC SDOC, prop 65, TSCA, FDA |
+| **Adapter** | Input | 100-240V 50/60Hz | 100-240V 50/60Hz | 100-240V 50/60Hz | 100-240V 50/60Hz |
+| | Output | 24V ⎓ 5A 120W | 24V ⎓ 3A 72W | 24V ⎓ 5A 120W | 24V ⎓ 10A 240W |
 
 
 Optional accessories:
