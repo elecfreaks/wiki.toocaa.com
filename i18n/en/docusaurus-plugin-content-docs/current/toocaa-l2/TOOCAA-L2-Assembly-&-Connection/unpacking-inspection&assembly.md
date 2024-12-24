@@ -11,11 +11,11 @@ sidebar_label: TOOCAA L2 Unpacking Inspection & Assembly
 ## Consumable Parts Pack list
 | Type | Size | Quantity |
 | :---: | :---: | :---: |
-| Linden Wood Board | 210mm * 297mm * 3mm  | 1 |
-| Gold Aluminum Nameplate | 50mm * 25mm | 1 |
-| Sky Blue Aluminum Nameplate | 50mm * 25mm | 1 |
-| Stainless Steel Nameplate | 50mm * 25mm | 1 |
-| Aluminum Plate | 210mm * 297mm * 0.5mm | 1 |
+| Linden Wood Board | 210mm × 297mm × 3mm  | 1 |
+| Gold Aluminum Nameplate | 50mm × 25mm | 1 |
+| Sky Blue Aluminum Nameplate | 50mm × 25mm | 1 |
+| Stainless Steel Nameplate | 50mm × 25mm | 1 |
+| Aluminum Plate | 210mm × 297mm × 0.5mm | 1 |
 
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/pack.jpg" alt="图片描述" width="300" />
