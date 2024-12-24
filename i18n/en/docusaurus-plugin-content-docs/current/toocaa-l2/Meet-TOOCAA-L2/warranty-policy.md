@@ -4,6 +4,7 @@ sidebar_position: 5
 sidebar_label: Warranty Policy
 
 ---
+# **Warranty Policy**
 ## **Limited Warranty**
 If the product fails within the warranty period, please feel free to contact us via e-mail. to contact us via e-mail. To ensure that we can quickly address the issue for you, please provide a valid purchase order number or other proof of purchase in the email and describe the product failure in detail. We will be happy to address your concerns and ensure your satisfaction is our top priority.
 
