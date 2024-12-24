@@ -14,14 +14,14 @@ Filter replacement kit for TOOCAA L2 smoke purifier is easy to use and has a com
 ### Product Specifications
 | Product name | Filter replacement kit for TOOCAA L2 smoke purifier |
 | :---: | :---: |
-| Product size | 395 × 212 × 265(mm) |
-| Main filter size | 385 × 195 × 170(mm) |
-| Middle filter size | 365 × 175 × 55(mm) |
-| Pre filter size | 365 × 175 × 25(mm) |
-| Product weight | Gross weight 4.20kg |
-| Type of accessories | Main filter × 1、Middle filter × 1、Pre filter × 1 |
-| Replacement cycle |  3-6 month |
-| Compatible machines | TOOCAA smoke purifier |
+| Product Size | 395 × 212 × 265(mm) |
+| Main Filter Size | 385 × 195 × 170(mm) |
+| Middle Filter Size | 365 × 175 × 55(mm) |
+| Pre Filter Size | 365 × 175 × 25(mm) |
+| Product Weight | Gross weight 4.20kg |
+| Type of Accessories | Main Filter × 1、Middle Filter × 1、Pre Filter × 1 |
+| Replacement Cycle |  3-6 Month |
+| Compatible Machines | TOOCAA Smoke Purifier |
 
 
 ## Important Notes  
