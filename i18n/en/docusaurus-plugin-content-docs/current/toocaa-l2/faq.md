@@ -45,7 +45,7 @@ The tool lock arm does not need to be pressed to the bottom, it only needs to be
 2. Computer USB ports can occasionally malfunction. If your computer has multiple USB ports, try plugging the USB cable into a different USB port to test.
 3. If you are using a Windows computer and find that you can connect via a USB cable but the connection fails after a while, check your computer's power management settings.
 
-warning
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Tips**_
 + Open **Control Panel**
 + Click "**Hardware and Sound**"
 + Click **Power Options**
