@@ -37,7 +37,7 @@ In short, the TOOCAA L2 is the ideal choice for you with its exquisite design, e
 | | Input Voltage | 100-240V 50/60HZ | 100-240V 50/60HZ | 100-240V 50/60HZ | 100-240V 50/60HZ |
 | | Power | 120W | 72W | 120W | 240W |
 | | Maximum Thickness of One-pass<br/>Cutting (basswood boards) | / | 6mm | 10mm | 15mm |
-| **Laser Module** | Laser Wavelength | Invisible Laser Wavelength: 1064±1nm   Visible Laser Wavelength: 655±5nm | 455±5nm | 455±5nm | 455±5nm |
+| **Laser Module** | Laser Wavelength | Invisible Laser Wavelength: 1064±1nm </br>Visible Laser Wavelength: 655±5nm | 455±5nm | 455±5nm | 455±5nm |
 | | Laser Power | 2W | 10W | 20W | 40W |
 | | Input Voltage | 24V | 24V | 24V | 24V |
 | | Spot Size | 0.03×0.03mm | 0.08×0.18 mm | 0.15×0.27mm | 0.13×0.15mm |
