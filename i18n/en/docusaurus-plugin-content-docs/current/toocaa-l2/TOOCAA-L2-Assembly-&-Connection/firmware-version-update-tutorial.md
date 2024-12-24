@@ -37,13 +37,13 @@ After confirming in the upper right corner that the connected device model is TO
 
 ![Connection Success Page](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E7%82%B9%E5%87%BB%E5%BC%B9%E7%AA%97.jpg)
 
-After reading the version update content, click **[Update]**.
+After reading the version update content, click **[Upgrade]**.
 
 ![Firmware Information Pop-Up Window](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E5%BC%B9%E7%AA%97.jpg)
 
 ![Firmware Upgrading](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E6%9B%B4%E6%96%B0%E4%B8%AD.jpg)
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A：After clicking [Update Firmware], TOOCAA Studio starts to establish a firmware update connection with TOOCAA L2. No operation is required on this interface.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A：After clicking [Upgrade], TOOCAA Studio starts to establish a firmware update connection with TOOCAA L2. No operation is required on this interface.**_
 
 ## **How to handle firmware upgrade failure**
 1.If the TOOCAA Studio firmware information pop-up window shows that the update failed, please restart the TOOCAA L2 laser cutting machine and TOOCAA Studio, check whether the serial port matches, and try to update again.<br/>
