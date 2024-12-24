@@ -6,7 +6,7 @@ sidebar_label: TOOCAA L2 Unpacking Inspection & Assembly
 ---
 # TOOCAA L2 Unpacking Inspection & Assembly
 ## Unpacking Inspection
-![TOOCAA L2清单](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/unpacking.png)
+![TOOCAA L2清单](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E5%BC%80%E7%AE%B1%E7%BB%84%E8%A3%85/list.png)
 
 ## Consumable Parts Pack list
 | Type | Size | Quantity |
