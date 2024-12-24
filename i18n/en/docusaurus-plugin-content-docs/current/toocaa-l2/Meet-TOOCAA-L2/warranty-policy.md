@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 5
-sidebar_label: Warranty-Policy
+sidebar_label: Warranty Policy
 
 ---
 ## **Limited Warranty**
