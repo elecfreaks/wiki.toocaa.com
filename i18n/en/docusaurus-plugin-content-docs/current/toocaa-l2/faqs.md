@@ -1,10 +1,10 @@
 ---
 
 sidebar_position: 5
-sidebar_label: TOOCAA L2 FAQ Duplicate
+sidebar_label: TOOCAA L2 FAQs Duplicate
 
 ---
-# FAQ
+# FAQs
 ## Q1: What materials can TOOCAA L2 cut and engrave?
 |  |  |  
 | :---: | :---: | 
