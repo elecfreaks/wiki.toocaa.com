@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 19
-sidebar_label: TOOCAA 5-1 Rotary for L2
+sidebar_label: TOOCAA 5-in-1 Rotary for L2
 
 ---
 # TOOCAA 5-in-1 Rotary for L2
@@ -9,10 +9,10 @@ sidebar_label: TOOCAA 5-1 Rotary for L2
 ### Product Description
 TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precision machining of various materials. It has 5 types of accessories that can handle different types of materials in multiple scenarios, supporting the needs of hobbyists and professionals seeking high-quality engraving and cutting solutions. Applicable to manual projects, model making, small batch production, and school education.
 
-+ 【Flexible Adjustment】5-in-1 multifunctional laser rotating accessory. The 180° adjustable three-finger clamp supports 90% of daily cylinders, spheres, and special-shaped objects. You can finish your creation with various materials like wine glasses, jewelry, baseball bats, rings, etc.
-+ 【Exclusive Patent】The world's only patented design of 3-second elastic quick-release jaws. By quickly changing different types of locking parts, you can perform 360° engraving on different diameters of objects. Improve the creation efficiency by reducing the steps of disassembling and storing parts.
-+ 【Fast and Precise】The maximum engraving speed of the laser rotary attachment can reach 360°/sec. It is equipped with a high-precision, high-torque stepper motor with a minimum step angle of 0.02°, letting you capture all the details in your creation.
-+ 【Efficient Service】Please contact us if you encounter any problems with the swivel attachment, TOOCAA product experts will provide friendly customer service and professional technical support within 24 hours.
++ 【**Flexible Adjustment**】5-in-1 multifunctional laser rotating accessory. The 180° adjustable three-finger clamp supports 90% of daily cylinders, spheres, and special-shaped objects. You can finish your creation with various materials like wine glasses, jewelry, baseball bats, rings, etc.
++ 【**Exclusive Patent**】The world's only patented design of 3-second elastic quick-release jaws. By quickly changing different types of locking parts, you can perform 360° engraving on different diameters of objects. Improve the creation efficiency by reducing the steps of disassembling and storing parts.
++ 【**Fast and Precise**】The maximum engraving speed of the laser rotary attachment can reach 360°/sec. It is equipped with a high-precision, high-torque stepper motor with a minimum step angle of 0.02°, letting you capture all the details in your creation.
++ 【**Efficient Service**】Please contact us if you encounter any problems with the swivel attachment, TOOCAA product experts will provide friendly customer service and professional technical support within 24 hours.
 
 ### Product Specification
 |  |  |  
@@ -24,7 +24,7 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 | Engraving Diameter Range | Roller Rotary：5-200(mm)<br/>Chuck Rotary：0-140(mm)<br/>Sphere Rotary：25-120(mm)<br/>Ring Rotary：12-100(mm) |
 | Chuck Angle Adjustment Range | 0°-180° |
 | Compatible Machines | TOOCAA L2 |
-| Compatible Software | LightBurn |
+| Compatible Software | TOOCAA Studio\LightBurn |
 
 
 ### **Unboxing inspection**

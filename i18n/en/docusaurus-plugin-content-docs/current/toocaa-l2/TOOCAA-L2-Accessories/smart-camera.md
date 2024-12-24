@@ -19,16 +19,16 @@ TOOCAA L2 Smart Camera helps you realize all your wonderful ideas with precise a
 ## **Product Specification**
 |  |  |  
 | :---: | :---: | 
-| Module size | 90mm × 40mm × 35mm |
-| Number of pixels               |   5 million pixels (2592px × 1944px) |
+| Module Size | 90mm × 40mm × 35mm |
+| Number of Pixels               |   5 Million Pixels (2592px × 1944px) |
 | Resolution          | 150 DPI |
-| Max dynamic range | 85 dB |
-| Focal length | 30cm-infinity |
-| Connection interface | USB 2.0 |
-| Compatible system | Win XP, Win 7 or Linux 2.6.20 and above |
-| Compatible software | LightBurn、TOOCAA Studio |
-| Gross weight | 250g |
-| Packaging size | 135mm × 55mm × 102mm |
+| Max Dynamic Range | 85 dB |
+| Focal Length | 30cm-infinity |
+| Connection Interface | USB 2.0 |
+| Compatible System | Win XP, Win 7 or Linux 2.6.20 and above |
+| Compatible Software | LightBurn、TOOCAA Studio |
+| Gross Weight | 250g |
+| Packaging Size | 135mm × 55mm × 102mm |
 
 
 ## **Camera Installation**

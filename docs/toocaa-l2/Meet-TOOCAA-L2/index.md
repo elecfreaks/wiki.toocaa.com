@@ -3,7 +3,9 @@ sidebar_position: 2
 sidebar_label: 认识 TOOCAA L2
 ---
 # 认识 TOOCAA L2
-## [产品简介](https://wiki.toocaa.com/toocaa-l2/Meet-TOOCAA-L2/Product-description&specification)
-## [安全第一](https://wiki.toocaa.com/toocaa-l2/Meet-TOOCAA-L2/safety-information)
-## [免责声明](https://wiki.toocaa.com/toocaa-l2/Meet-TOOCAA-L2/disclaimer)
-## [保修政策](https://wiki.toocaa.com/toocaa-l2/Meet-TOOCAA-L2/warranty-policy)
+## 目录
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />

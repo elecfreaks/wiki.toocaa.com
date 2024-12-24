@@ -1,15 +1,15 @@
 ---
 
 sidebar_position: 5
-sidebar_label: TOOCAA L2 FAQ Duplicate
+sidebar_label: TOOCAA L2 FAQs Duplicate
 
 ---
-# FAQ
+# FAQs
 ## Q1: What materials can TOOCAA L2 cut and engrave?
-|  |  |  
-| :---: | :---: | 
-| Cutting Materials | Basswood, Paulownia, Pine, Plywood, Beech, Walnut, Bamboo, MDF,<br/>Leather, Fabric, Canvas, Corrugated, Cardboard, Plastic, Dark Acrylic (Except Blue) |
-| Engraving Materials | Basswood, Paulownia, Pine, Plywood, Beech, Walnut, Bamboo, MDF,<br/>Leather, Fabric, Canvas, Corrugated, Cardboard, Plastic, Dark Acrylic (Except Blue) |
+| **Model**  | **Mole** | **2W IR** | **10W** | **20W** | **40W** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Supported Materials** | **Engraving** | All kinds of metal, leather, opaque plastic, dark-colored non-transparent acrylic, stone, glass (with laser engraver marking paper), ceramic (with laser engraver marking paper), and circuit board | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, lacquered metal, tinplate, stainless steel, anodised aluminium, dark-coloured glass, slate, ceramics, jade, marbble, shale, leather, fabrics, canvas, corrugated cardboard, cardboard, plastics, dark-coloured acrylic (except blue) |
+| **Supported Materials** | **Cutting** | / | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) | Basswood, tung, pine, plywood, beech, walnut, bamboo, MDF, leather, fabriccanvas, corrugated paper, cardboard, plastic, dark acrylic (except blue) |
 
 
 ## Q2: How do I determine the settings for cutting or engraving a material?
@@ -21,7 +21,7 @@ You can view the cutting and engraving parameter settings for common materials i
 TOOCAA L2 maximum working range: 415mm * 395mm.
 
 ## Q4: What is the maximum thickness of wood that TOOCAA L2 can cut?
-The maximum thickness of basswood that can be cut by a 10W laser module is 6mm, and the maximum thickness of basswood that can be cut by a 20W laser module is 10mm.
+The maximum thickness of basswood that can be cut by 10W laser module, 20W laser module and 40W laser meodule is 6mm, 10mm and 15mm respectively.
 
 ## Q5: Where can I buy cost-effective cutting and engraving materials, such as wood boards, acrylic, etc.?
 TOOCAA L2 selects the most cost-effective cutting and engraving materials from global suppliers. You can log in to the TOOCAA official website store to purchase. The official website store address is: [https://www.toocaa.com/collections/materials](https://www.toocaa.com/collections/materials)。
@@ -45,7 +45,7 @@ The tool lock arm does not need to be pressed to the bottom, it only needs to be
 2. Computer USB ports can occasionally malfunction. If your computer has multiple USB ports, try plugging the USB cable into a different USB port to test.
 3. If you are using a Windows computer and find that you can connect via a USB cable but the connection fails after a while, check your computer's power management settings.
 
-warning
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Tips:**_
 + Open **Control Panel**
 + Click "**Hardware and Sound**"
 + Click **Power Options**
@@ -85,5 +85,30 @@ Solution steps:
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Loosen%20counterclockwise.png" alt="图片描述" width="700" />
 
+## Q9: Description of Alarm
+When the user triggers an alarm condition on the TOOCAA L2, the laser output is automatically switched off.
+
+| **Warning Sound Identify** | **Hidden Meaning** |
+| :--- | :--- |
+| 1 short beep | Trigger limit switches |
+| 2 short beeps | Opening the shield during laser processing |
+| 3 short beeps | USB lock not detected |
+| 4 short beeps | No laser module connected |
+| Long 1 beep, short 1 beep | Machine tilt detected |
+| Long 1 beep, short 2 beeps | Power supply mismatch |
+| Long 1 beep, short 3 beeps | TF card abnormality during laser processing |
+| Long 1 beep, short 4 beeps | Flame detected in working area |
 
 
+## Q10: Description of Indicator Light
+| Indicator Color | Indicator Light Meaning |
+| :---: | :---: |
+| Solid Yellow | Initialize |
+| Cyan Breathing | Frame Running |
+| Cyan Breathing | Start Carving |
+| Cyan Flashing | Pause Carving |
+| Cyan Breathing | Continue Carving |
+| Solid Yellow | Force Termination |
+| Solid Yellow | Carving Completed |
+| Red Flashing | Test Mode |
+| Solid Yellow | Initialize |

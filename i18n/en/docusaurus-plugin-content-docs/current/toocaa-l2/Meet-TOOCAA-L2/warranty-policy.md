@@ -1,9 +1,10 @@
 ---
 
 sidebar_position: 5
-sidebar_label: Warranty-Policy
+sidebar_label: Warranty Policy
 
 ---
+# **Warranty Policy**
 ## **Limited Warranty**
 If the product fails within the warranty period, please feel free to contact us via e-mail. to contact us via e-mail. To ensure that we can quickly address the issue for you, please provide a valid purchase order number or other proof of purchase in the email and describe the product failure in detail. We will be happy to address your concerns and ensure your satisfaction is our top priority.
 
@@ -62,5 +63,5 @@ TOOCAA is not responsible for the above situations. In case of problems, please 
 Out-of-Warranty Service Support Description
 Once the warranty period specified for the product has expired, TOOCAA will not be responsible for any costs associated with replacement parts and repairs (including transportation costs). After the warranty period, all repairs, replacement parts and shipping of the product will be your responsibility. Of course, TOOCAA can provide quotations for necessary parts and repairs for reference if you need, and we will be happy to provide you with quality after-sales support.
 
-**_Note: This after-sales policy may vary depending on local laws and regulations, and TOOCAA reserves the right to interpret and modify this warranty policy at any time at its sole discretion._**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**_Note: This after-sales policy may vary depending on local laws and regulations, and TOOCAA reserves the right to interpret and modify this warranty policy at any time at its sole discretion._**
 
