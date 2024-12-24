@@ -24,7 +24,7 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 | Engraving Diameter Range | Roller Rotary：5-200(mm)<br/>Chuck Rotary：0-140(mm)<br/>Sphere Rotary：25-120(mm)<br/>Ring Rotary：12-100(mm) |
 | Chuck Angle Adjustment Range | 0°-180° |
 | Compatible Machines | TOOCAA L2 |
-| Compatible Software | LightBurn |
+| Compatible Software | TOOCAA Studio\LightBurn |
 
 
 ### **Unboxing inspection**
