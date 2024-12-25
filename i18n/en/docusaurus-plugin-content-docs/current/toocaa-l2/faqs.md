@@ -21,7 +21,7 @@ You can view the cutting and engraving parameter settings for common materials i
 TOOCAA L2 maximum working range: 415mm * 395mm.
 
 ## Q4: What is the maximum thickness of wood that TOOCAA L2 can cut?
-The maximum thickness of basswood that can be cut by 10W laser module, 20W laser module and 40W laser meodule is 6mm, 10mm and 15mm respectively.
+The maximum thickness of basswood that can be cut by 10W laser module, 20W laser module and 40W laser module is 6mm, 10mm and 15mm respectively.
 
 ## Q5: Where can I buy cost-effective cutting and engraving materials, such as wood boards, acrylic, etc.?
 TOOCAA L2 selects the most cost-effective cutting and engraving materials from global suppliers. You can log in to the TOOCAA official website store to purchase. The official website store address is: [https://www.toocaa.com/collections/materials](https://www.toocaa.com/collections/materials)。
