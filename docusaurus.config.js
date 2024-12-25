@@ -64,7 +64,7 @@ const config = {
     },
     algolia: {
       appId: '5BRNKLHRIM',
-      apiKey: '8a4e05df2b4288ffa85421fef088efc5',
+      apiKey: '7077438322030a0efe321f5d76b7e055',
       indexName: 'wiki',
       contextualSearch: true,
       replaceSearchResultPathname: {
