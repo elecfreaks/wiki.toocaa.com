@@ -21,11 +21,11 @@ If you select the **Chuck Rotary**, **Sphere Rotary**, **Ring Rotary**, or **180
 
 ![Enter the object diameter](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
 
-**Congratulations! You have completed all TOOCAA 5-in-1 Rotary for L2 function settings!**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Congratulations! You have completed all TOOCAA 5-in-1 Rotary for L2 function settings!**
 
 After setting appropriate parameters for the material, perform the **Frame** operation. If the position meets your requirements, you can click in the lower right corner to **start** creating.
 
-**Notice:**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Notice:**
 
 _**1. After selecting the rotary accessory mode in TOOCAA Studio, the positioning mode automatically switches from absolute coordinates to the current position of the focus lever (relative coordinates). Please pay attention to the position of the object in the canvas to avoid limit errors.**_  <br/>
 _**2. In the rotary accessory mode, the laser module's working starting position is the current position of the focus lever (relative coordinate). After using the focus lever to adjust the focal length to the actual filament size, processing can be started directly without the need to move (or return) the laser module a second time.**_
