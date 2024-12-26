@@ -5,7 +5,7 @@ sidebar_label: TOOCAA Smart Camera
 
 ---
 # TOOCAA Smart Camera
-## Product Description
+## **Product Description**
 TOOCAA L2 Smart Camera helps you realize all your wonderful ideas with precise auxiliary positioning technology. TOOCAA Smart Camera for L2 achieves perfection with precision.
 
 + **【Metal Texture】**The all-metal shell design is durable and luxurious. A combination of design and technology can create something that feels futuristic.
@@ -63,7 +63,7 @@ Connect the camera's USB cable to your computer, open LightBurn, and follow the 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note: Each time before using the camera, you need to perform a device connection and a two-step (Camera lens calibration and Camera alignment calibration) camera calibration operation.**_
 
 
-## TOOCAA Studio & TOOCAA Smart Camera Usage Tutorial
+## **TOOCAA Studio & TOOCAA Smart Camera Usage Tutorial**
 Start **TOOCAA Studio**.
 
 Click **Laser Tools** in the menu bar.
