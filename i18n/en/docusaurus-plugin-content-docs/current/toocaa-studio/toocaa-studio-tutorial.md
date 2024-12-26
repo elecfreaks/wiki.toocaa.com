@@ -43,7 +43,7 @@ TOOCAA Studio link:[https://toocaastudio.com/](https://toocaastudio.com/)
 #### Connect device
 + **Connect device:** Click to connect device  
 
-_**Device connection considerations the:**_
+_**Device connection considerations:**_
 
 _**1.TOOCAA L2 a serial port verification method: unplug the USB cable and reconnect it. The new serial port that appears in the pop-up window is the TOOCAA L2 serial port.**_
 
