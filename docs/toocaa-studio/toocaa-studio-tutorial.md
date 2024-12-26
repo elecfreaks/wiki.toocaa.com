@@ -86,7 +86,8 @@ _**设备连接注意事项：**_
 
 **图层加工优先级：图层顺序＞图层内元素的创建先后顺序**
 
-#### 右侧设置面板UI示意图![右侧设置面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
+#### 右侧设置面板UI示意图
+![右侧设置面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
 ### 画布面板
 #### 功能描述
 + **画布尺寸：** 画布尺寸为415mm×395mm，完美适配TOOCAA L2工作区域
