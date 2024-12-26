@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 1
+sidebar_label: TOOCAA Studio Tutorial
+
+---
+
 # TOOCAA Studio Tutorial
 TOOCAA Studio is a multi-functional online editing tool launched by TOOCAA that is compatible with Windows and MacOS systems. It integrates an intuitive design interface, powerful editing functions, and efficient laser control, supporting creators throughout the process, from inspiration to precise processing. TOOCAA Studio supports parameter presets for processing various materials, and provides functions such as real-time preview, path optimization, camera intelligent calibration, and rotating accessory application. It is deeply integrated with TOOCAA L2 and its accessories to create an extremely smooth creative experience that can be easily mastered by both individual designers and professional users.
 
