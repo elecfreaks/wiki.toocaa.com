@@ -57,7 +57,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 **2.请核实连接串行端口为TOOCAA L2串行端口，如若连接至其他设备串行端口，将无法使用TOOCAA L2。** 
 
 #### 状态栏UI示意图
-![状态栏UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png" alt="图片描述" width="300" />
 
 ### 工具栏
 #### 功能描述
@@ -67,7 +67,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **比例约束：** 单击以约束元素比例
 
 #### 工具栏UI示意图
-![工具栏UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="300" />
 
 ### 左侧边栏
 #### 功能描述
@@ -94,7 +94,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**图层加工优先级：图层顺序＞图层内元素的创建先后顺序**
 
 #### 右侧设置面板UI示意图
-![右侧设置面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="300" />
 ### 画布面板
 #### 功能描述
 + **画布尺寸：** 画布尺寸为415mm×395mm，完美适配TOOCAA L2工作区域
@@ -113,12 +113,12 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **10：** 单击以控制激光模块前后左右移动10mm
 
 #### 加工工具栏示意图
-![开始加工工具栏示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="300" />
 
-![暂停加工工具栏示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png" alt="图片描述" width="300" />
 
 #### 激光模块移动工具示意图
-![激光模块移动工具示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png" alt="图片描述" width="300" />
 
 ### 底部栏
 #### 功能描述
@@ -140,9 +140,9 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **放大/缩小：** 放大/缩小画面
 
 #### 摄像头工具设置UI示意图
-![摄像头工具设置UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png)
-
-![摄像头工具设置UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="300" />
+<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="300" />
 
 ### 旋转配件工具栏
 #### 功能描述
@@ -152,7 +152,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **断开链接：** 断开旋转配件模式
 
 #### 旋转配件工具设置UI示意图
-![旋转配件工具设置UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="300" />
 
 ## TOOCAA Studio快捷键
 |  |  |  
