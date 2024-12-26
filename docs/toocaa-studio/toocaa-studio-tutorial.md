@@ -1,7 +1,7 @@
 # TOOCAA Studio使用教程
 TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows和macOS系统。该软件集直观的设计界面、强大的编辑功能以及高效的激光控制于一体，为创作者提供从灵感构想到精确加工的全流程支持。TOOCAA Studio支持多种材料加工参数预设，提供实时预览、路径优化、摄像头智能校准和旋转配件应用等功能，与TOOCAA L2及其配件深度整合，打造极致流畅的创作体验，无论是个人设计师还是专业用户都能轻松驾驭。
 
-TOOCAA Studio链接：[https://toocaastudio.com/](https://toocaastudio.com/)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)TOOCAA Studio链接：[https://toocaastudio.com/](https://toocaastudio.com/)
 
 ## TOOCAA Studio功能概述
 ### 菜单栏
@@ -43,7 +43,7 @@ TOOCAA Studio链接：[https://toocaastudio.com/](https://toocaastudio.com/)
 #### 设备连接
 + **设备连接：** 单击以连接设备
 
-_**设备连接注意事项：**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**设备连接注意事项：**
 
 **1.TOOCAA L2串行端口核实方法：将USB线拔下后重新连接，弹窗内新出现的串行端口即为TOOCAA L2串行端口。**
 
@@ -84,7 +84,7 @@ _**设备连接注意事项：**_
 + **图层输出/不输出：** 对图层进行输出/不输出
 + **图层显示/不显示：** 图层在画布中显示/不显示
 
-**图层加工优先级：图层顺序＞图层内元素的创建先后顺序**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**图层加工优先级：图层顺序＞图层内元素的创建先后顺序**
 
 #### 右侧设置面板UI示意图
 ![右侧设置面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
