@@ -67,7 +67,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Proportional Constraints:** Click to constrain element proportions  
 
 #### Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="700" />
 
 ### Left Sidebar
 #### Functional Description
@@ -94,7 +94,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Layer processing priority: Layer order > creation order of items within a layer**
 
 #### Right settings panel UI diagram 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="700" />
 <br/>
 
 ### Canvas Panel
@@ -131,9 +131,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 #### Bottom Bar UI diagram
 
-
-![Bottom Bar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png)
-
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="300" />
 
 
 ### Calibrate Camera Alignment Toolbar
@@ -143,9 +141,9 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Zoom in/out:** Zoom in/out
 
 #### Calibrate Camera Alignment Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="700" />
 <br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="700" />
 
 ### Rotary Accessories Toolbar
 #### Functional Description
