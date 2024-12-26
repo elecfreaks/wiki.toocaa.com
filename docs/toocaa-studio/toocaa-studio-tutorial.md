@@ -47,7 +47,7 @@ _**设备连接注意事项：**_
 
 **1.TOOCAA L2串行端口核实方法：将USB线拔下后重新连接，弹窗内新出现的串行端口即为TOOCAA L2串行端口。**
 
-**2.请核实连接串行端口为TOOCAA L2串行端口，如若连接至其他设备串行端口，将无法使用TOOCAA L2。** </br>
+**2.请核实连接串行端口为TOOCAA L2串行端口，如若连接至其他设备串行端口，将无法使用TOOCAA L2。** 
 
 #### 状态栏UI示意图
 ![状态栏UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png)
