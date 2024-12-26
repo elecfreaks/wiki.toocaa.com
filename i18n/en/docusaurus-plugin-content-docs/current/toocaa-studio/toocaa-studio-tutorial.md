@@ -155,7 +155,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 #### Rotary accessory tool setting UI diagram
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="500" />
 
-## TOOCAA Studio shortcut key
+## TOOCAA Studio Shortcut Key
 |  |  |  
 | :---: | :---: | 
 | | Function | Windows | MacOS |
