@@ -1,10 +1,11 @@
+# TOOCAA Studio Tutorial
 TOOCAA Studio is a multi-functional online editing tool launched by TOOCAA that is compatible with Windows and MacOS systems. It integrates an intuitive design interface, powerful editing functions, and efficient laser control, supporting creators throughout the process, from inspiration to precise processing. TOOCAA Studio supports parameter presets for processing various materials, and provides functions such as real-time preview, path optimization, camera intelligent calibration, and rotating accessory application. It is deeply integrated with TOOCAA L2 and its accessories to create an extremely smooth creative experience that can be easily mastered by both individual designers and professional users.
 
 TOOCAA Studio link：[https://toocaastudio.com/](https://toocaastudio.com/)
 
-# TOOCAA Studio's Function Overview
-## Menu Bar
-### Functional Description
+## TOOCAA Studio's Function Overview
+### Menu Bar
+#### Functional Description
 #### File
 + **Save as GCode：** Save the project as a GCode file
 
@@ -31,11 +32,11 @@ TOOCAA Studio link：[https://toocaastudio.com/](https://toocaastudio.com/)
 + **Chinese：** Click to select Chinese mode
 + **English：** Click to select English mode  
 
-### Menu bar UI diagram
+#### Menu bar UI diagram
 ![Menu bar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E8%8F%9C%E5%8D%95%E6%A0%8F.png)
 
-## Status Bar    
-### Functional Description
+### Status Bar    
+#### Functional Description
 #### **Notification**
 + **Notification：** Click to view the reminder
 
@@ -48,21 +49,21 @@ _**1.TOOCAA L2 a serial port verification method: unplug the USB cable and recon
 
 _**2.Please make sure that the connected serial port is the TOOCAA L2 serial port. If it is connected to other device serial ports, TOOCAA L2 will not be able to use it.**_
 
-### Status Bar UI diagram
+#### Status Bar UI diagram
 ![Status Bar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png)
 
-## Toolbar
-### Functional Description
+### Toolbar
+#### Functional Description
 + **Position：** Adjust the position of the element on the X and Y axes in the canvas (the element coordinate position defaults to the upper left corner of the element border)
 + **Size：** Adjust element width and height
 + **Rounded Corners：** Add rounded corners to an element (currently only works on rectangles) 
 + **Proportional Constraints：** Click to constrain element proportions  
 
-### Toolbar UI diagram
+#### Toolbar UI diagram
 ![Toolbar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png)
 
-## Left Sidebar
-### Functional Description
+### Left Sidebar
+#### Functional Description
 + **Select：** Click to select the project or click Options
 + **Shape：** Hover to select a project
 + **Import：** Click to import materials. Currently, TOOCAA Studio only supports the import of PNG, JPG, SVG, and DXF files.
@@ -72,11 +73,11 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Polygon：** Click to select the graphic
 + **Text：** Click to enter text 
 
-### Left Sidebar UI diagram
+#### Left Sidebar UI diagram
 ![Left Sidebar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A6%E4%BE%A7%E8%BE%B9%E6%A0%8F.png)
 
-## Right settings panel
-### Functional Description
+### Right settings panel
+#### Functional Description
 + **Layer list：** Switch and adjust the layer where the project or image is located
 + **Mode：** Line cutting, line engraving, fill engraving
 + **Speed/Power：** Adjust parameters of the layer (speed, power, times, interval)
@@ -85,16 +86,16 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 **Layer processing priority: Layer order > creation order of items within a layer**
 
-### Right settings panel UI diagram 
+#### Right settings panel UI diagram 
 ![Right settings panel UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
-## Canvas Panel
-### Functional Description
+### Canvas Panel
+#### Functional Description
 + **Canvas Size：** The canvas size is 415mm×395mm, which perfectly fits the TOOCAA L2 working area.
 
-### Canvas Panel UI diagram
+#### Canvas Panel UI diagram
 ![Canvas Panel UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%94%BB%E5%B8%83%E9%9D%A2%E6%9D%BF.png)
 
-## Processing Toolbar
+### Processing Toolbar
 + **Frame：** Preview the operation position in real-time in TOOCAA L2 based on the canvas content
 + **Move：** Click to control the movement of the laser module (mainly applicable to rotating accessory mode)
 + **Start：** Click to start running
@@ -104,51 +105,51 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **1：** Click to control the laser module to move 1mm forward, backward, left, and right
 + **10：** Click to control the laser module to move 10mm forward, backward, left, and right
 
-### Processing Toolbar UI diagram
+#### Processing Toolbar UI diagram
 ![Toolbar diagram for starting running](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png)
 
 ![Toolbar diagram for pause running](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png)
 
-### Toolbar diagram for moving the laser module
+#### Toolbar diagram for moving the laser module
 ![Toolbar diagram for moving the laser module](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png)
 
-## Bottom Bar
-### Functional Description
+### Bottom Bar
+#### Functional Description
 #### Bottom Bar
 + **Undo：** Cancel the last operation
 + **Redo：** Perform the last canceled operation again
 + **Hand：** Click to drag the canvas
 + **Zoom in or out：** Click to resize the canvas
 
-### Bottom Bar UI diagram
+#### Bottom Bar UI diagram
 
 
 ![Bottom Bar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png)
 
 
 
-## Calibrate Camera Alignment Toolbar
-### Functional Description
+### Calibrate Camera Alignment Toolbar
+#### Functional Description
 + **Camera View：** Fill in the parameters appropriate for your material to generate a calibration case
 + **Screenshot：** Click to lock the current camera view
 + **Zoom in/out：** Zoom in/out
 
-### Calibrate Camera Alignment Toolbar UI diagram
+#### Calibrate Camera Alignment Toolbar UI diagram
 ![Calibrate Camera Alignment Toolbar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png)
 
 ![Calibrate Camera Alignment Toolbar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png)
 
-## Rotary Accessories Toolbar
-### Functional Description
+### Rotary Accessories Toolbar
+#### Functional Description
 + **Chuck Rotary Mode Select：** Chuck Rotary, Sphere Rotary, Ring Rotary, 180° adjustable flip mode
 + **Roller Rotary Mode Select：** Roller Rotary
 + **Diameter：** In Chuck mode, you need to enter the object's diameter
 + **Disconnect：** Disconnect rotary accessory mode
 
-### Rotary accessory tool setting UI diagram
+#### Rotary accessory tool setting UI diagram
 ![Rotary accessory tool setting UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
 
-# TOOCAA Studio shortcut key
+## TOOCAA Studio shortcut key
 |  |  |  
 | :---: | :---: | 
 | | Function | Windows | MacOS |
