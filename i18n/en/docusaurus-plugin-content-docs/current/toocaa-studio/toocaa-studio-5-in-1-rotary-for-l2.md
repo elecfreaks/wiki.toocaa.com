@@ -10,7 +10,7 @@ Start **TOOCAA Studio**.
 
 Click **Laser Tools** in the menu bar.
 
-![Click Laser Tools in the menu bar.](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png" alt="图片描述" width="300" />
 
 Select the **Rotary Setup**.
 
@@ -18,15 +18,15 @@ Select the **Rotary Setup**.
 
 Select the **mode** you will be using。
 
-![Select the mode](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png" alt="图片描述" width="300" />
 
 If you select the **Roller Rotary** mode, just click **OK** to start using it.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png" alt="图片描述" width="300" />
 
 If you select the **Chuck Rotary**, **Sphere Rotary**, **Ring Rotary**, or **180° adjustable flip mode**, please enter the object **diameter** in the rotation accessory toolbar on the right after clicking **OK**.
 
-![Enter the object diameter](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="300" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Congratulations! You have completed all TOOCAA 5-in-1 Rotary for L2 function settings!**
 
