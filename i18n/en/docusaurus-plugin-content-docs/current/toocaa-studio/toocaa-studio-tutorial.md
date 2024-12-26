@@ -1,7 +1,7 @@
 # TOOCAA Studio Tutorial
 TOOCAA Studio is a multi-functional online editing tool launched by TOOCAA that is compatible with Windows and MacOS systems. It integrates an intuitive design interface, powerful editing functions, and efficient laser control, supporting creators throughout the process, from inspiration to precise processing. TOOCAA Studio supports parameter presets for processing various materials, and provides functions such as real-time preview, path optimization, camera intelligent calibration, and rotating accessory application. It is deeply integrated with TOOCAA L2 and its accessories to create an extremely smooth creative experience that can be easily mastered by both individual designers and professional users.
 
-TOOCAA Studio link:[https://toocaastudio.com/](https://toocaastudio.com/)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)TOOCAA Studio link:[https://toocaastudio.com/](https://toocaastudio.com/)
 
 ## TOOCAA Studio's Function Overview
 ### Menu Bar
@@ -43,7 +43,7 @@ TOOCAA Studio link:[https://toocaastudio.com/](https://toocaastudio.com/)
 #### Connect device
 + **Connect device:** Click to connect device  
 
-_**Device connection considerations:**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Device connection considerations:**_
 
 _**1.TOOCAA L2 a serial port verification method: unplug the USB cable and reconnect it. The new serial port that appears in the pop-up window is the TOOCAA L2 serial port.**_
 
@@ -84,7 +84,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Output:** Export/non-export layers
 + **Show:** Layers appear/disappear in the canvas
 
-**Layer processing priority: Layer order > creation order of items within a layer**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Layer processing priority: Layer order > creation order of items within a layer**
 
 #### Right settings panel UI diagram 
 ![Right settings panel UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png)
