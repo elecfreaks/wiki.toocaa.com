@@ -274,7 +274,7 @@ Set the laser module's start position to the **current position**.
 
 Import the material into LightBurn, set appropriate parameters for the cutting/engraving material, and click **Frame** test. When the tested position meets the requirements, you can click Start Creation.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：**__**In roller rotary accessory mode, the maximum working speed is set to 6000mm/min; in chuck rotary accessory mode, the maximum working speed is set to 12000mm/min. Please reduce the engraving speed according to the material you choose.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note：In roller rotary accessory mode, the maximum working speed is set to 6000mm/min; in chuck rotary accessory mode, the maximum working speed is set to 12000mm/min. Please reduce the engraving speed according to the material you choose.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 
