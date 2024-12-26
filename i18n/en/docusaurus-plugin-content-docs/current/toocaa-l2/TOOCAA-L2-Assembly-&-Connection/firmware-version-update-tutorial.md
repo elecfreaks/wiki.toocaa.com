@@ -24,7 +24,7 @@ Connect the TOOCAA L2 laser cutting machine to the computer with a USB cable. Af
 
 ![TOOCAA Studio Home](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%BB%E9%A1%B5.png)
 
-Select the **TOOCAA L2 Serial Port*** that appears in the pop-up window and click **[Connect]**.
+Select the **TOOCAA L2 Serial Port** that appears in the pop-up window and click **[Connect]**.
 
 ![Window for Connecting to the Serial Port](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%B2%E5%8F%A3%E9%80%89%E6%8B%A9.png)
 
