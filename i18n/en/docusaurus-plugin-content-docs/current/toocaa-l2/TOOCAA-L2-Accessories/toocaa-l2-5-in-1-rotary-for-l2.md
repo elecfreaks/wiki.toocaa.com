@@ -225,7 +225,8 @@ _**2. In the rotary accessory mode, the laser module's working starting position
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%82%B9%E5%87%BB%E6%97%8B%E8%BD%AC%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
-3. Please click the link below to download the configuration file. (Configuration file download link:
+3. Please click the link below to download the configuration file. <br/>
+(Configuration file download link:
 
  [https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc](https://www.elecfreaks.com/download/toocaa/toocaa5-in-1rotaryforl2configurationfilev1.0.nc))
 
