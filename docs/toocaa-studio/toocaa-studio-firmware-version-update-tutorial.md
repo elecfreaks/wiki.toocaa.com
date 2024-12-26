@@ -28,7 +28,7 @@ sidebar_label: TOOCAA Studio固件版本更新教程
 
 ![TOOCAA Studio 连接串行端口选择弹窗](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%B2%E5%8F%A3%E9%80%89%E6%8B%A9.png)
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法对固件进行升级。<br/>
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法对固件进行升级。** <br/>
 **TOOCAA L2 串行端口核实方法：将 USB 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。**
 
 右上角确认已连接设备型号为**TOOCAA L2**后，点击 **【固件信息】**。
