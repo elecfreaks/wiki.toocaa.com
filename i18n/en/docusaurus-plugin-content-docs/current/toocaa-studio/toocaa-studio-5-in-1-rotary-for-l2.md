@@ -10,7 +10,7 @@ Start **TOOCAA Studio**.
 
 Click **Laser Tools** in the menu bar.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png" alt="图片描述" width="1000" />
 
 Select the **Rotary Setup**.
 
@@ -18,11 +18,11 @@ Select the **Rotary Setup**.
 
 Select the **mode** you will be using。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png" alt="图片描述" width="800" />
 
 If you select the **Roller Rotary** mode, just click **OK** to start using it.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png" alt="图片描述" width="800" />
 
 If you select the **Chuck Rotary**, **Sphere Rotary**, **Ring Rotary**, or **180° adjustable flip mode**, please enter the object **diameter** in the rotation accessory toolbar on the right after clicking **OK**.
 
