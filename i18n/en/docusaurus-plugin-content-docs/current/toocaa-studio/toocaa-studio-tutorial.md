@@ -57,7 +57,7 @@ _**1.TOOCAA L2 a serial port verification method: unplug the USB cable and recon
 _**2.Please make sure that the connected serial port is the TOOCAA L2 serial port. If it is connected to other device serial ports, TOOCAA L2 will not be able to use it.**_
 
 #### Status Bar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png" alt="图片描述" width="500" />
 
 ### Toolbar
 #### Functional Description
@@ -67,7 +67,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Proportional Constraints:** Click to constrain element proportions  
 
 #### Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="500" />
 
 ### Left Sidebar
 #### Functional Description
@@ -94,11 +94,12 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Layer processing priority: Layer order > creation order of items within a layer**
 
 #### Right settings panel UI diagram 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="500" />
+<br/>
+
 ### Canvas Panel
 #### Functional Description
 + **Canvas Size:** The canvas size is 415mm×395mm, which perfectly fits the TOOCAA L2 working area.
-
 #### Canvas Panel UI diagram
 ![Canvas Panel UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%94%BB%E5%B8%83%E9%9D%A2%E6%9D%BF.png)
 
@@ -113,12 +114,12 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **10:** Click to control the laser module to move 10mm forward, backward, left, and right
 
 #### Processing Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="500" />
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png" alt="图片描述" width="500" />
 
 #### Toolbar diagram for moving the laser module
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png" alt="图片描述" width="500" />
 
 ### Bottom Bar
 #### Functional Description
@@ -142,9 +143,9 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Zoom in/out:** Zoom in/out
 
 #### Calibrate Camera Alignment Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="500" />
 <br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="500" />
 
 ### Rotary Accessories Toolbar
 #### Functional Description
@@ -154,7 +155,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Disconnect:** Disconnect rotary accessory mode
 
 #### Rotary accessory tool setting UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="500" />
 
 ## TOOCAA Studio shortcut key
 |  |  |  
