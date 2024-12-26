@@ -147,9 +147,9 @@ _**设备连接注意事项：**_
 ![旋转配件工具设置UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
 
 ## TOOCAA Studio快捷键
-| TOOCAA Studio快捷键 | | | |
-| :---: | --- | --- | --- |
-| 功能 | | Windows系统 | MacOS系统 |
+|  |  |  
+| :---: | :---: | 
+|  | 功能 | Windows系统 | MacOS系统 |
 | 菜单栏<br/> | 复制 | Ctrl C | ⌘ C |
 | | 粘贴 | Ctrl V | ⌘ V |
 | | 删除 | Backspace | ⌫ |
