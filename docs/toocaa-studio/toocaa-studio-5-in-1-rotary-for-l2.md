@@ -21,11 +21,11 @@
 
 ![输入物体直径](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png)
 
-**恭喜您！您已完成所有TOOCAA 5-in-1 Rotary for L2旋转配件功能设置！**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**恭喜您！您已完成所有TOOCAA 5-in-1 Rotary for L2旋转配件功能设置！**
 
 在为耗材设置合适参数后进行**走边框**操作。如走边框位置满足需求，即可在右下角点击**开始**进行创作。
 
-**注意：**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：**
 
 **1.在TOOCAA Studio中选择旋转配件模式后，定位模式由绝对坐标自动切换为对焦杆当前位置（相对坐标），请注意画布内元素位置，防止限位报错。**
 
