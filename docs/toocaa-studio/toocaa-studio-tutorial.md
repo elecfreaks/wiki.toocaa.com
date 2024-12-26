@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 1
+sidebar_label: TOOCAA Studio使用教程
+
+---
+
 # TOOCAA Studio使用教程
 TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows和macOS系统。该软件集直观的设计界面、强大的编辑功能以及高效的激光控制于一体，为创作者提供从灵感构想到精确加工的全流程支持。TOOCAA Studio支持多种材料加工参数预设，提供实时预览、路径优化、摄像头智能校准和旋转配件应用等功能，与TOOCAA L2及其配件深度整合，打造极致流畅的创作体验，无论是个人设计师还是专业用户都能轻松驾驭。
 
