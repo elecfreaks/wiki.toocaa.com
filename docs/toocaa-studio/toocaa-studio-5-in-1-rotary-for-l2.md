@@ -10,7 +10,7 @@ sidebar_label: TOOCAA Studio&TOOCAA 5-in-1 Rotary for L2使用教程
 
 单击菜单栏中的**激光工具。**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B61.png" alt="图片描述" width="700" />
 
 选择**旋转配件设置**。
 
@@ -18,15 +18,15 @@ sidebar_label: TOOCAA Studio&TOOCAA 5-in-1 Rotary for L2使用教程
 
 选择您即将使用的**旋转配件模式**。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%971.png" alt="图片描述" width="700" />
 
 如果选择的是**滚筒**旋转配件模式，直接点击**OK**即可开始使用。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E5%BC%B9%E7%AA%972.png" alt="图片描述" width="700" />
 
 如果选择的是卡盘旋转模式、球面旋转模式、环形旋转模式、180°可调节翻转模式，请在点击**OK**后，于右侧旋转配件工具栏中，输入**物体直径**。
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="400" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**恭喜您！您已完成所有TOOCAA 5-in-1 Rotary for L2旋转配件功能设置！**
 
