@@ -131,7 +131,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 #### 底部栏UI示意图
 
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="300" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
 
 ### 摄像头工具栏
 #### 功能描述
@@ -140,9 +140,9 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **放大/缩小：** 放大/缩小画面
 
 #### 摄像头工具设置UI示意图
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="900" />
 <br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="900" />
 
 ### 旋转配件工具栏
 #### 功能描述
