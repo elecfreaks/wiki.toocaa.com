@@ -1,3 +1,10 @@
+---
+
+sidebar_position: 2
+sidebar_label: TOOCAA Studio&TOOCAA 5-in-1 Rotary for L2使用教程
+
+---
+
 # TOOCAA Studio&TOOCAA 5-in-1 Rotary for L2使用教程
 启动**TOOCAA Studio**。
 
