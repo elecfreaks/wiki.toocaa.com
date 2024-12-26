@@ -41,4 +41,4 @@ _**2.可通过鼠标或放大缩小按键对测试图像进行移动和放大缩
 
 **恭喜您！您已完成所有TOOCAA Smart Camera for L2摄像头功能设置！**
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：若需更新覆盖层，请循环此步骤。（可跳过****测试图像生成步骤****）**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：若需更新覆盖层，请循环此步骤。（可跳过测试图像生成步骤）**
