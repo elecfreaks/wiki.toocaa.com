@@ -64,10 +64,20 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Position:** Adjust the position of the element on the X and Y axes in the canvas (the element coordinate position defaults to the upper left corner of the element border)
 + **Size:** Adjust element width and height
 + **Rounded Corners:** Add rounded corners to an element (currently only works on rectangles) 
-+ **Proportional Constraints:** Click to constrain element proportions  
++ **Proportional Constraints:** Click to constrain element proportions
++ **Align Left:** Aligns the left edge of the selected object
++ **Align Horizontal Center:** Aligns the horizontal center of the selected object
++ **Align Right:** Aligns the right edge of the selected object
++ **Align Top:** Aligns the top of the selected object
++ **Align Vertical Center:** Aligns the vertical center of the selected object
++ **Align Bottom:** Aligns the bottom of the selected object
++ **Align Center:**  Aligns the center of the selected object
 
 #### Toolbar UI diagram
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="700" />
+<br/>
+<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%AF%B9%E9%BD%90.png" alt="图片描述" width="400" />
 
 ### Left Sidebar
 #### Functional Description
