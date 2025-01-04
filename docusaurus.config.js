@@ -51,10 +51,10 @@ const config = {
   themeConfig: /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
     navbar: {
       title: 'TOOCAA Support Center',
-      href: 'https://www.toocaa.com/',
       items: [
         {
           type: 'localeDropdown',
+          href: 'https://www.toocaa.com/',
         },
       ],
     },
