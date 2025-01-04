@@ -54,7 +54,6 @@ const config = {
       items: [
         {
           type: 'localeDropdown',
-          href: 'https://www.toocaa.com/',
         },
       ],
     },
