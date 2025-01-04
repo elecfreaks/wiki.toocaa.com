@@ -65,9 +65,18 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **尺寸：** 调整元素宽度及高度
 + **圆角：** 为元素添加圆角（目前只适用于矩形）
 + **比例约束：** 单击以约束元素比例
++  **左对齐：** 对齐选定对象的左边缘
++ **水平对齐：** 将选定对象的水平中心对齐
++ **右对齐：** 对齐选定对象的右边缘
++ **顶部对齐：** 对齐选定对象的顶部
++ **垂直对齐：** 将选定对象的垂直中心对齐
++ **底部对齐：** 将选定对象的底部对齐
++ **中心对齐：** 将选定对象的中心对齐
+
 
 #### 工具栏UI示意图
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%AF%B9%E9%BD%90.png" alt="图片描述" width="700" />
 
 ### 左侧边栏
 #### 功能描述
