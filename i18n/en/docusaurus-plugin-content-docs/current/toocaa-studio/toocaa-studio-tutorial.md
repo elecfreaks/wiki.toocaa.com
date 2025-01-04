@@ -66,10 +66,10 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Rounded Corners:** Add rounded corners to an element (currently only works on rectangles) 
 + **Proportional Constraints:** Click to constrain element proportions
 + **Align Left:** Aligns the left edge of the selected object
-+ **Align Horizontal Center:** Aligns the horizontal center of the selected object
++ **Horizontal Align Center:** Aligns the horizontal center of the selected object
 + **Align Right:** Aligns the right edge of the selected object
 + **Align Top:** Aligns the top of the selected object
-+ **Align Vertical Center:** Aligns the vertical center of the selected object
++ **Vertical Align Center:** Aligns the vertical center of the selected object
 + **Align Bottom:** Aligns the bottom of the selected object
 + **Align Center:**  Aligns the center of the selected object
 
