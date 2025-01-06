@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TOOCAA Support Center',
-  tagline: 'Focus on micro:bit accessories!',
-  url: 'https://wiki.toocaa.com',
+  tagline: 'TOOCAA丨The Most User-Friendly Desktop Laser Cutter &amp; Engraver',
+  url: 'https://www.toocaa.com',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
