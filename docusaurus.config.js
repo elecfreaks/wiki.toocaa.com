@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TOOCAA Support Center',
   tagline: 'TOOCAA丨The Most User-Friendly Desktop Laser Cutter &amp; Engraver',
-  url: 'https://www.toocaa.com',
+  url: 'https://wiki.toocaa.com',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
