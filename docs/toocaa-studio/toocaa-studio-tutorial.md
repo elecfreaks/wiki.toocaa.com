@@ -106,9 +106,12 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 #### 右侧设置面板UI示意图
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%8F%B3%E4%BE%A7%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF.png" alt="图片描述" width="700" />
+
 ### 画布面板
+
 #### 功能描述
-+ **画布尺寸：** 画布尺寸为415mm×395mm，完美适配TOOCAA L2工作区域
++ **画布尺寸：** 画布尺寸为 415mm × 395mm，完美适配 TOOCAA L2 工作区域
+
 
 #### 画布面板UI示意图
 ![画布面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%94%BB%E5%B8%83%E9%9D%A2%E6%9D%BF.png)
