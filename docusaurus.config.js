@@ -52,9 +52,10 @@ const config = {
     navbar: {
          logo: {
         alt: 'TOOCAA Support Center',
-        src: 'http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/toocaa%20support%20center.png',
-        href: 'https://www.toocaa.com/',
+        src: 'https://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/logo/black.png',
+        href: 'https://wiki.toocaa.com/',
         target:  '_self',
+        srcDark: 'https://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/logo/white.png',
       },
       items: [
         {
