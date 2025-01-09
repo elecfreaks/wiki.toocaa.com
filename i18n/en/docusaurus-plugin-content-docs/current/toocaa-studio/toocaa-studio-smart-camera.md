@@ -29,7 +29,7 @@ Use the mouse to mark and confirm the four marking points on the test image in t
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Notice:**_
 
-_**1. Please make sure to click the mouse exactly at the center of the circle of the marked point.**_
+_**1. Please make sure to click the mouse exactly at the center of the circle of the marked point.**_ <br/>
 _**2. The test image can be moved and zoomed in and out by using the mouse or the zoom buttons, to accurately click the center of the circle at four locations.**_
 
 After the 4 locations are accurately marked one by one, click **Finish**. Then click **Next**.
