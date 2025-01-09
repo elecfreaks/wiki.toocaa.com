@@ -5,7 +5,7 @@ const sidebars = {
    learnSidebar: [
     {
       type: 'link',
-      label: 'Go To Store ', 
+      label: 'Go To Brand Website', 
       href: 'https://www.toocaa.com', 
       className: 'custom-link',  
     },
