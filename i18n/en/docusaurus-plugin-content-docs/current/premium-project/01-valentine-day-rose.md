@@ -18,11 +18,11 @@ This elegant “Valentine's Day Rose” carving project combines the precision o
 | **Material used** | 300*300 plywood 3mm (about ⅛ inch) |
 
 # Digital Downloads
-[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.TCS)<br/>
-[Valentine's Day Rose.lbrn](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.lbrn2)
+TOOCAA Studio file link:[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.TCS)<br/>
+LightBurn file link:[Valentine's Day Rose.lbrn](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.lbrn2)
 
 # Case Tutorial
-[Valentine's Day Rose](https://www.youtube.com/shorts/OlfBOs4A55E)
+YouTube video link:[Valentine's Day Rose](https://www.youtube.com/shorts/OlfBOs4A55E)
 
 Start TOOCAA Studio
 
