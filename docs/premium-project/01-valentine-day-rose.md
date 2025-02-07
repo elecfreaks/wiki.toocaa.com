@@ -12,7 +12,7 @@ sidebar_label: 情人节玫瑰
 ## 产品信息
 |  |  |  
 | :---: | :---: | 
-| **机器型号** | TOOCAA L2 Desktop Laser Engraver & Cutter |
+| **机器型号** | TOOCAA L2 Desktop Laser Engraver & Cutter 20W |
 | **软件** | TOOCAA Studio\LightBurn |
 | **材料** | 300mm × 300mm × 3mm 椴木板 |
 
