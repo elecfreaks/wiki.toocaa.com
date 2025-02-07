@@ -43,7 +43,7 @@ After setting appropriate parameters for the material, perform the **Frame** ope
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips:The default parameters are suitable for 300mm × 300mm × 3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="图片描述" width="1200" />
-
+After completing the engraving and cutting, you can paint the piece according to your personal preferences. Once the painting is finished, simply use adhesive to bond the linden wood panels. If everything goes smoothly, you'll have a perfect piece ready within 15 minutes.
 
 
 
