@@ -14,7 +14,7 @@ sidebar_label: 情人节玫瑰
 | :---: | :---: | 
 | **机器型号** | TOOCAA L2 Desktop Laser Engraver & Cutter |
 | **软件** | TOOCAA Studio\LightBurn |
-| **材料** | 300mm × 300mm × 3mm 胶合板 |
+| **材料** | 300mm × 300mm × 3mm 椴木板 |
 
 ## 文件下载
 TOOCAA Studio文件链接：[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.TCS)<br/>
