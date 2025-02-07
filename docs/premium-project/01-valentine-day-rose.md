@@ -17,8 +17,8 @@ sidebar_label: 情人节玫瑰
 | **材料** | 300mm × 300mm × 3mm 椴木板 |
 
 ## 文件下载
-[Valentine's Day Rose.TCS 下载](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip)  
-[Valentine's Day Rose.lbrn 下载](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip)
+[Valentine's Day Rose.TCS 下载](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip?raw=true)  
+[Valentine's Day Rose.lbrn 下载](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip?raw=true)
 
 ## 案例教程
 <iframe 
