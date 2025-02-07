@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: Premium Project
+sidebar_label: TOOCAA优质作品分享
 ---
 
-# 优质作品分享
+# TOOCAA优质作品分享
 
 ## 目录
 
