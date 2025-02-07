@@ -15,7 +15,7 @@ This elegant “Valentine's Day Rose” carving project combines the precision o
 | :---: | :---: | 
 | **Machine & processing module** | TOOCAA L2 Desktop Laser Engraver & Cutter |
 | **Software** | TOOCAA Studio\LightBurn |
-| **Material used** | 300*300 plywood 3mm (about ⅛ inch) |
+| **Material used** | 300mm × 300mm × 3mm plywood (about ⅛ inch) |
 
 ## Digital Downloads
 TOOCAA Studio file link:[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Valentine's%20Day%20Rose.TCS)<br/>
