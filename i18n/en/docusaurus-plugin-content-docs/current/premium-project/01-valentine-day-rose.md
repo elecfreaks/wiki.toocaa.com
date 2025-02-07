@@ -40,7 +40,7 @@ Open the corresponding file with the suffix **TCS**
 
 After setting appropriate parameters for the material, perform the **Frame** operation. If the position meets your requirements, you can click in the lower right corner to **start** creating.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips:The default parameters are suitable for 300mm*300mm*3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips:The default parameters are suitable for 300mm × 300mm × 3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="图片描述" width="1200" />
 
