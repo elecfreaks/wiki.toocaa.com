@@ -27,20 +27,20 @@ YouTube视频链接：[Valentine's Day Rose](https://www.youtube.com/shorts/OlfB
 
 点击**Open**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/1.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/1.png" alt="图片描述" width="1200" />
 
 点击**Yes**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/2.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/2.png" alt="图片描述" width="1200" />
 
 打开对应后缀为**TCS**的文件
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/3.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/3.png" alt="图片描述" width="1200" />
 
 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：The default parameters are suitable for 300mm*300mm*3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="图片描述" width="1200" />
 
 
