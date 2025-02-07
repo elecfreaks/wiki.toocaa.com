@@ -1,7 +1,7 @@
 ---
 
 sidebar_position: 1
-sidebar_label: valentine's day rose
+sidebar_label: Valentine's Day Rose
 
 ---
 
