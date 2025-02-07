@@ -35,17 +35,17 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
     allowfullscreen>
 </iframe>
 
-**Step 1** 启动TOOCAA Studio
+**Step 1** 启动TOOCAA Studio。
 
-**Step 2** 点击**Open**
+**Step 2** 点击**Open**。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/1.png" alt="图片描述" width="1200" />
 
-**Step 3** 点击**Yes**
+**Step 3** 点击**Yes**。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/2.png" alt="图片描述" width="1200" />
 
-**Step 4** 打开对应后缀为**TCS**的文件
+**Step 4** 打开对应后缀为**TCS**的文件。
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/3.png" alt="图片描述" width="1200" />
 
