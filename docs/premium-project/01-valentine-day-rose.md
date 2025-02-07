@@ -35,21 +35,21 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
     allowfullscreen>
 </iframe>
 
-启动TOOCAA Studio
+**Step 1** 启动TOOCAA Studio
 
-点击**Open**
+**Step 2** 点击**Open**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/1.png" alt="图片描述" width="1200" />
 
-点击**Yes**
+**Step 3** 点击**Yes**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/2.png" alt="图片描述" width="1200" />
 
-打开对应后缀为**TCS**的文件
+**Step 4** 打开对应后缀为**TCS**的文件
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/3.png" alt="图片描述" width="1200" />
 
-将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
+**Step 5** 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/4.png" alt="图片描述" width="1200" /><br/>
