@@ -13,7 +13,7 @@ This elegant “Valentine's Day Rose” carving project combines the precision o
 ## Production Info
 |  |  |  
 | :---: | :---: | 
-| **Machine & processing module** | TOOCAA L2 Desktop Laser Engraver & Cutter |
+| **Machine & processing module** | TOOCAA L2 Desktop Laser Engraver & Cutter 20w |
 | **Software** | TOOCAA Studio\LightBurn |
 | **Material used** | 300mm × 300mm × 3mm plywood (about ⅛ inch) |
 
