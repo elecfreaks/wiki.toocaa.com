@@ -22,8 +22,6 @@ TOOCAA Studio file link:[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hon
 LightBurn file link:[Valentine's Day Rose.lbrn](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip)
 
 ## Case Tutorial
-YouTube video link:<br/>
-
 <iframe 
     width="800" 
     height="600" 
