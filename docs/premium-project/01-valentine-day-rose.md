@@ -7,7 +7,7 @@ sidebar_label: 情人节玫瑰
 ## 产品描述
 这款精美的“情人节玫瑰”雕刻作品是表达爱意的完美选择。利用激光切割及雕刻技术，将浪漫与艺术融为一体，细致的花瓣和优雅的玫瑰花朵设计，展现出无与伦比的精致与情感深度。无论是作为礼物赠送给心爱的人，还是装饰家居，它都能成为值得珍藏的纪念品。选择这款项目，给你的情人节增添一抹独特的艺术气息，传递温暖与爱。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Main.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Main.png)
 
 ## 产品信息
 |  |  |  
