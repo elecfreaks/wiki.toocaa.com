@@ -8,7 +8,7 @@ sidebar_label: Valentine's Day Rose
 ## Summary
 This elegant “Valentine's Day Rose” carving project combines the precision of both laser cutting and engraving technologies to create a stunning representation of love. The intricate petals and delicate rose design capture the essence of romance, making it the perfect gift for a loved one or a beautiful decorative piece to cherish. Whether as a heartfelt gift or a timeless keepsake, this project adds a unique artistic touch to your Valentine’s Day celebrations, conveying warmth and affection.  
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/Main.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Main.png)
 
 ## Production Info
 |  |  |  
@@ -30,21 +30,21 @@ Start TOOCAA Studio
 
 Click **Open**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/1.png" alt="" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/1.png" alt="图片描述" width="1200" />
 
 Click **Yes**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/2.png" alt="" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/2.png" alt="图片描述" width="1200" />
 
 Open the corresponding file with the suffix **TCS**
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/3.png" alt="" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/3.png" alt="图片描述" width="1200" />
 
 After setting appropriate parameters for the material, perform the **Frame** operation. If the position meets your requirements, you can click in the lower right corner to **start** creating.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips:The default parameters are suitable for 300mm × 300mm × 3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="" width="1200" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/4.png" alt="图片描述" width="1200" /><br/>
 After completing the engraving and cutting, you can paint the piece according to your personal preferences. Once the painting is finished, simply use adhesive to bond the linden wood panels. If everything goes smoothly, you'll have a perfect piece ready within 15 minutes.
 
 
