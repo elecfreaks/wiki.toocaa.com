@@ -17,12 +17,11 @@ sidebar_label: 情人节玫瑰
 | **材料** | 300mm × 300mm × 3mm 椴木板 |
 
 ## 文件下载
-TOOCAA Studio文件链接：[Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip)<br/>
-LightBurn文件链接：[Valentine's Day Rose.lbrn](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip)
+TOOCAA Studio文件链接：![Valentine's Day Rose.TCS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip)<br/>
+LightBurn文件链接：![Valentine's Day Rose.lbrn](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip)
 
 ## 案例教程
-YouTube视频链接：<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/OlfBOs4A55E" frameborder="0" allowfullscreen></iframe>
+![Valentine's Day Rose](https://www.youtube.com/shorts/OlfBOs4A55E)
 
 启动TOOCAA Studio
 
