@@ -49,7 +49,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：默认参数适用于300mm×300mm×3mm的胶合板。如果您使用其他类型耗材，请自适应调整参数。
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/4.png" alt="图片描述" width="1200" /><br/>
 在完成雕刻工序和切割工序后，您可以根据个人喜好为作品上色，上色完成后，可通过胶水将椴木板粘合。如果一切顺利，您将在15分钟内完成一个完美的作品！
 
