@@ -39,8 +39,7 @@ YouTube视频链接：[Valentine's Day Rose](https://www.youtube.com/shorts/OlfB
 
 将素材导入LightBurn，为耗材设置合适的参数后进行**走边框**，如走边框位置满足需求即可点击**开始**进行创作。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：The default parameters are suitable for 300mm*300mm*3mm plywood. If you use other types of consumables, please adjust the parameters adaptively.
-
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：默认参数适用于300mm×300mm×3mm的胶合板。如果您使用其他类型耗材，请自适应调整参数。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine's%20Day%20Rose/4.png" alt="图片描述" width="1200" />
 
 
