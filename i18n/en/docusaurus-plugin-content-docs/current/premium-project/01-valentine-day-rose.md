@@ -4,7 +4,7 @@ sidebar_position: 1
 sidebar_label: Valentine's Day Rose
 
 ---
-
+# Valentine's Day Rose
 ## Summary
 This elegant “Valentine's Day Rose” carving project combines the precision of both laser cutting and engraving technologies to create a stunning representation of love. The intricate petals and delicate rose design capture the essence of romance, making it the perfect gift for a loved one or a beautiful decorative piece to cherish. Whether as a heartfelt gift or a timeless keepsake, this project adds a unique artistic touch to your Valentine’s Day celebrations, conveying warmth and affection.  
 
