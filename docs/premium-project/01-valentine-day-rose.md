@@ -1,8 +1,7 @@
 ---
 
 sidebar_position: 1
-sidebar_label: Valentine's Day Rose
-
+sidebar_label: 情人节玫瑰
 ---
 
 # 产品描述
