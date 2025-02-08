@@ -20,9 +20,9 @@ This elegant “Valentine's Day Rose” carving project combines the precision o
 | **Cutting Parameters** | Speed: 380mm/min Power: 80% |
 
 ## Digital Downloads
-TOOCAA Studio File Share (Copy and paste the link into your browser to download):  <br/>
+**TOOCAA Studio** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip  <br/>
-LightBurn File Share (Copy and paste the link into your browser to download):  <br/>
+**LightBurn** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip  
 
 ## Case Tutorial
