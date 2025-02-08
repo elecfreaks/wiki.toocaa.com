@@ -28,9 +28,9 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Calendar-city-2025/Calendar
 ## Case Tutorial
 
 <iframe 
-    width="800" 
-    height="600" 
-    src="https://www.youtube.com/shorts/kOYFGWlZsFA" 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/kOYFGWlZsFA" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
     allowfullscreen>
