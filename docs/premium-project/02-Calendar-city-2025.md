@@ -19,9 +19,9 @@ sidebar_label: 2025城市日历
 | **作品切割参数** | 速度：380mm/min 功率：80% |
 
 ## 文件下载
-TOOCAA Studio文件分享（复制下方链接到浏览器下载）：<br/>
+**TOOCAA Studio**文件分享（复制下方链接到浏览器下载）：<br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Calendar-city-2025/Calendar-city-2025-TCS.zip  <br/>
-LightBurn文件分享（复制下方链接到浏览器下载）：<br/>
+**LightBurn**文件分享（复制下方链接到浏览器下载）：<br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Calendar-city-2025/Calendar-city-2025-LBRN.zip  
 
 
