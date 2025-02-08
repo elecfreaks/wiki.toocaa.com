@@ -20,9 +20,9 @@ Calendar City 2025 is a uniquely crafted engraved calendar that takes you on a j
 | **Cutting Parameters** | Speed: 380mm/min Power: 80% |
 
 ## Digital Downloads
-TOOCAA Studio File Share (Copy and paste the link into your browser to download):  <br/>
+**TOOCAA Studio** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Calendar-city-2025/Calendar-city-2025-TCS.zip  <br/>
-LightBurn File Share (Copy and paste the link into your browser to download):  <br/>
+**LightBurn** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Calendar-city-2025/Calendar-city-2025-LBRN.zip
 
 ## Case Tutorial
