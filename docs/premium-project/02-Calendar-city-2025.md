@@ -15,8 +15,8 @@ sidebar_label: 2025城市日历
 | **机器型号** | TOOCAA L2 Desktop Laser Engraver & Cutter 20W |
 | **软件** | TOOCAA Studio\LightBurn |
 | **推荐材料** | 300mm × 300mm × 3mm × 2pcs 椴木板 |
-| **作品雕刻参数** | 速度：4000mm/min 功率：20% |
-| **作品切割参数** | 速度：380mm/min 功率：80% |
+| **作品雕刻参数** | 速度：4000mm/min<br/>功率：20% |
+| **作品切割参数** | 速度：380mm/min<br/>功率：80% |
 
 ## 文件下载
 **TOOCAA Studio**文件分享（复制下方链接到浏览器下载）：<br/>
