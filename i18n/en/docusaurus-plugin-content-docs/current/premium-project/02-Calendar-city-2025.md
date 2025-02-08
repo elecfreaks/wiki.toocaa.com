@@ -15,7 +15,7 @@ Calendar City 2025 is a uniquely crafted engraved calendar that takes you on a j
 | :---: | :---: | 
 | **Machine & Processing Module** | TOOCAA L2 Desktop Laser Engraver & Cutter 20W |
 | **Software** | TOOCAA Studio\LightBurn |
-| **Material Used** | 300mm × 300mm × 3mm plywood (about ⅛ inch) |
+| **Material Used** | 300mm × 300mm × 3mm × 2pcs plywood (about ⅛ inch) |
 | **Engraving Parameters** | Speed: 4000mm/min Power: 20% |
 | **Cutting Parameters** | Speed: 380mm/min Power: 80% |
 
