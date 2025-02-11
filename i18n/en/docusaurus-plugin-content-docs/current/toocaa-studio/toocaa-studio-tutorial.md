@@ -194,8 +194,8 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 **New Features:**  
 - **Added** element flip, rotate, and alignment functions to enhance editing flexibility.  
 - **Added** adjustable corner radius for rectangles, enabling more design possibilities.  
-- **Added** support for **TOOCAA Smart Camera** to achieve more precise positioning and preview.  
-- **Added** compatibility with **TOOCAA 5-in-1 Rotary for L2**, expanding rotary engraving modes.  
-- **Added** **SVG export** for seamless cross-software editing and sharing.  
-- **Added** support for **TOOCAA Studio File (TCS) import/export**, improving project management efficiency.  
+- **Added** support for TOOCAA Smart Camera to achieve more precise positioning and preview.  
+- **Added** compatibility with TOOCAA 5-in-1 Rotary for L2, expanding rotary engraving modes.  
+- **Added** SVG export for seamless cross-software editing and sharing.  
+- **Added** support for TOOCAA Studio File (TCS) import/export, improving project management efficiency.  
 - **Added** element copy & paste functionality to streamline the graphic editing process.
