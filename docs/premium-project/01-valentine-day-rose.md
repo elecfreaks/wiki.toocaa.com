@@ -83,14 +83,14 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%BB%E9%A1%B5.png" alt="图片描述" width="1200" />
 
 
-**Step 15**  在连接串行端口选择弹窗中选择 **TOOCAA L2 串行端口** 后，点击 **【连接】**。  
+**Step 15**  在连接串行端口选择弹窗中选择**TOOCAA L2 串行端口**后，点击**【连接】**。  
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%B2%E5%8F%A3%E9%80%89%E6%8B%A9.png" alt="图片描述" width="400" />
 
 ![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法正常使用。**  
 
 
-**TOOCAA L2 串行端口核实方法：将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。**  
+**TOOCAA L2 串行端口核实方法：将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为TOOCAA L2串行端口。**  
 
 **Step 16** 检查图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
@@ -100,7 +100,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **Step 17** 修改图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/8.png" alt="图片描述" width="1200" />
 
-**Step 18** 进行 **走边框**。  
+**Step 18** 进行**走边框**。  
 
 ![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。**  
 
