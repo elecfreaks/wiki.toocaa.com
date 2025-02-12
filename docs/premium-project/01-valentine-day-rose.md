@@ -18,13 +18,6 @@ sidebar_label: 情人节玫瑰
 | **作品雕刻参数** | 速度：4000mm/min <br/>功率：20% |
 | **作品切割参数** | 速度：380mm/min <br/>功率：80% |
 
-## 文件下载
-**TOOCAA Studio**文件分享（复制下方链接到浏览器下载）：<br/>
-http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip  <br/>
-**LightBurn**文件分享（复制下方链接到浏览器下载）：<br/>
-http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip  
-
-
 ## 作品展示
 <iframe 
     width="800" 
@@ -34,6 +27,14 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
     allowfullscreen>
 </iframe>
+
+
+## 文件下载
+**TOOCAA Studio**文件分享（复制下方链接到浏览器下载）：<br/>
+http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-TCS.zip  <br/>
+**LightBurn**文件分享（复制下方链接到浏览器下载）：<br/>
+http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip  
+
 
 ## 开始动手制作吧~！
 **Step 1** 将Type-C线的其中一端插入TOOCAA L2机身的Type-C接口，另一端与电脑相连。
