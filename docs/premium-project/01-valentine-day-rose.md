@@ -68,7 +68,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/6.png" alt="图片描述" width="1000" />
 
 **Step 10** 在电脑任意浏览器中打开**TOOCAA Studio**。<br/>
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)TOOCAA Studio链接：https://toocaastudio.com/
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TOOCAA Studio链接：https://toocaastudio.com/**
 
 **Step 11** 点击**Open**。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/1.png" alt="图片描述" width="1200" />
@@ -97,7 +97,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 **Step 18** 进行**走边框**。
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) <br/>
-**Tips**：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。
+**Tips：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。**
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/9.png" alt="图片描述" width="1200" />
 
 **Step 19** 如走边框位置适用于当前耗材位置，即可在右下角点击**开始**进行创作。
