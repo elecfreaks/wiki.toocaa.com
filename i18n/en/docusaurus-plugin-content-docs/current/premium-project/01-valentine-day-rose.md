@@ -107,7 +107,7 @@ Modify layer parameters.
 ### Frame Test
 ![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips: The purpose of the border is to confirm whether the working area coincides with the location of the consumables. If the working area is inconsistent with the location of the consumables, please adjust the position of the material elements in the canvas to make them coincide with the location of the consumables.**  
 
-Click**Frame**. 
+Click **Frame**. 
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/9.png" alt="图片描述" width="1200" />
 
