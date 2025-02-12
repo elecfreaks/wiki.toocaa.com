@@ -91,7 +91,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 
 **TOOCAA L2 串行端口核实方法：**  
-将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。  
+**将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。**  
 
 **Step 16** 检查图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
