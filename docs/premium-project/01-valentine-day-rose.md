@@ -43,7 +43,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 ![图片描述](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png)  
 
-![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **TIPS：合适耗材的焦距能确保获得最佳的雕刻和切割效果。**  
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：合适耗材的焦距能确保获得最佳的雕刻和切割效果。**  
 
 
 **Step 3** 将激光模组的定焦杆放下。
@@ -90,11 +90,11 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 **Step 16** 检查图层参数。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" /><br/>
-![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：https://www.toocaa.com/pages/material-settings-for-toocaa-machines<br/>**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：https://www.toocaa.com/pages/material-settings-for-toocaa-machines<br/>**
 
 **Step 16**检查图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" /><br/>
-![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：默认参数适用于 300mm × 300mm × 3mm 的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：[材料参数设置](https://www.toocaa.com/pages/material-settings-for-toocaa-machines)**  
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Tips：默认参数适用于 300mm × 300mm × 3mm 的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：[材料参数设置](https://www.toocaa.com/pages/material-settings-for-toocaa-machines)**  
 
 
 **Step 17** 修改图层参数。
