@@ -89,8 +89,8 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **TOOCAA L2串行端口核实方法：将Type-C线拔下后重新连接，弹窗内新出现的串行端口即为TOOCAA L2串行端口。**
 
 **Step 16** 检查图层参数。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：https://www.toocaa.com/pages/material-settings-for-toocaa-machines<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" /><br/>
+![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：https://www.toocaa.com/pages/material-settings-for-toocaa-machines<br/>**
 
 **Step 17** 修改图层参数。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/8.png" alt="图片描述" width="1200" />
