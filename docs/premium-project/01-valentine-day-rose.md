@@ -39,7 +39,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **Step 1** 将Type-C线的其中一端插入TOOCAA L2机身的Type-C接口，另一端与电脑相连。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="1000" />
 
-## Step 2  
+**Step 2**
 将耗材放置于 TOOCAA L2 工作区域。  
 
 ![图片描述](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png)  
