@@ -46,19 +46,19 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：合适耗材的焦距能确保获得最佳的雕刻和切割效果。**  
 
 
-**Step 3** 将激光模组的定焦杆放下。
+**Step 3** 将激光模块的定焦杆放下。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="600" />
 
-**Step 4** 往上扳动激光模组扳扣。
+**Step 4** 往上扳动激光模块扳扣。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/14.png" alt="图片描述" width="600" />
 
-**Step 5** 调节激光模组的位置，使激光模组的定焦杆尖端落到椴木板上。
+**Step 5** 调节激光模块的位置，使激光模块的定焦杆尖端落到椴木板上。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/15.png" alt="图片描述" width="600" />
 
 **Step 6** 往下扳动扳手以固定激光模块的位置。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/16.png" alt="图片描述" width="600" />
 
-**Step 7** 收回激光模组定焦杆。
+**Step 7** 收回激光模块定焦杆。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/17.png" alt="图片描述" width="600" />
 
 **Step 8** 合上TOOCAA L2智能防护罩。
