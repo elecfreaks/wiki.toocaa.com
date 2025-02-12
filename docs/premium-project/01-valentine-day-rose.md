@@ -82,26 +82,25 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **Step 14** 在TOOCAA Studio右上角点击**【Connect device】**。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%BB%E9%A1%B5.png" alt="图片描述" width="1200" />
 
-**Step 15** 在连接串行端口选择弹窗中选择**TOOCAA L2 串行端口**后，点击**【连接】**。<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%B2%E5%8F%A3%E9%80%89%E6%8B%A9.png" alt="图片描述" width="400" />
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法正常使用。** <br/>
+**Step 15**在连接串行端口选择弹窗中选择 **TOOCAA L2 串行端口** 后，点击 **【连接】**。  
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E4%B8%B2%E5%8F%A3%E9%80%89%E6%8B%A9.png" alt="图片描述" width="1200" /><br/>
+![注意](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **注意：请核实连接串行端口为 TOOCAA L2 串行端口，如若连接至其他设备串行端口，将无法正常使用。**  
 
-**TOOCAA L2串行端口核实方法：将Type-C线拔下后重新连接，弹窗内新出现的串行端口即为TOOCAA L2串行端口。**
+**TOOCAA L2 串行端口核实方法：**  
+将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。  
 
-**Step 16** 检查图层参数。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" /><br/>
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Tips：默认参数适用于300mm×300mm×3mm的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：https://www.toocaa.com/pages/material-settings-for-toocaa-machines<br/>**
+**Step 16**  检查图层参数。  
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
 
-**Step 16**检查图层参数。  
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" /><br/>
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Tips：默认参数适用于 300mm × 300mm × 3mm 的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：[材料参数设置](https://www.toocaa.com/pages/material-settings-for-toocaa-machines)**  
+![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：默认参数适用于 300mm × 300mm × 3mm 的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：[材料参数设置](https://www.toocaa.com/pages/material-settings-for-toocaa-machines)**  
 
-
-**Step 17** 修改图层参数。
+**Step 17**  修改图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/8.png" alt="图片描述" width="1200" />
 
-**Step 18** 进行**走边框**。
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。**
+**Step 18** 进行 **走边框**。  
+
+![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。**  
+
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/9.png" alt="图片描述" width="1200" />
 
 **Step 19** 如走边框位置适用于当前耗材位置，即可在右下角点击**开始**进行创作。
