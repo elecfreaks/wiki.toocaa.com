@@ -98,5 +98,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 **Step 19** 如走边框位置适用于当前耗材位置，即可在右下角点击**开始**进行创作。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/10.png" alt="图片描述" width="1200" /><br/>
-在完成雕刻工序和切割工序后，您可以根据个人喜好为作品上色，上色完成后，可通过胶水将椴木板粘合。如果一切顺利，您将在15分钟内完成一个完美的作品！
+
+**Step 20** 在完成雕刻工序和切割工序后，您可以根据个人喜好为作品上色，上色完成后，可通过胶水将椴木板粘合。如果一切顺利，您将在15分钟内完成一个完美的作品！
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/19.png" alt="图片描述" width="1200" /><br/>
 
