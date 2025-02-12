@@ -39,7 +39,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 ## Let's start creating!
 ### Device Connection
 Insert one end of the Type-C cable into the Type-C port on the **TOOCAA L2** body, and connect the other end to the computer.
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="600" />
 
 Place the consumables in the **TOOCAA L2** working area.  
 
