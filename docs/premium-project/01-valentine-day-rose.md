@@ -37,32 +37,32 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 ## 开始动手制作吧~！
 **Step 1** 将Type-C线的其中一端插入TOOCAA L2机身的Type-C接口，另一端与电脑相连。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="1000" />
 
 **Step 2** 将耗材放置于TOOCAA L2工作区域。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png" alt="图片描述" width="1200" />
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Tips**：合适耗材的焦距能确保获得最佳的雕刻和切割效果。
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png" alt="图片描述" width="1000" />
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips**：合适耗材的焦距能确保获得最佳的雕刻和切割效果。
 
 **Step 3** 将激光模组的定焦杆放下。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="1000" />
 
 **Step 4** 往上扳动激光模组扳扣。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/14.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/14.png" alt="图片描述" width="1000" />
 
 **Step 5** 调节激光模组的位置，使激光模组的定焦杆尖端落到椴木板上。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/15.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/15.png" alt="图片描述" width="1000" />
 
 **Step 6** 往下扳动扳手以固定激光模块的位置。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/16.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/16.png" alt="图片描述" width="1000" />
 
 **Step 7** 收回激光模组定焦杆。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/17.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/17.png" alt="图片描述" width="1000" />
 
 **Step 8** 合上TOOCAA L2智能防护罩。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/18.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/18.png" alt="图片描述" width="1000" />
 
 **Step 9** 打开TOOCAA L2电源开关。
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/6.png" alt="图片描述" width="1200" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/6.png" alt="图片描述" width="1000" />
 
 **Step 10** 在电脑任意浏览器中打开**TOOCAA Studio**。<br/>
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)TOOCAA Studio链接：https://toocaastudio.com/
