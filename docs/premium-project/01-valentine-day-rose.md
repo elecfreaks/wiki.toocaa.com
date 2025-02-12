@@ -73,7 +73,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **Step 12** 点击**Yes**。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/2.png" alt="图片描述" width="1200" />
 
-**Step 13** 打开对应后缀为**TCS**的文件。
+**Step 13** 打开后缀为**TCS**的文件。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/3.png" alt="图片描述" width="1200" />
 
 **Step 14** 在TOOCAA Studio右上角点击**【Connect device】**。
@@ -93,6 +93,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/8.png" alt="图片描述" width="1200" />
 
 **Step 18** 进行**走边框**。
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips**：走边框的目的在于确认工作区域是否与耗材所在位置重合。若工作区域与耗材所在位置不一致，请对画布内素材元素进行位置调整，使其与耗材所在位置重合。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/9.png" alt="图片描述" width="1200" />
 
 **Step 19** 如走边框位置适用于当前耗材位置，即可在右下角点击**开始**进行创作。
