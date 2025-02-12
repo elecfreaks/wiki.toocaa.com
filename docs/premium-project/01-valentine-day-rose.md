@@ -39,7 +39,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **Step 1** 将Type-C线的其中一端插入TOOCAA L2机身的Type-C接口，另一端与电脑相连。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="1000" />
 
-**Step 2**将耗材放置于 TOOCAA L2 工作区域。  
+**Step 2** 将耗材放置于 TOOCAA L2 工作区域。  
 
 ![图片描述](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png)  
 
@@ -93,12 +93,12 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **TOOCAA L2 串行端口核实方法：**  
 将 Type-C 线拔下后重新连接，弹窗内新出现的串行端口即为 TOOCAA L2 串行端口。  
 
-**Step 16**  检查图层参数。  
+**Step 16** 检查图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
 
 ![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips：默认参数适用于 300mm × 300mm × 3mm 的胶合椴木板。如果您使用其他类型耗材，请自适应调整参数。其他耗材参数参考网址：[材料参数设置](https://www.toocaa.com/pages/material-settings-for-toocaa-machines)**  
 
-**Step 17**  修改图层参数。  
+**Step 17** 修改图层参数。  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/8.png" alt="图片描述" width="1200" />
 
 **Step 18** 进行 **走边框**。  
