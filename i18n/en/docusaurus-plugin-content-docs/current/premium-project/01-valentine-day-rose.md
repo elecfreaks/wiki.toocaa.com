@@ -36,7 +36,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **LightBurn** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip  
 
-## Let's start creating!
+## Let's Start Creating!
 ### Device Connection
 Insert one end of the Type-C cable into the Type-C port on the **TOOCAA L2** body, and connect the other end to the computer.
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/5.jpg" alt="图片描述" width="600" />
@@ -45,7 +45,7 @@ Place the consumables in the **TOOCAA L2** working area.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png" alt="图片描述" width="600" />
 
-### Laser module focusing
+### Laser Module Focusing
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：The right focal length ensures the best engraving and cutting results.**  
 Lower the focus lever on the left side of the laser module.
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="600" />
@@ -95,7 +95,7 @@ In the serial port selection pop-up window, select TOOCAA L2 serial port and cli
 
 ![TIPS](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **TOOCAA L2 serial port verification method: unplug the Type-C cable and reconnect it. The new serial port that appears in the pop-up window is the TOOCAA L2 serial port.**  
 
-### Parameter modification
+### Parameter Modification
 Check the layer parameters.  
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/7.png" alt="图片描述" width="1200" />
 
@@ -111,7 +111,7 @@ Click **Frame**.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/9.png" alt="图片描述" width="1200" />
 
-### Creation begins
+### Creation Begins
 If the border position is suitable for the current consumable position, you can click in the lower right corner to start creating.
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/10.png" alt="图片描述" width="1200" /><br/>
 
