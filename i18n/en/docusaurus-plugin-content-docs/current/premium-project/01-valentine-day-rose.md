@@ -36,8 +36,6 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 **LightBurn** File Share (Copy and paste the link into your browser to download):  <br/>
 http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentine-Day-Rose-LBRN.zip  
 
-## Case Tutorial
-
 ## Let's start creating!
 ### Device Connection
 Insert one end of the Type-C cable into the Type-C port on the **TOOCAA L2** body, and connect the other end to the computer.
@@ -45,7 +43,7 @@ Insert one end of the Type-C cable into the Type-C port on the **TOOCAA L2** bod
 
 Place the consumables in the **TOOCAA L2** working area.  
 
-![图片描述](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png)  
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png" alt="图片描述" width="600" />
 
 ### Laser module focusing
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：The right focal length ensures the best engraving and cutting results.**  
