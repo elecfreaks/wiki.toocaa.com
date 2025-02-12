@@ -41,7 +41,7 @@ http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/Valentin
 
 **Step 2** 将耗材放置于TOOCAA L2工作区域。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/11.png" alt="图片描述" width="1000" />
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png) **Tips**：合适耗材的焦距能确保获得最佳的雕刻和切割效果。
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：合适耗材的焦距能确保获得最佳的雕刻和切割效果。**
 
 **Step 3** 将激光模组的定焦杆放下。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="1000" />
