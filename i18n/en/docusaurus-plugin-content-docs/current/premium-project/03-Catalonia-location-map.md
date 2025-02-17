@@ -7,7 +7,7 @@ sidebar_label: Catalonia Location Map
 # Catalonia Location Map
 ## Summary
 This interactive puzzle features a detailed map of Catalonia, with each piece representing a different city or region. The laser-engraved details clearly define geographical boundaries and key locations, making it both an engaging puzzle and an educational or decorative piece. Ideal for travel enthusiasts, students, and cultural researchers, it offers a hands-on way to explore the region while assembling the map.
-
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Catalonia-location-map/1.png)
 
 ## Production Info
 |  |  |  
