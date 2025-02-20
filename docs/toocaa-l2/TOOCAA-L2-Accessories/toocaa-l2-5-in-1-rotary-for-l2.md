@@ -21,7 +21,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 | 雕刻直径范围 | 滚筒旋转：5-200(mm)<br/>卡盘旋转：0-140(mm)<br/>球面旋转：25-120(mm)<br/>环形旋转：12-100(mm) |
 | 卡盘角度调整范围 | 0°-180° |
 | 兼容机器 | TOOCAA L2 |
-| 兼容软件 | LightBurn |
+| 兼容软件 | TOOCAA Studio\LightBurn |
 
 
 ### 拆箱检查
