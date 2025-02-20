@@ -8,6 +8,16 @@ sidebar_label: 加泰罗尼亚地图
 这是一款互动式拼图，以加泰罗尼亚地区地图为主题，包含多个独立拼块，每块对应不同的城市或区域。激光雕刻清晰展现地理边界和主要城市标识，让拼图不仅具备拼接的趣味性，还能作为教育工具或展示品。适合旅行爱好者、学生、文化研究者，可以边拼边了解这片区域的地理分布。<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Catalonia-location-map/1.png" alt="图片描述" width="600" />
 
+## 作品展示
+<iframe 
+    width="800" 
+    height="600" 
+    src="https://www.youtube.com/shorts/qD8YAKKeqpw"   
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
+    allowfullscreen>
+</iframe>
+
 ## 作品信息
 |  |  |  
 | :---: | :---: | 
