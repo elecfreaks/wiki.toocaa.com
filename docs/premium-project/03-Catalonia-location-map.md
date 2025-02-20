@@ -12,7 +12,7 @@ sidebar_label: 加泰罗尼亚地图
 <iframe 
     width="800" 
     height="600" 
-    src="https://www.youtube.com/shorts/qD8YAKKeqpw"   
+    src="https://www.youtube.com/embed/qD8YAKKeqpw"   
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
     allowfullscreen>
