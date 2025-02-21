@@ -5,7 +5,7 @@ sidebar_label: TOOCAA 5-in-1 Rotary for L2
 
 ---
 # TOOCAA 5-in-1 Rotary for L2
-## **Get to know TOOCAA 5-in-1 Rotary for L2**
+## Get to know TOOCAA 5-in-1 Rotary for L2
 ### Product Description
 TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precision machining of various materials. It has 5 types of accessories that can handle different types of materials in multiple scenarios, supporting the needs of hobbyists and professionals seeking high-quality engraving and cutting solutions. Applicable to manual projects, model making, small batch production, and school education.
 
@@ -14,7 +14,7 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 + 【**Fast and Precise**】The maximum engraving speed of the laser rotary attachment can reach 360°/sec. It is equipped with a high-precision, high-torque stepper motor with a minimum step angle of 0.02°, letting you capture all the details in your creation.
 + 【**Efficient Service**】Please contact us if you encounter any problems with the swivel attachment, TOOCAA product experts will provide friendly customer service and professional technical support within 24 hours.
 
-### **Product Specification**
+### Product Specification
 |  |  |  
 | :---: | :---: | 
 | Product Name | TOOCAA 5-in-1 Rotary for L2 |
@@ -27,10 +27,10 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 | Compatible Software | TOOCAA Studio\LightBurn |
 
 
-### **Unboxing inspection**
+### Unboxing inspection
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B8%85%E5%8D%95.png" alt="图片描述" width="900" />
 
-### **Applicable object reference**
+### Applicable object reference
 We need to use different types of accessories when engraving some large or irregular consumables. The following is a reference for the objects that the 5 types of accessories are suitable for.
 
 | Types of Accessories | Definition of Product Function | Diameter Range | Accessories Pictures |
@@ -42,7 +42,7 @@ We need to use different types of accessories when engraving some large or irreg
 | 180° Adjustable Flip Mode | Applicable to special-shaped beveled cylinders and inner rings | / | <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180.png" alt="图片描述" width="400" /> |
 
 
-### **Roller Rotary Accessories Operation Tutorial**
+### Roller Rotary Accessories Operation Tutorial
 1.  Insert the clutch components into the chuck body assembly and secure it with the screws.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9B%BA%E5%AE%9A%E7%A6%BB%E5%90%88%E5%99%A8%E7%BB%84%E4%BB%B6.jpg" alt="图片描述" width="700" />
@@ -130,7 +130,7 @@ The support module is specially designed for longer consumables. The height of t
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%AB%98%E5%BA%A6%E8%B0%83%E6%95%B4.png" alt="图片描述" width="700" />
 
-## **Device Connection Operation**
+## Device Connection Operation
 1. Remove the black silicone pad from the TOOCAA L2 foot pad, connect the heightening feet to the foot pad, and increase the height of the machine.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%9E%AB%E9%AB%98%E6%9C%BA%E5%99%A8.png" alt="图片描述" width="700" />
@@ -147,7 +147,7 @@ The support module is specially designed for longer consumables. The height of t
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E4%BD%8D%E7%BD%AE%E6%A0%87%E8%AF%86.jpg" alt="图片描述" width="700" />
 
-## **Focus Operation**
+## Focus Operation
 Select the appropriate accessories according to the type of cutting/engraving material, and adjust the TOOCAA 5-in-1 Rotary for L2, cutting/engraving material, and TOOCAA L2 machine X-axis to a horizontal and parallel state.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%B0%B4%E5%B9%B3%E5%AF%B9%E9%BD%90.jpg" alt="图片描述" width="700" />
@@ -158,7 +158,7 @@ Adjust the laser module focus lever so that the tip of the focus lever touches t
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%AF%B9%E7%84%A6%E8%B0%83%E6%95%B4.jpg" alt="图片描述" width="700" />
 
-## **Software Operation**
+## Software Operation
 ### Download and verify the configuration file of TOOCAA 5-in-1 Rotary for L2
 1. Please click the link below to download the configuration file.
 
@@ -184,7 +184,7 @@ If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuratio
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
-### **TOOCAA Studio & TOOCAA 5-in-1 Rotary for L2 Tutorial**
+### TOOCAA Studio & TOOCAA 5-in-1 Rotary for L2 Tutorial
 Start **TOOCAA Studio**.
 
 Click **Laser Tools** in the menu bar.
@@ -217,7 +217,7 @@ _**1. After selecting the rotary accessory mode in TOOCAA Studio, the positionin
 _**2. In the rotary accessory mode, the laser module's working starting position is the current position of the focus lever (relative coordinate). After using the focus lever to adjust the focal length to the actual filament size, processing can be started directly without the need to move (or return) the laser module a second time.**_
 
 
-### **LightBurn**
+### LightBurn
 **Notice:**
 
 1. Make sure you have purchased, downloaded, and installed a genuine copy of LightBurn.
@@ -278,40 +278,40 @@ Import the material into LightBurn, set appropriate parameters for the cutting/e
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 
-## **FAQ**
-### 1.**The rotary accessory does not rotate or rotates irregularly.**
+## FAQ
+### 1. The rotary accessory does not rotate or rotates irregularly.
 1. Make sure the machine is connected to the Z axis correctly.
 2.  Check whether the rotary accessory mode on LightBurn and the corresponding parameters of the step value per rotation and the roller diameter value are filled in correctly.
 3. If you confirm that the machine is connected correctly and the parameters are set correctly, but it still does not rotate or rotates irregularly, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: support@elecfreaks.com), and we will solve it for you as soon as possible.
 
-### 2. **Why can't the extension double-step jaw components/chuck needle be inserted after pressing the top button of the chuck?**
+### 2. Why can't the extension double-step jaw components/chuck needle be inserted after pressing the top button of the chuck?
 Please adjust the tightness of the chuck knob and then insert the double-step jaw components/chuck needle.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E6%9D%BE%E7%B4%A7.jpg" alt="图片描述" width="700" />
 
-### 3.**The side knob of the rotary accessory is locked.**
+### 3. The side knob of the rotary accessory is locked.
 If the side knob is locked and cannot be turned, please turn the rotary accessory body clockwise as shown in the figure below. After adjustment, the side knob can be easily turned.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%A1%BA%E6%97%B6%E9%92%88%E6%96%B9%E5%90%91%E8%BD%AC%E5%8A%A8%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E4%B8%BB%E4%BD%93.jpg" alt="图片描述" width="700" />
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E4%BE%A7%E9%9D%A2%E6%97%8B%E9%92%AE%E8%A7%A3%E9%99%A4%E9%94%81%E6%AD%BB%E6%95%85%E9%9A%9C.jpg" alt="图片描述" width="700" />
 
-### 4.  **Why does the image appear mirrored after engraving?**
+### 4.  Why does the image appear mirrored after engraving?
 Please cancel the 'mirror output to rotary' set when clicking the rotary setup in the mode toolbar to set parameters.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8F%96%E6%B6%88%E9%95%9C%E5%83%8F%E8%BE%93%E5%85%A5%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
-### 5.**The top or bottom of the engraved image is incomplete.**
+### 5. The top or bottom of the engraved image is incomplete.
 Please manually set the Z-axis overscan. 
 
 How to set: In LightBurn, draw a rectangular frame larger than the engraved image, select Power Max to 0, and then engrave the image.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%E8%BD%B4%E8%BF%87%E6%89%AB%E6%8F%8F%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
-### 6.**How to engrave materials with larger diameters (＞140mm) using chuck accessories? **
+### 6. How to engrave materials with larger diameters (＞140mm) using chuck accessories? 
 If you need to engrave materials with larger diameters (>140mm), it is recommended to use the roller rotary accessory for engraving.
 
-### 7.**How to use a vernier caliper?**
+### 7. How to use a vernier caliper?
 If you have any questions about how to read a vernier caliper, please read the following tutorial document:
 
 [https://en.wikipedia.org/wiki/Vernier_scale](https://en.wikipedia.org/wiki/Vernier_scale)
