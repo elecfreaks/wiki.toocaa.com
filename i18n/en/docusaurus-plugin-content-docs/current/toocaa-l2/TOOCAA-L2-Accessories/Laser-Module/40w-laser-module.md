@@ -8,7 +8,7 @@ sidebar_label: TOOCAA L2 40W Laser Module
 ## Get to know your TOOCAA L2 40W Laser Module
 TOOCAA L2 40W laser module is suitable for TOOCAA L2 laser cutting machine, with an output power of 40W. It is designed to support high-power cutting and engraving work and can easily cut very thick materials. Using advanced laser compression technology, the 0.13mm*0.15mm ultra-large spot achieves high-power cutting efficiency comparable to CO2 machines.
 
-## **Product Design**
+## Product Design
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/40w.png" alt="图片描述" width="400" />
 
 ## Product Specifications
@@ -27,7 +27,7 @@ TOOCAA L2 40W laser module is suitable for TOOCAA L2 laser cutting machine, with
 | Service Life | 6000h-8000h |
 
 
-## **Safety Warnings and Precautions**
+## Safety Warnings and Precautions
 1. Laser Safety Information
 
 TOOCAA L2 belongs to Class I laser products, and laser modules belong to Class IV laser products.
