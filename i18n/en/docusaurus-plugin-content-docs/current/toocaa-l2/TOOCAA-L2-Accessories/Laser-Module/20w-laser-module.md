@@ -26,7 +26,7 @@ TOOCAA L2 20W laser module is suitable for TOOCAA L2 laser cutting machine, with
 | Service Life | 8000h-10000h |
 
 
-## **Safety Warnings and Precautions**
+## Safety Warnings and Precautions
 1. Laser Safety Information
 
 TOOCAA L2 belongs to Class I laser products, and laser modules belong to Class IV laser products.
