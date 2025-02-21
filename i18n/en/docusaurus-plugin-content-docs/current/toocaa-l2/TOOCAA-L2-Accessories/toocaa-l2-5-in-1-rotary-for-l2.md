@@ -14,7 +14,7 @@ TOOCAA 5-in-1 Rotary for L2 is a versatile rotary accessory designed for precisi
 + 【**Fast and Precise**】The maximum engraving speed of the laser rotary attachment can reach 360°/sec. It is equipped with a high-precision, high-torque stepper motor with a minimum step angle of 0.02°, letting you capture all the details in your creation.
 + 【**Efficient Service**】Please contact us if you encounter any problems with the swivel attachment, TOOCAA product experts will provide friendly customer service and professional technical support within 24 hours.
 
-### Product Specification
+### **Product Specification**
 |  |  |  
 | :---: | :---: | 
 | Product Name | TOOCAA 5-in-1 Rotary for L2 |
@@ -84,7 +84,7 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
 
-### Sphere Rotary Accessories Operation Tutorial
+### **Sphere Rotary Accessories Operation Tutorial**
 1. As shown in the figure. Adjust the chuck knob clockwise to unlock, and adjust the chuck knob counterclockwise to lock. The chuck can be expanded or contracted by adjusting the chuck knob to facilitate the insertion of the chuck needle.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
@@ -184,7 +184,7 @@ If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuratio
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
-### TOOCAA Studio & TOOCAA 5-in-1 Rotary for L2 Tutorial
+### **TOOCAA Studio & TOOCAA 5-in-1 Rotary for L2 Tutorial**
 Start **TOOCAA Studio**.
 
 Click **Laser Tools** in the menu bar.
@@ -217,7 +217,7 @@ _**1. After selecting the rotary accessory mode in TOOCAA Studio, the positionin
 _**2. In the rotary accessory mode, the laser module's working starting position is the current position of the focus lever (relative coordinate). After using the focus lever to adjust the focal length to the actual filament size, processing can be started directly without the need to move (or return) the laser module a second time.**_
 
 
-### LightBurn
+### **LightBurn**
 **Notice:**
 
 1. Make sure you have purchased, downloaded, and installed a genuine copy of LightBurn.
