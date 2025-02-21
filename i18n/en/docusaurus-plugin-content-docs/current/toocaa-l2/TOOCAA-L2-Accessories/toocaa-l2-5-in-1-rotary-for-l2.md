@@ -278,7 +278,7 @@ Import the material into LightBurn, set appropriate parameters for the cutting/e
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%BC%80%E5%A7%8B%E5%88%9B%E4%BD%9C.png" alt="图片描述" width="700" />
 
-## FAQ
+## **FAQ**
 ### 1.**The rotary accessory does not rotate or rotates irregularly.**
 1. Make sure the machine is connected to the Z axis correctly.
 2.  Check whether the rotary accessory mode on LightBurn and the corresponding parameters of the step value per rotation and the roller diameter value are filled in correctly.
@@ -289,7 +289,7 @@ Please adjust the tightness of the chuck knob and then insert the double-step ja
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E8%B0%83%E6%95%B4%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E6%9D%BE%E7%B4%A7.jpg" alt="图片描述" width="700" />
 
-### 3.The side knob of the rotary accessory is locked.
+### 3.**The side knob of the rotary accessory is locked.**
 If the side knob is locked and cannot be turned, please turn the rotary accessory body clockwise as shown in the figure below. After adjustment, the side knob can be easily turned.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E9%A1%BA%E6%97%B6%E9%92%88%E6%96%B9%E5%90%91%E8%BD%AC%E5%8A%A8%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E4%B8%BB%E4%BD%93.jpg" alt="图片描述" width="700" />
@@ -301,7 +301,7 @@ Please cancel the 'mirror output to rotary' set when clicking the rotary setup i
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8F%96%E6%B6%88%E9%95%9C%E5%83%8F%E8%BE%93%E5%85%A5%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="700" />
 
-### 5.The top or bottom of the engraved image is incomplete.
+### 5.**The top or bottom of the engraved image is incomplete.**
 Please manually set the Z-axis overscan. 
 
 How to set: In LightBurn, draw a rectangular frame larger than the engraved image, select Power Max to 0, and then engrave the image.
