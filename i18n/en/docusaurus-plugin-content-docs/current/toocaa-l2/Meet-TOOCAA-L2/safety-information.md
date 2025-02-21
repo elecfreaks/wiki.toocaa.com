@@ -9,7 +9,7 @@ sidebar_label: Safety Information
 Before operating this product, be sure to read and fully understand all safety instructions and use procedures. Users should strictly observe all safety precautions and ensure that the product is properly assembled and in normal working condition. As long as you follow the safety regulations and operate the product correctly, the product will provide you with a pleasant and efficient experience.
 
   
-### **Please follow these operating principles:**
+### Please follow these operating principles:
 
 - Always check the unit for damage before each use. Do not operate damaged or defective equipment in any way.  
 - Minors must operate this product under the supervision and guidance of an adult.  
@@ -35,7 +35,7 @@ Under normal conditions, the laser module is wrapped in a light shield, the TOOC
 TOOCAA L2 is equipped with a smart enclosure, please follow the instructions to install and use it correctly. The enclosure will effectively filter out scattered laser light during operation. When the enclosure is properly installed and connected to the power supply, the opening and closing status of the enclosure is interlocked with the laser emission state, i.e., the product will automatically pause the laser operation when the enclosure is open, to prevent the laser from leaking out.
 
   
-### **Please follow the safety guidelines below:**
+### Please follow the safety guidelines below:
 
 - Never operate the machine with any part removed. Be aware that any part of the unit missing may expose the laser system and increase the risk of damage to the unit.  
 - Never engrave or cut any material containing PVC or vinyl (plastic is not recommended). These materials (as well as other chlorine/chlorinated materials) produce corrosive vapors that are extremely dangerous to humans and can cause damage to the equipment. Any damage caused by engraving or cutting any material containing PVC or vinyl is not covered by the warranty.  
@@ -49,7 +49,7 @@ TOOCAA L2 is equipped with a smart enclosure, please follow the instructions to 
 When cutting or engraving material, the equipment uses a high-density laser beam to irradiate the material, generating high temperatures on the surface of the material, with the goal of vaporizing the material without burning it. However, most materials are inherently flammable and can ignite and create an open flame, which can burn the equipment (even if the body is made of flame retardant materials) and its surroundings. Experience has shown that vector cutting with lasers is most likely to produce an open flame. In particular, acrylic has been shown to be very flammable in vector cutting.
 
   
-### **Please read the following warnings and recommendations carefully:**
+### Please read the following warnings and recommendations carefully:
 
 - Ensure that the space is well ventilated when operating the equipment so that fumes generated can escape in a timely manner.  
 - Never stack materials (especially organic materials such as paper) around the equipment that could increase the risk of fire.  
