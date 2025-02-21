@@ -11,7 +11,7 @@ TOOCAA L2 2W infrared laser module is suitable for the TOOCAA L2 laser cutting m
 ## Product Design
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/2w.jpg" alt="图片描述" width="400" /> 
 
-## **Product Specifications**
+## Product Specifications
 | Product Model | TC-LM2 |
 | :---: | :---: |
 | Power | 2W |
