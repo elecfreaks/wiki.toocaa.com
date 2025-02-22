@@ -73,7 +73,7 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E7%BB%84%E4%BB%B6%E6%B5%8B%E8%AF%95.png" alt="图片描述" width="700" />
 
-## **Chuck Rotary Accessories Operation Tutorial**
+## Chuck Rotary Accessories Operation Tutorial
 1. As shown in the figure. Adjust the chuck knob clockwise to unlock, and adjust the chuck knob counterclockwise to lock. The chuck can be expanded or contracted by adjusting the chuck knob to facilitate the insertion of the double-step jaw components.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E6%97%8B%E9%92%AE%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
@@ -101,7 +101,7 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%B0%BE%E6%9F%B1%E5%9B%BA%E5%AE%9A.jpg" alt="图片描述" width="700" />
 
-### **Ring Rotary Accessories Operation Tutorial**
+### Ring Rotary Accessories Operation Tutorial
 1. As shown in the figure. Adjust the chuck knob clockwise to unlock, and adjust the chuck knob counterclockwise to lock. The chuck can be expanded or contracted by adjusting the chuck knob to facilitate the insertion of the chuck needle.
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/110.png" alt="图片描述" width="700" />
@@ -110,14 +110,14 @@ We need to use different types of accessories when engraving some large or irreg
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E5%8D%A1%E7%9B%98%E5%8D%A1%E9%92%88.png" alt="图片描述" width="700" />
 
-### **180° Adjustable Flip Mode Accessories Operation Tutorial**
+### 180° Adjustable Flip Mode Accessories Operation Tutorial
 The tilt angle of the chuck body assembly can be adjusted by the side knob. When the tilt angle is appropriate, tighten the knob to fix it.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note**_**：**_**Before adjusting the tilt angle of the chuck body assembly, the roller assembly and clutch components must be removed.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/180%E5%8F%AF%E8%B0%83%E8%8A%82.png" alt="图片描述" width="700" />
 
-### **Support Module Operation Tutorial**
+### Support Module Operation Tutorial
 The support module consists of a stock column assembly, a stock pulley bracket assembly, and a stock bottom plate assembly, which can be connected as shown in the figure.
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note**_**：**_**Pay attention to the direction when installing the stock pulley bracket assembly into the stock column assembly.**_
