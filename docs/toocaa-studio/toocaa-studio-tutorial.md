@@ -117,7 +117,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 ![画布面板UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%94%BB%E5%B8%83%E9%9D%A2%E6%9D%BF.png)
 
 ### 加工工具栏
-+ **走边框：** 基于画布内容于TOOCAA L2中实时预览运作位置
++ **走边框：** 基于画布内容于TOOCAA L2中实时预览运作位置<br/>
 ![Step 3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)  **TIPS**：走边框是指激光模块在材料上沿着加工对象的边界移动，这样就可以预览材料上加工的区域。
 + **移动：** 单击以控制激光模块移动（主要适用于旋转配件模式）
 + **开始：** 单击以开始加工
