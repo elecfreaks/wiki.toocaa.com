@@ -171,7 +171,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 ## TOOCAA Studio快捷键
 |  |  |  
-| :---: | :---: | :---: | 
+| :---: | :---: | :---: | :---: | 
 |  | 功能 | Windows系统 | MacOS系统 |
 | 菜单栏<br/> | 复制 | Ctrl C | ⌘ C |
 | | 粘贴 | Ctrl V | ⌘ V |
