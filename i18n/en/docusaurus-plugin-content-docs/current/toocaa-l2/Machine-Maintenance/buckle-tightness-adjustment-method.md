@@ -5,7 +5,7 @@ sidebar_label: TOOCAA Laser Module Focusing Method
 
 ---
 
-# Laser Module Focusing
+# TOOCAA Laser Module Focusing Method
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：The right focal length ensures the best engraving and cutting results.**  
 Lower the focus lever on the left side of the laser module.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="600" />
