@@ -1,24 +1,23 @@
 ---
 
-sidebar_position: 14
-sidebar_label: TOOCAA Laser Module Focusing Method
+sidebar_position: 11
+sidebar_label: TOOCAA Laser Module Buckle Tightness Adjustment Method
 
 ---
 
-# TOOCAA Laser Module Focusing Method
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS：The right focal length ensures the best engraving and cutting results.**  
-Lower the focus lever on the left side of the laser module.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/13.png" alt="图片描述" width="600" />
-
-Push up the tool lock arm on the right side of the laser module.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/14.png" alt="图片描述" width="600" />
-
-Adjust the position of the laser module so that the tip of the focus lever of the laser module touches the consumables.<br/>
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**TIPS: Just lightly touch the focus lever to the surface of the consumables.**  
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/15.png" alt="图片描述" width="600" />
-
-Retract the focus lever on the left side of the laser module.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/16.png" alt="图片描述" width="600" />
-
-Return the focus lever on the left side of the laser module to its original position.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Case/Valentine-Day-Rose/17.png" alt="图片描述" width="600" />
+# TOOCAA Laser Module Buckle Tightness Adjustment Method
+ Solution steps:
+ 
+ **step 1 **Take out the laser module.
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A10.jpg" alt="图片描述" width="700" />" 
+ 
+ **step 2 **Remove the outer screw and the tool lock arm.
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A11.jpg" alt="图片描述" width="700" />" 
+ 
+ **step 3 **Adjust the tightness of the screw inside the tool carriage.
+ 
+ ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**TIPS**_**：**_**Clockwise adjustment is for tightening, and counterclockwise adjustment is for loosening. Please adjust according to the actual situation.**_
+ 
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A12.png" alt="图片描述" width="700" />" 
+ 
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A13.png" alt="图片描述" width="700" />"
