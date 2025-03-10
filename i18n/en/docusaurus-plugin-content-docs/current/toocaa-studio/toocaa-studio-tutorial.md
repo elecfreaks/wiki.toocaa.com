@@ -168,7 +168,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 ## TOOCAA Studio Shortcut Key
 |  |  |  
-| :---: | :---: | 
+| :---: | :---: | :---: | 
 | | Function | Windows | MacOS |
 | Menu Bar<br/> | copy | Ctrl C | ⌘ C |
 | | Paste | Ctrl V | ⌘ V |
