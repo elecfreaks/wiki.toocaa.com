@@ -23,7 +23,7 @@ sidebar_label: TOOCAA Studio Smart Camera使用教程
 
 完成案例制作后点击**Screenshot**，随后点击**下一步。**
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9TOOCAA.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9TOOCAA.png)<br/>
 通过鼠标对测试图像上的四个标记点**按所示数字顺序**进行标记确认。
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：**_
