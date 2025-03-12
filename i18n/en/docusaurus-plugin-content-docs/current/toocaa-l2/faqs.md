@@ -112,3 +112,21 @@ When the user triggers an alarm condition on the TOOCAA L2, the laser output is 
 | Solid Yellow | Carving Completed |
 | Red Flashing | Test Mode |
 | Solid Yellow | Initialize |
+
+## Q11:TOOCAA L2 smart camera displays an error in the TOOCAA Studio
+
+Please be sure to mark and confirm the 4 marking points on the test image in the **numerical order shown**.
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note:**_
+
+_**1. Make sure the mouse is accurately at the center of the circle of the marking point.**_
+
+_**2. You can use the mouse to move and zoom in and out of the test image, so as to accurately click the center of the circle of the four positions.**_
+
+_**3. Click order: upper left corner→upper right corner→lower left corner→lower right corner. After the 4 positions are accurately.**_ <br/>
+marked in turn, click **Finish**. Then click **Next**.
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%9B%9B%E7%82%B9%E6%89%93%E6%A0%87.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%94%BE%E5%A4%A7%E5%9B%BE%E7%89%87.png)
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%AE%8C%E6%88%90.png)
