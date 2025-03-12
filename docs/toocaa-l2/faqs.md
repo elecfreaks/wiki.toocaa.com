@@ -105,7 +105,7 @@ sidebar_label: TOOCAA L2常见问题
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A13.png" alt="图片描述" width="700" />"
 
-## Q9:TOOCAA L2智能摄像头在TOOCAA Studio中显示错误
+## Q9:TOOCAA L2智能摄像头在TOOCAA Studio视图中显示错误
 
 请务必**按所示数字顺序**对测试图像上的四个标记点进行标记确认。
 
