@@ -104,3 +104,21 @@ sidebar_label: TOOCAA L2常见问题
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A12.png" alt="图片描述" width="700" />" 
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%BF%80%E5%85%89%E6%A8%A1%E7%BB%84%E6%8C%89%E5%AE%89%E8%A3%85%E6%8B%86%E5%8D%B8/A13.png" alt="图片描述" width="700" />"
+
+## Q9:TOOCAA L2智能摄像头在TOOCAA Studio中显示错误
+
+请务必**按所示数字顺序**对测试图像上的四个标记点进行标记确认。
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**注意：**_
+
+_**1.请务必让鼠标准确点击于标记点的圆心处。**_
+
+_**2.可通过鼠标或放大缩小按键对测试图像进行移动和放大缩小，从而精确点击四个位置点圆心。**_
+
+_**3.点击顺序为：左上角为第一点，右上角为第二点，左下角为第三点，右下角为第四点。**_
+四个位置点依次精准标记后点击**完成**。随后点击**下一步。**
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%9B%9B%E7%82%B9%E6%89%93%E6%A0%87.png)
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%94%BE%E5%A4%A7%E5%9B%BE%E7%89%87.png)
+
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4/%E5%AE%8C%E6%88%90.png)
