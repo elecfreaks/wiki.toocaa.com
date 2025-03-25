@@ -117,7 +117,7 @@ _**2.可通过鼠标或放大缩小按键对测试图像进行移动和放大缩
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Q&A：5MP-60表示该摄像头具有500万像素的分辨率，并且能够以60帧每秒的速度录制视频。在LightBurn内选择对应参数即可。**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E9%80%89%E6%8B%A9%E6%91%84%E5%83%8F%E5%A4%B4%E5%9E%8B%E5%8F%B7%E3%80%81%E9%B1%BC%E7%9C%BC%E9%95%9C%E5%A4%B4%E5%92%8C5MP-60%E5%8F%82%E6%95%B0.png" alt="图片描述" width="700" /> <br/>
-点击**Align Camera**选项开始摄像头对齐校准。
+点击 **Align Camera** 选项开始摄像头对齐校准。<br/>
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BBAlign%20Camera%E9%80%89%E9%A1%B9.png" alt="图片描述" width="700" />
 
