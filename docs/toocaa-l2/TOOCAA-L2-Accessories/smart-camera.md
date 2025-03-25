@@ -171,7 +171,7 @@ _**2.可通过鼠标或放大缩小按键对测试图像进行移动和放大缩
 
 点击**更新覆盖层**即校准完成！
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%9B%B4%E6%96%B0%E8%A6%86%E7%9B%96%E5%B1%82.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E7%82%B9%E5%87%BB%E6%9B%B4%E6%96%B0%E8%A6%86%E7%9B%96%E5%B1%82.png" alt="图片描述" width="700" /> <br/>
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E6%9B%B4%E6%96%B0%E8%A6%86%E7%9B%96%E5%B1%82%E5%90%8E%E7%8A%B6%E6%80%81%E6%98%BE%E7%A4%BA.png" alt="图片描述" width="700" />
 
@@ -182,7 +182,7 @@ _**2.可通过鼠标或放大缩小按键对测试图像进行移动和放大缩
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/X%E8%BD%B4%E5%8F%8AY%E8%BD%B4%E8%B0%83%E6%95%B4.png" alt="图片描述" width="700" />
 
 #### 摄像头实操应用
-将耗材放入激光切割机内，点击**更新覆盖层**_**。**_
+将耗材放入TOOCAA L2内，点击**更新覆盖层**_**。**_
 
 在LightBurn覆盖层视图上根据目标位置进行素材的雕刻切割设计即可。
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%91%84%E5%83%8F%E5%A4%B4/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83.png" alt="图片描述" width="700" />
