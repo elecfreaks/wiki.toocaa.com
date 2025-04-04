@@ -36,8 +36,6 @@ B = 255 - B
 
 如下图所示：在深色牛皮纸上雕刻图像，若原图为黑色为主，反相后变为白色为主，激光会雕刻图像中深色区域，而白色区域则会忽略（降低功率）。
 
-![反相示意图1](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert1.png)
-
-![反相示意图2](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert2.png)
-
-![反相示意图3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert3.png)
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert1.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert2.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert3.png" alt="图片描述" width="1000" />
