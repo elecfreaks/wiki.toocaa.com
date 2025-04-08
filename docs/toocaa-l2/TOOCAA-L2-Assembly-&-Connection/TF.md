@@ -8,9 +8,6 @@ sidebar_label: TOOCAA L2离线操作指南
 # 离线操作指南
 
 TOOCAA L2配备的配件盒中包含一张**TF卡**，无需额外准备。
-
-## **制作案例作品**
-
 ### **Step 1/5**  
 将TF卡通过读卡器插入电脑，在TOOCAA Studio或LightBurn中完成设计后将设计文件保存在TF卡内，文件格式为Gcode模式。  
 
