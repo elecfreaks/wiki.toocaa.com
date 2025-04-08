@@ -13,8 +13,7 @@ TOOCAA L2配备的配件盒中包含一张**TF卡**，无需额外准备。
 ## **Step 1/5**  
 将TF卡通过读卡器插入电脑，在 TOOCAA Studio 或 LightBurn 中完成设计后，将设计文件保存在 TF 卡内，文件格式为 Gcode 模式。  
 
-> ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)  
-> **注意**：Gcode 文件名必须为英文，且 TF 卡里有且只有一个文件。
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)  **注意**：Gcode 文件名必须为英文，且 TF 卡里有且只有一个文件。
 
 ---
 
