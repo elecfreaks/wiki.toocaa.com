@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-sidebar_label: TOOCAA L2 Laser Engraver
+sidebar_label: TOOCAA L2激光切割机
 ---
 
-# TOOCAA L2 Laser Engraver
+# TOOCAA L2激光切割机
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/wiki/3.jpg" alt="图片描述" width="600" />
 
