@@ -20,8 +20,8 @@ B = 255 - B<br/>
 ### Usage Scenarios for the Inversion Function
 #### 1. The Essence of Laser Engraving: "Subtractive" Process
 Laser engraving achieves pattern engraving by ablating the surface of a material at high temperatures. The principle involves converting dark areas in an image into physical etchings. For example:
--  Dark areas (such as black) are targeted and burned by the laser, creating indentations or carbonized marks;
--  Light areas (such as white) remain unchanged (with lower power output or no output).
+-  **Dark areas** (such as black) are targeted and burned by the laser, creating indentations or carbonized marks;
+-  **Light areas** (such as white) remain unchanged (with lower power output or no output).
 If the original image directly uses dark areas to represent the parts to be engraved, the engraving result may be the opposite of what is expected. Therefore, inversion is needed to convert light areas into dark ones, allowing the laser to recognize and engrave them properly.
 #### 2. Default Logic of Desktop Laser Engraving Machine Software and the Impact of Material Properties
 Most desktop laser engraving machine software defaults to treating dark areas as the engraving path and light areas as blank. If a user wants to engrave the light areas of the original image, they must invert the image to turn the light areas into black; otherwise, the software will ignore the light areas.
