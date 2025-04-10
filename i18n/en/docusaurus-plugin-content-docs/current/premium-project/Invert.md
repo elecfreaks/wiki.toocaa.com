@@ -26,7 +26,9 @@ If the original image directly uses dark areas to represent the parts to be engr
 #### 2. Default Logic of Desktop Laser Engraving Machine Software and the Impact of Material Properties
 Most desktop laser engraving machine software defaults to treating dark areas as the engraving path and light areas as blank. If a user wants to engrave the light areas of the original image, they must invert the image to turn the light areas into black; otherwise, the software will ignore the light areas.
 Different materials react differently to lasers:
-- **Light or transparent materials**(such as dark metal, stone, or wood): It may be necessary to engrave the light areas after inversion or adjust the laser power parameters through inversion.
+- **Light or transparent materials**(such as acrylic or glass): Dark areas need to be engraved, and inversion can enhance contrast, allowing the laser to target the desired areas more precisely.
+- **Dark materials**(such as dark metal, stone, or wood):It may be necessary to engrave the light areas after inversion or adjust the laser power parameters through inversion.<br/>
+
 As shown in the example below: When engraving an image on dark kraft paper, if the original image is predominantly black, inversion will make it predominantly white. The laser will then engrave the dark areas of the image, while ignoring the white areas (reducing power).<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert1.png" alt="图片描述" width="1000" />
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/Invert/Invert2.png" alt="图片描述" width="1000" />
