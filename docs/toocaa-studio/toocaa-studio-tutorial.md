@@ -14,7 +14,11 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 ### 菜单栏
 #### 功能描述
 #### 文件
-+ **另存为GCode文件：** 将项目保存为GCode文件
++ **新建：** 新建文件
++ **打开：** 打开文件
++ **保存：** 保存文件
++ **保存为SVG：** 将项目保存为SVG格式文件
++ **保存为GCode文件：** 将项目保存为GCode文件
 
 #### 编辑
 + **撤消：** 取消上一个操作
@@ -30,6 +34,9 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **圆形：** 单击以绘制圆形
 + **文字：** 单击以输入文字
 + **图像描摹：** 单击对图像进行边缘描摹（只可对选中的图像使用）
++ **隐藏网格：** 单击对网格进行隐藏
++ **显示网格：** 单击对网格进行显示
++ **隐藏摄像头视图：** 单击对摄像头视图进行隐藏
 
 #### 激光工具
 + **摄像头：** 单击以启动摄像头功能
@@ -38,6 +45,12 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 #### 语言
 + **中文：** 单击选择中文模式
 + **英文：** 单击选择英文模式
++ **捷克文：** 单击选择捷克文模式
++ **德文：** 单击选择德文模式
++ **法文：** 单击选择法文模式
++ **葡萄牙文：** 单击选择葡萄牙文模式
++ **西班牙文：** 单击选择西班牙文模式
++ **荷兰文：** 单击选择荷兰文模式
 
 #### 菜单栏UI示意图
 ![菜单栏UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E8%8F%9C%E5%8D%95%E6%A0%8F.png)
@@ -81,16 +94,20 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 ### 左侧边栏
 #### 功能描述
 + **选择：** 单击以选择素材或单击选项
-+ **素材库：** 悬停以选择素材
-+ **导入：** 单击以导入素材，目前TOOCAA Studio仅支持PNG、JPG、SVG、DXF文件的导入
 + **矢量：** 单击以绘制矢量
 + **矩形：** 单击以绘制矩形
 + **圆形：** 单击以绘制圆形
 + **多边形：** 单击以选择图形
 + **文字：** 单击以输入文字
++ **素材库：** 悬停以选择素材
++ **导入：** 单击以导入素材，目前TOOCAA Studio仅支持PNG、JPG、SVG、DXF文件的导入
++ **材料测试矩阵：** 单击以打开材料测试矩阵弹窗
++ **图层选择：** 单击以选择图层
 
 #### 左侧边栏UI示意图
 ![左侧边栏UI示意图](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A6%E4%BE%A7%E8%BE%B9%E6%A0%8F.png)
+</br>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 ### 右侧设置面板
 #### 功能描述
@@ -98,7 +115,6 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **模式选择：** 线条切割、线条雕刻、填充雕刻
 + **参数调整：** 对图层进行参数调整（速度、功率、次数、间隙）
 + **图层输出/不输出：** 对图层进行输出/不输出
-+ **图层显示/不显示：** 图层在画布中显示/不显示
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**图层加工优先级：图层顺序＞图层内元素的创建先后顺序**
 
@@ -137,9 +153,6 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 #### 底部栏UI示意图
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
-
-### 材料测试矩阵
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 
 ### 摄像头工具栏
