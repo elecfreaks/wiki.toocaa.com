@@ -14,7 +14,14 @@ TOOCAA Studio is a multi-functional online editing tool launched by TOOCAA that 
 ### Menu Bar
 #### Functional Description
 #### File
++ **New:** Create a new file
++ **Open:** Open a file
++ **Save:** Save a file
++ **Save as SVG:** Save the project as an SVG file
 + **Save as GCode:** Save the project as a GCode file
++ **Hide grid:** Click to hide the grid
++ **Show grid:** Click to show the grid
++ **Hide camera view:** Click to hide the camera view
 
 #### Edit
 + **Undo:** Cancel the last operation
@@ -38,6 +45,12 @@ TOOCAA Studio is a multi-functional online editing tool launched by TOOCAA that 
 #### Language
 + **Chinese:** Click to select Chinese mode
 + **English:** Click to select English mode  
++ **Czech:** Click to select Czech mode
++ **German:** Click to select German mode
++ **French:** Click to select French mode
++ **Portuguese:** Click to select Portuguese mode
++ **Spanish:** Click to select Spanish mode
++ **Dutch:** Click to select Dutch mode
 
 #### Menu bar UI diagram
 ![Menu bar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E8%8F%9C%E5%8D%95%E6%A0%8F.png)
@@ -81,24 +94,27 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 ### Left Sidebar
 #### Functional Description
 + **Select:** Click to select the project or click Options
-+ **Shape:** Hover to select a project
-+ **Import:** Click to import materials. Currently, TOOCAA Studio only supports the import of PNG, JPG, SVG, and DXF files.
 + **Vector:** Click to draw a vector
 + **Rectangle:** Click to draw the rectangle
 + **Ellipse:** Click to draw a circle
 + **Polygon:** Click to select the graphic
 + **Text:** Click to enter text 
++ **Shape:** Hover to select a project
++ **Import:** Click to import materials. Currently, TOOCAA Studio only supports the import of PNG, JPG, SVG, and DXF files
++ **Material Test:** Click to open the Material Test popup
++ **Layer Selection:** Click to select a layer
 
 #### Left Sidebar UI diagram
 ![Left Sidebar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A6%E4%BE%A7%E8%BE%B9%E6%A0%8F.png)
+</br>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 ### Right settings panel
 #### Functional Description
 + **Layer list:** Switch and adjust the layer where the project or image is located
 + **Mode:** Line cutting, line engraving, fill engraving
 + **Speed/Power:** Adjust parameters of the layer (speed, power, times, interval)
-+ **Output:** Export/non-export layers
-+ **Show:** Layers appear/disappear in the canvas
++ **Display:** Export/non-export layers
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Layer processing priority: Layer order > creation order of items within a layer**
 
@@ -136,9 +152,6 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 #### Bottom Bar UI diagram
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
-
-### Material Test
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 ### Calibrate Camera Alignment Toolbar
 #### Functional Description
