@@ -75,10 +75,8 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 
 #### 工具栏UI示意图
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="900" />
 <br/>
-<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%AF%B9%E9%BD%90.png" alt="图片描述" width="400" />
 
 ### 左侧边栏
 #### 功能描述
@@ -132,8 +130,6 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png" alt="图片描述" width="500" />
 
-#### 激光模块移动工具示意图
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png" alt="图片描述" width="300" />
 
 ### 底部栏
 #### 功能描述
@@ -144,9 +140,11 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **画布比例调整：** 单击以调整画布尺寸
 
 #### 底部栏UI示意图
-
-
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
+
+### 材料测试矩阵
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="900" />
+
 
 ### 摄像头工具栏
 #### 功能描述
@@ -158,6 +156,8 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="900" />
 <br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="900" />
+<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4.png" alt="图片描述" width="600" />
 
 ### 旋转配件工具栏
 #### 功能描述
@@ -167,6 +167,8 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 + **断开链接：** 断开旋转配件模式
 
 #### 旋转配件工具设置UI示意图
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E9%80%89%E6%8B%A9.png" alt="图片描述" width="900" />
+<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="500" />
 
 ## TOOCAA Studio快捷键
@@ -194,10 +196,6 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 | | 适应屏幕 | Ctrl 0 | ⌘ 0 |
 
 ## TOOCAA Studio更新日志
-**V1.4.1-2025/02/11**
-- **新增** 元素排列、复制、粘贴功能，提升编辑灵活性。  
-- **新增** 矩形圆角调整功能，带来更多设计可能。  
-- **新增** TOOCAA Smart Camera功能，实现更精准的定位与预览。  
-- **新增** TOOCAA 5-in-1 Rotary for L2功能，拓展多种旋转雕刻模式。  
-- **新增** SVG导出功能，方便跨软件编辑与分享。  
-- **新增** TOOCAA Studio文件（TCS）导入/导出，提升项目管理效率。    
+**V2.0.1-2025/05/13**
+- **更新** TOOCAA Studio2.0UI更新。  
+- **新增** 材料测试矩阵，为不同耗材带来更多设计可能。  
