@@ -142,7 +142,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
 
 ### Material Test
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="900" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 ### Calibrate Camera Alignment Toolbar
 #### Functional Description
