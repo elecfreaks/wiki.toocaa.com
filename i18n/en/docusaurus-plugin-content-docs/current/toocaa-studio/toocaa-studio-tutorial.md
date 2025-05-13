@@ -155,8 +155,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 ### Rotary Accessories Toolbar
 #### Functional Description
-+ **Chuck Rotary Mode Select:** Chuck Rotary, Sphere Rotary, Ring Rotary, 180° adjustable flip mode
-+ **Roller Rotary Mode Select:** Roller Rotary
++ **Rotary Mode Select:** Chuck Rotary, Sphere Rotary, Ring Rotary, 180° adjustable flip mode,Roller Rotary
 + **Diameter:** In Chuck mode, you need to enter the object's diameter
 + **Disconnect:** Disconnect rotary accessory mode
 
