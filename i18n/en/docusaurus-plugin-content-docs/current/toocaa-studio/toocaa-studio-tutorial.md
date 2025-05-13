@@ -74,10 +74,9 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Align Center:**  Aligns the center of the selected object
 
 #### Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="700" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="900" />
 <br/>
-<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%AF%B9%E9%BD%90.png" alt="图片描述" width="400" />
+
 
 ### Left Sidebar
 #### Functional Description
@@ -129,8 +128,6 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9A%82%E5%81%9C.png" alt="图片描述" width="500" />
 
-#### Toolbar diagram for moving the laser module
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%A7%BB%E5%8A%A8.png" alt="图片描述" width="500" />
 
 ### Bottom Bar
 #### Functional Description
@@ -144,6 +141,8 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BA%95%E9%83%A8%E6%A0%8F.png" alt="图片描述" width="700" />
 
+### Material Test
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="900" />
 
 ### Calibrate Camera Alignment Toolbar
 #### Functional Description
@@ -155,6 +154,8 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%861.png" alt="图片描述" width="900" />
 <br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="900" />
+<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4.png" alt="图片描述" width="600" />
 
 ### Rotary Accessories Toolbar
 #### Functional Description
@@ -164,6 +165,8 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Disconnect:** Disconnect rotary accessory mode
 
 #### Rotary accessory tool setting UI diagram
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E9%80%89%E6%8B%A9.png" alt="图片描述" width="900" />
+<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="500" />
 
 ## TOOCAA Studio Shortcut Key
@@ -191,11 +194,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 | | Adapt to screen | Ctrl 0 | ⌘ 0 |
 
 ## TOOCAA Studio Update Log
-**V1.4.1-2025/02/11**
+**V2.0.1-2025/05/13**
 **New Features:**  
-- **Added** element copy, paste, and alignment functions to enhance editing flexibility.  
-- **Added** adjustable corner radius for rectangles, enabling more design possibilities.  
-- **Added** support for TOOCAA Smart Camera to achieve more precise positioning and preview.  
-- **Added** compatibility with TOOCAA 5-in-1 Rotary for L2, expanding rotary engraving modes.  
-- **Added** SVG export for seamless cross-software editing and sharing.  
-- **Added** support for TOOCAA Studio File (TCS) import/export, improving project management efficiency.  
+- **Update** TOOCAA Studio2.0UI updated.  
+- **Added** The material test brings more design possibilities for different consumables.  
