@@ -115,13 +115,9 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 ### Processing Toolbar
 + **Frame:** Preview the operation position in real-time in TOOCAA L2 based on the canvas content<br/>
 ![Step 3](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)  **TIPS：Framing means that the laser module moves along the boundary of the processed object on the material, so that the processed area on the material can be previewed.**
-+ **Move:** Click to control the movement of the laser module (mainly applicable to rotating accessory mode)
 + **Start:** Click to start running
 + **Pause:** Click to pause the run (can continue running)
 + **Stop:** Click to stop the run (cannot continue to run)
-+ **Reset:** Click to control the laser module to return to the absolute coordinate origin
-+ **1:** Click to control the laser module to move 1mm forward, backward, left, and right
-+ **10:** Click to control the laser module to move 10mm forward, backward, left, and right
 
 #### Processing Toolbar UI diagram
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="500" />
