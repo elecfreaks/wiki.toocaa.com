@@ -106,7 +106,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 
 #### Left Sidebar UI diagram
 ![Left Sidebar UI diagram](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A6%E4%BE%A7%E8%BE%B9%E6%A0%8F.png)
-</br>
+<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E7%9F%A9%E9%98%B5.png" alt="图片描述" width="700" />
 
 ### Right settings panel
