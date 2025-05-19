@@ -205,7 +205,7 @@ If you select the **Roller Rotary** mode, just click **OK** to start using it.
 
 If you select the **Chuck Rotary**, **Sphere Rotary**, **Ring Rotary**, or **180° adjustable flip mode**, please enter the object **diameter** in the rotation accessory toolbar on the right after clicking **OK**.
 
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="800" />
 
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**Congratulations! You have completed all TOOCAA 5-in-1 Rotary for L2 function settings!**
 
