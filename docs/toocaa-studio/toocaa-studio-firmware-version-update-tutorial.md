@@ -45,6 +45,8 @@ sidebar_label: TOOCAA Studio固件版本更新教程
 
 固件升级弹窗显示 **更新成功**，**重启** TOOCAA L2和TOOCAA Studio后即可正常使用。
 
+![固件升级中](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7/%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E5%BC%B9%E7%AA%97%E6%9B%B4%E6%96%B0%E5%AE%8C%E6%88%90.jpg)
+
 ## 如何处理固件升级失败
 1. 若TOOCAA Studio固件信息弹窗显示更新失败，请重启L2激光切割机及TOOCAA Studio并检查串行端口是否匹配后尝试再次更新。
 2. 如重试多次后仍无法成功更新固件，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：support@elecfreaks.com），我们会尽快为您解决。
