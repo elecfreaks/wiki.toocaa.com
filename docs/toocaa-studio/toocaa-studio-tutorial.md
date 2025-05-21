@@ -205,5 +205,5 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 ## TOOCAA Studio更新日志
 **V2.0.1-2025/05/13**
-- **更新** TOOCAA Studio2.0UI更新。  
-- **新增** 材料测试矩阵，为不同耗材带来更多设计可能。  
+- **更新**TOOCAA Studio2.0UI。  
+- **新增**材料测试矩阵，为不同耗材带来更多设计可能。  
