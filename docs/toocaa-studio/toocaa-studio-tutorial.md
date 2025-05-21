@@ -88,7 +88,7 @@ TOOCAA Studio是TOOCAA推出的一款多功能在线编辑工具，兼容Windows
 
 
 #### 工具栏UI示意图
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="900" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="1200" />
 <br/>
 
 ### 左侧边栏
