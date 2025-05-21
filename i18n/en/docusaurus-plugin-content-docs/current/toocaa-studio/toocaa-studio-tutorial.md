@@ -70,7 +70,7 @@ _**1.TOOCAA L2 a serial port verification method: unplug the USB cable and recon
 _**2.Please make sure that the connected serial port is the TOOCAA L2 serial port. If it is connected to other device serial ports, TOOCAA L2 will not be able to use it.**_
 
 #### Status Bar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E7%8A%B6%E6%80%81%E6%A0%8F.png" alt="图片描述" width="800" />
 
 ### Toolbar
 #### Functional Description
@@ -164,7 +164,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 <br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%A1%E5%87%862.png" alt="图片描述" width="900" />
 <br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4.png" alt="图片描述" width="600" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%91%84%E5%83%8F%E5%A4%B4.png" alt="图片描述" width="900" />
 
 ### Rotary Accessories Toolbar
 #### Functional Description
@@ -175,7 +175,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 #### Rotary accessory tool setting UI diagram
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E9%80%89%E6%8B%A9.png" alt="图片描述" width="900" />
 <br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="500" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="900" />
 
 ## TOOCAA Studio Shortcut Key
 |  |  |  
