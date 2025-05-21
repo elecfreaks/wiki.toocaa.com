@@ -87,7 +87,7 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 + **Align Center:**  Aligns the center of the selected object
 
 #### Toolbar UI diagram
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="900" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/TOOCAA%20Studio/%E5%B7%A5%E5%85%B7%E6%A0%8F.png" alt="图片描述" width="1200" />
 <br/>
 
 
