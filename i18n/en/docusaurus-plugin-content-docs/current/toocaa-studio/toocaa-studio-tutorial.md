@@ -204,5 +204,5 @@ _**2.Please make sure that the connected serial port is the TOOCAA L2 serial por
 ## TOOCAA Studio Update Log
 **V2.0.1-2025/05/13**
 **New Features:**  
-- **Update** TOOCAA Studio2.0UI updated.  
-- **Added** The material test brings more design possibilities for different consumables.  
+- **Update** **TOOCAA Studio2.0UI** updated.  
+- **Added** **The material test** brings more design possibilities for different consumables.  
