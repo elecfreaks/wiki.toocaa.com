@@ -9,27 +9,31 @@
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
-    "description": "The label of footer link with label=Twitter linking to https://twitter.com/elecfreaks"
+    "description": "The label of footer link with label=Twitter linking to https://x.com/ToocaaOfficial"
   },
   "link.item.label.Facebook": {
     "message": "Facebook",
-    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ElecFreaksTech"
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ToocaaOfficial/"
   },
   "link.item.label.Instagram": {
     "message": "Instagram",
-    "description": "The label of footer link with label=Instagram linking to http://instagram.com/elecfreaks"
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/toocaa_official/"
   },
   "link.item.label.Youtube": {
     "message": "Youtube",
-    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/channel/UCNx8XvTeFVnJuYQYhH-FxmQ"
-  },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to https://www.elecfreaks.com/blog.html"
+    "description": "The label of footer link with label=Youtube linking to  https://www.youtube.com/@TOOCAA_OFFICIAL"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/elecfreaks"
+  },
+  "link.item.label.TikTok": {
+    "message": "TikTok",
+    "description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/"
+  },
+    "link.item.label.Pinterest": {
+    "message": "Pinterest",
+    "description": "The label of footer link with label=Pinterest linking to https://www.pinterest.com/toocaa_official/"
   },
   "copyright": {
     "message": "Copyright © 2013~2022 ELECFREAKS, Inc. All rights reserved.",
