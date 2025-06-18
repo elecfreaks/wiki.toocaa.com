@@ -85,7 +85,7 @@ const config = {
             },
            {
               label: 'TikTok',
-              href: 'https://www.tiktok.com/',
+              href: 'https://www.tiktok.com/@toocaa_',
             },
             {
               label: 'Pinterest',
