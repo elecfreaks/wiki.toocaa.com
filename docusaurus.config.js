@@ -81,19 +81,27 @@ const config = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/elecfreaks',
+              href: 'https://x.com/ToocaaOfficial',
+            },
+           {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/',
+            },
+            {
+              label: 'Pinterest',
+              href: 'https://www.pinterest.com/toocaa_official/',
             },
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/ElecFreaksTech',
+              href: 'https://www.facebook.com/ToocaaOfficial/',
             },
             {
               label: 'Instagram',
-              href: 'https://instagram.com/elecfreaks',
+              href: 'https://www.instagram.com/toocaa_official/',
             },
             {
               label: 'YouTube',
-              href: 'https://www.youtube.com/channel/UCNx8XvTeFVnJuYQYhH-FxmQ',
+              href: 'https://www.youtube.com/@TOOCAA_OFFICIAL',
             },
           ],
         },
