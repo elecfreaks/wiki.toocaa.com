@@ -180,7 +180,7 @@ Select** output settings**.
 
 If the suffix of **Z Steps per mm ($102)** is **100.000**, the file configuration is complete and the TOOCAA 5-in-1 Rotary for L2 can start to operate normally.
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note: If the suffix of Steps per mm ($102) is not 100.000, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: **_[_**support@elecfreaks.com**_](mailto:support@elecfreaks.com)_**). We will solve it for you as soon as possible.**_
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)_**Note: If the suffix of Steps per mm ($102) is not 100.000, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: **_[_**zack@toocaa.com**_](mailto:zack@toocaa.com)_**). We will solve it for you as soon as possible.**_
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
