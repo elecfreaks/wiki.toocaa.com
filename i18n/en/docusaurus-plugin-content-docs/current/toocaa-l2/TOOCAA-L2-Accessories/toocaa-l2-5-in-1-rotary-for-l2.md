@@ -282,7 +282,7 @@ Import the material into LightBurn, set appropriate parameters for the cutting/e
 ### 1. The rotary accessory does not rotate or rotates irregularly.
 1. Make sure the machine is connected to the Z axis correctly.
 2.  Check whether the rotary accessory mode on LightBurn and the corresponding parameters of the step value per rotation and the roller diameter value are filled in correctly.
-3. If you confirm that the machine is connected correctly and the parameters are set correctly, but it still does not rotate or rotates irregularly, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: support@elecfreaks.com), and we will solve it for you as soon as possible.
+3. If you confirm that the machine is connected correctly and the parameters are set correctly, but it still does not rotate or rotates irregularly, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: zack@toocaa.com), and we will solve it for you as soon as possible.
 
 ### 2. Why can't the extension double-step jaw components/chuck needle be inserted after pressing the top button of the chuck?
 Please adjust the tightness of the chuck knob and then insert the double-step jaw components/chuck needle.
