@@ -174,7 +174,7 @@ TOOCAA 5-in-1 Rotary for L2是一款多功能旋转配件，专为各种材料�
 
 若**Z Steps per mm($102)**后缀显示为**100.000**即为文件配置完成，TOOCAA 5-in-1 Rotary for L2可开始正常运作。
 
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：若Z Steps per mm($102)后缀显示不为100.000，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：support@elecfreaks.com），我们会尽快为您解决。**
+![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/tips.png)**注意：若Z Steps per mm($102)后缀显示不为100.000，请及时与TOOCAA售后技术人员联系（TOOCAA售后技术人员联系方式：zack@toocaa.com），我们会尽快为您解决。**
 
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/%E6%97%8B%E8%BD%AC%E9%85%8D%E4%BB%B6/Z%20Steps%20per%20mm(%24102)%E5%90%8E%E7%BC%80%E6%98%BE%E7%A4%BA%E4%B8%BA100.000.png" alt="图片描述" width="700" />
 
