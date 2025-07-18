@@ -47,4 +47,4 @@ After reading the version update content, click **[Upgrade]**.
 
 ## How to handle firmware upgrade failure
 1.If the TOOCAA Studio firmware information pop-up window shows that the update failed, please restart the TOOCAA L2 laser cutting machine and TOOCAA Studio, check whether the serial port matches, and try to update again.<br/>
-2. If you still cannot successfully update the firmware after multiple retries, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: support@elecfreaks.com), and we will solve it for you as soon as possible.
+2. If you still cannot successfully update the firmware after multiple retries, please contact TOOCAA after-sales technicians in time (TOOCAA after-sales technicians contact information: zack@toocaa.com), and we will solve it for you as soon as possible.
