@@ -94,7 +94,7 @@ When the user triggers an alarm condition on the TOOCAA L2, the laser output is 
 | 2 short beeps | Opening the shield during laser processing |
 | 3 short beeps | USB lock not detected |
 | 4 short beeps | No laser module connected |
-| 5 short beeps | High Temperature Warning |
+| 5 short beeps | High temperature warning |
 | Long 1 beep, short 1 beep | Machine tilt detected |
 | Long 1 beep, short 2 beeps | Power supply mismatch |
 | Long 1 beep, short 3 beeps | TF card abnormality during laser processing |
