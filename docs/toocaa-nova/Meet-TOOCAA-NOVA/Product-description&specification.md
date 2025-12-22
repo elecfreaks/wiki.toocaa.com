@@ -58,18 +58,6 @@ sidebar_label: 了解您的TOOCAA NOVA
 
 ---
 
-# 设备连接操作（Device Connection Instructions）
-
-1. 开箱后，从机身内置泡棉中取出 **激光模组、激光模组螺丝与扳手**  注：螺丝与扳手位于 ToolBox 内
-2. 将激光模组沿 X 轴底槽插入，并使用螺丝固定
-3. 取出电源适配器与电源线，按指示方向正确连接
-4. 取出气泵、气管与 XT30 线
-5. 将气管与 XT30 线分别连接至气泵与整机
-6. 插入风管并逆时针旋转，直至锁定
-7. 确认限位器位置，防止耗材偏移
-
----
-
 ## TOOCAA NOVA & TOOCAA Studio 使用教程
 
 1. 启动 **TOOCAA NOVA**，并使用 Google Chrome 打开 **TOOCAA Studio**  
