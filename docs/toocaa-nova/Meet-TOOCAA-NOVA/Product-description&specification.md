@@ -129,23 +129,23 @@ Tips：当前耗材为较硬耗材，选用自动对焦即可；若遇到耗材�
 
 ## TOOCAA NOVA 离线创作教程
 
-1. 在触摸屏选择 **本地文件模式（Offline Mode）**</br>
+1. 在触摸屏选择 **本地文件模式（Offline Mode）**<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F.png" alt="图片描述" width="400" />
-2. 选择 **Lucky Koi!** 文件</br>
+2. 选择 **Lucky Koi!** 文件<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F%E4%B8%8B%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6.png" alt="图片描述" width="400" />
-3. 将3mm椴木板正确放置于加工区域并关盖后点击 **Next**</br>
+3. 将3mm椴木板正确放置于加工区域并关盖后点击 **Next**<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%94%BE%E5%85%A5%E8%80%97%E6%9D%90.png" alt="图片描述" width="400" />
-4. 点击 **Frame**（走边框过程中请勿开盖）</br>
+4. 点击 **Frame**（走边框过程中请勿开盖）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86.png" alt="图片描述" width="400" />
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E4%B8%AD.png" alt="图片描述" width="400" />
-5. 走边框完成后点击 **Next**</br>
+5. 走边框完成后点击 **Next**<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E5%AE%8C%E6%88%90.png" alt="图片描述" width="400" />
-6. 点击自动对焦（对焦过程中请勿开盖）</br>
+6. 点击自动对焦（对焦过程中请勿开盖）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="400" />
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6%E4%B8%AD.png" alt="图片描述" width="400" />
-7.对焦完成后在确保关盖的情况下点击Next</br>
+7.对焦完成后在确保关盖的情况下点击Next<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%87%86%E5%A4%87%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="400" />
-8.检查加工内容以及加工时间，确认无误后点击绿色开始按键（Tips：加工时可随意点击暂停及复原；但点击停止后该文件将停止加工，将返回主页重新加工）</br>
+8.检查加工内容以及加工时间，确认无误后点击绿色开始按键（Tips：加工时可随意点击暂停及复原；但点击停止后该文件将停止加工，将返回主页重新加工）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93-%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91.png" alt="图片描述" width="400" />
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/Work1%2020_25%2060%25.png" alt="图片描述" width="400" />
 9. 待加工完成后，属于你的第一个作品就加工完成啦！敬请开始你的创作之旅吧！
