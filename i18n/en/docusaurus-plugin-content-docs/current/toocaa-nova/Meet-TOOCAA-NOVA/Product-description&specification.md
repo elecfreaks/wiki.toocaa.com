@@ -92,8 +92,8 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
 3. In TOOCAA Studio, choose **Wi-Fi Connection → Connect New Device**.<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B0%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
 4. Enter the NOVA **IP address** and click **Connect**.<br/>
- <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" />
-5. Confirm the connection on the NOVA touchscreen.
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" /><br/>
+5. Confirm the connection on the NOVA touchscreen.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" /><br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="400" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="400" /><br/>
 Once completed, TOOCAA Studio will display all connected devices and the NOVA is ready to use.<br/>
