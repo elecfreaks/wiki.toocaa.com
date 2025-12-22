@@ -61,18 +61,18 @@ sidebar_label: 了解您的TOOCAA NOVA
 ## TOOCAA NOVA & TOOCAA Studio 使用教程
 
 1. 启动 **TOOCAA NOVA**，并使用 Google Chrome 打开 **TOOCAA Studio**  
-   👉 https://www.toocaastudio.com/
-2. 点击界面右上角 **连接设备**
+   👉 https://www.toocaastudio.com/<br/>
+2. 点击界面右上角 **连接设备**<br/>
    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
-3. 选择 **TOOCAA NOVA**，点击 **Confirm**
+3. 选择 **TOOCAA NOVA**，点击 **Confirm**<br/>
      <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%80%89%E6%8B%A9%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
-4. 选择连接方式（USB / Wi-Fi）
+4. 选择连接方式（USB / Wi-Fi）<br/>
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E9%80%89%E6%8B%A9.png" alt="图片描述" width="1000" />
 ---
 
 连接方案1：USB 连接
 1. 使用 USB Type-C 数据线连接 NOVA 与电脑  
-2. 在设备连接弹窗中点击 **Connect**
+2. 在设备连接弹窗中点击 **Connect**<br/>
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%9C%89%E7%BA%BF%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
 3. 在浏览器串口选择窗口中选择对应设备
 
@@ -80,49 +80,49 @@ sidebar_label: 了解您的TOOCAA NOVA
 
 WIFI连接前需确认当前环境有稳定WIFI，确认WIFI稳定后在触摸屏主页滑动至设置页并点击WIFI
 Tips：WIFI类型请选择仅需输入密码即可登录的WIFI，避免选择需要二次验证的公共WIFI， 同时请确保 NOVA 设备与电脑连接至同一 Wi-Fi 网络，并处于同一 IP 网段下。
-1. 在 NOVA 触摸屏进入 **设置 → Wi-Fi**
+1. 在 NOVA 触摸屏进入 **设置 → Wi-Fi**<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Setting.png" alt="图片描述" width="1000" />
-2. 选择 Wi-Fi 并输入密码
+2. 选择 Wi-Fi 并输入密码<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="1000" />
-3. 在TOOCAA Studio 中选择 **Wi-Fi 连接 → 连接新设备**
+3. 在TOOCAA Studio 中选择 **Wi-Fi 连接 → 连接新设备**<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B0%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
-4. 输入 NOVA 的 **IP 地址** 并点击 **Connect**
+4. 输入 NOVA 的 **IP 地址** 并点击 **Connect**<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" />
-5. 在 NOVA 触摸屏上点击绿色 **确认** 按钮完成连接
+5. 在 NOVA 触摸屏上点击绿色 **Confirm** 按钮完成连接<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="1000" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="1000" />
-连接成功后，TOOCAA Studio 将显示当前已连接设备（激光模组、气泵、旋转配件等）。
+连接成功后，TOOCAA Studio 将显示当前已连接设备（激光模组、气泵、旋转配件等）。<br/>
 <img src="" alt="图片描述" width="1000" />
 ---
 
 ## TOOCAA Studio 创作教程
 
-1. 将此TOOCAA Studio项目文件保存于电脑本地，按上述步骤正确连接设备后在File中点击Open并在清空画布确认弹窗中点击Yes
+1. 将此TOOCAA Studio项目文件保存于电脑本地，按上述步骤正确连接设备后在File中点击Open并在清空画布确认弹窗中点击Yes<br/>
 [Lucky Koi](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/Lucky%20Koi!.TCS)
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Open.png" alt="图片描述" width="1000" />
-2. 从NOVA包装中取出椴木板及对应的001椴木板耗材识别卡
+2. 从NOVA包装中取出椴木板及对应的001椴木板耗材识别卡<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%80%97%E6%9D%90%E8%AF%86%E5%88%AB.png" alt="图片描述" width="1000" />
-3. 将001 2.8mm Basswood耗材识别卡放置于NOVA加工区域后关盖，二维码识别功能将自动开启，稍等片刻后即会弹出二维码识别结果弹窗
+3. 将001 2.8mm Basswood耗材识别卡放置于NOVA加工区域后关盖，二维码识别功能将自动开启，稍等片刻后即会弹出二维码识别结果弹窗<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
-4. 点击OK后，右侧耗材信息会自动更新为当前耗材
+4. 点击OK后，右侧耗材信息会自动更新为当前耗材<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%80%97%E6%9D%90%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%96%B0.png" alt="图片描述" width="1000" />
-5. 此时推荐参数也会自动更新
+5. 此时推荐参数也会自动更新<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B01.png" alt="图片描述" width="1000" />
-Tips：若加工参数左侧标识全为大拇指，即当前加工参数已为该耗材最佳参数，若加工参数左侧出现红色更新icon，则表明当前参数为自定义参数，用户可更新为推荐参数，也可保留此自定义参数进行加工
+Tips：若加工参数左侧标识全为大拇指，即当前加工参数已为该耗材最佳参数，若加工参数左侧出现红色更新icon，则表明当前参数为自定义参数，用户可更新为推荐参数，也可保留此自定义参数进行加工<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B02.png" alt="图片描述" width="1000" />
-6. 将001 2.8mm Basswood耗材识别卡从加工区域取出并关盖，关盖完成后点击Frame。（Frame的目的是为了确认加工位置）
+6. 将001 2.8mm Basswood耗材识别卡从加工区域取出并关盖，关盖完成后点击Frame。（Frame的目的是为了确认加工位置）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Frame.png" alt="图片描述" width="1000" />
-走边框期间请勿开盖，如需开盖请等待激光头走完边框并复位后再开
+走边框期间请勿开盖，如需开盖请等待激光头走完边框并复位后再开<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Framing.png" alt="图片描述" width="1000" />
-7. 加工区域确认无误后，点击自动对焦
+7. 加工区域确认无误后，点击自动对焦<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" />
-Tips：当前耗材为较硬耗材，选用自动对焦即可；若遇到耗材类型为软耗材或不方便自动对焦的耗材，可点击自动对焦右侧的对焦高级模式手动调节激光头高度或通过输入耗材厚度手动对焦
+Tips：当前耗材为较硬耗材，选用自动对焦即可；若遇到耗材类型为软耗材或不方便自动对焦的耗材，可点击自动对焦右侧的对焦高级模式手动调节激光头高度或通过输入耗材厚度手动对焦<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%AB%98%E7%BA%A7%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" />
-8. 对焦完成后即可点击开始加工
+8. 对焦完成后即可点击开始加工<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" />
-9. 点击开始加工后，可在加工预览视图弹窗中修改该文件名（Tips：由TOOCAA Studio创建并加工的文件，均会保存到TOOCAA NOVA本地，后续可通过TOOCAA NOVA本地文件模式重复使用）
+9. 点击开始加工后，可在加工预览视图弹窗中修改该文件名（Tips：由TOOCAA Studio创建并加工的文件，均会保存到TOOCAA NOVA本地，后续可通过TOOCAA NOVA本地文件模式重复使用）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%A2%84%E8%A7%88.png" alt="图片描述" width="1000" />
-10. 修改文件名后点击Start即可正式开始加工（Tips：加工时可随意点击暂停及复原；但点击停止后该文件将停止加工，将返回主页重新加工）
+10. 修改文件名后点击Start即可正式开始加工（Tips：加工时可随意点击暂停及复原；但点击停止后该文件将停止加工，将返回主页重新加工）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" />
 待加工完成后，属于你的第一个作品就加工完成啦！敬请开始你的创作之旅吧！
 ---
