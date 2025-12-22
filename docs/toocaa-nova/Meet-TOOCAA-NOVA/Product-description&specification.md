@@ -81,16 +81,16 @@ sidebar_label: 了解您的TOOCAA NOVA
 WIFI连接前需确认当前环境有稳定WIFI，确认WIFI稳定后在触摸屏主页滑动至设置页并点击WIFI
 Tips：WIFI类型请选择仅需输入密码即可登录的WIFI，避免选择需要二次验证的公共WIFI， 同时请确保 NOVA 设备与电脑连接至同一 Wi-Fi 网络，并处于同一 IP 网段下。
 1. 在 NOVA 触摸屏进入 **设置 → Wi-Fi**<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Setting.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Setting.png" alt="图片描述" width="400" />
 2. 选择 Wi-Fi 并输入密码<br/>
- <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="1000" />
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%AE%BE%E7%BD%AE.png" alt="图片描述" width="400" />
 3. 在TOOCAA Studio 中选择 **Wi-Fi 连接 → 连接新设备**<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B0%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
 4. 输入 NOVA 的 **IP 地址** 并点击 **Connect**<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" />
 5. 在 NOVA 触摸屏上点击绿色 **Confirm** 按钮完成连接<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="1000" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="400" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="400" /><br/>
 连接成功后，TOOCAA Studio 将显示当前已连接设备（激光模组、气泵、旋转配件等）。<br/>
 <img src="" alt="图片描述" width="1000" />
 ---
@@ -113,7 +113,7 @@ Tips：若加工参数左侧标识全为大拇指，即当前加工参数已为�
 6. 将001 2.8mm Basswood耗材识别卡从加工区域取出并关盖，关盖完成后点击Frame。（Frame的目的是为了确认加工位置）<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Frame.png" alt="图片描述" width="1000" />
 走边框期间请勿开盖，如需开盖请等待激光头走完边框并复位后再开<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Framing.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Framing.png" alt="图片描述" width="1000" /><br/>
 7. 加工区域确认无误后，点击自动对焦<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" />
 Tips：当前耗材为较硬耗材，选用自动对焦即可；若遇到耗材类型为软耗材或不方便自动对焦的耗材，可点击自动对焦右侧的对焦高级模式手动调节激光头高度或通过输入耗材厚度手动对焦<br/>
