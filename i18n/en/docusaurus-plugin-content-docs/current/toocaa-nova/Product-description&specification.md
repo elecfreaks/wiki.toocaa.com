@@ -80,15 +80,11 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
    👉 https://www.toocaastudio.com/
 
 2. Click **Connect Device** in the upper-right corner.
-
-![](https://cdn.nlark.com/yuque/0/2025/png/47382939/1766113253767-438e23fb-0120-4597-bedc-7e8c91526a5c.png)
-
+  <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87.png)" alt="图片描述" width="1000" />
 3. Select **TOOCAA NOVA**, then click **Confirm**.
-
-![](https://cdn.nlark.com/yuque/0/2025/png/47382939/1766113266437-078111ba-77d9-4ff0-b79e-d23e96360d92.png)
-
+     <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%80%89%E6%8B%A9%E8%AE%BE%E5%A4%87.png)" alt="图片描述" width="1000" />
 4. Choose a connection method.
-
+    <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E9%80%89%E6%8B%A9.png)" alt="图片描述" width="1000" />
 ---
 
 ### USB Connection
