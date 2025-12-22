@@ -30,55 +30,21 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
 | Safety Protection | Tilt Detection, Flame Detection, Laser Module Offline Detection, Air Assist Offline Detection, Lid Open Detection, Rotary Detection, Laser Module Overheating Detection, Laser Module Homing Failure Detection, Baseplate Detection, Child Lock, Emergency Stop |
 | Net Weight | 10.05 kg |
 | Gross Weight | 15.00 kg |
-
----
-
-### Laser Module Specifications
-
 | Item | 10W | 20W | 2W IR |
-|---|---:|---:|---:|
 | Laser Wavelength | 455 ± 5 nm | 455 ± 5 nm | 1064 ± 1 nm |
 | Output Power | 10W | 20W | 2W |
 | Input Voltage | 24V | 24V | 24V |
 | Spot Size | 0.08 × 0.13 mm | 0.15 × 0.15 mm | 0.06 × 0.06 mm |
 | Laser Class | Class 1 | Class 1 | Class 1 |
 | One-pass Cutting (Basswood) | 6 mm | 10 mm | — |
-
----
-
-### Supported Materials
-
-**10W / 20W Modules**  
-Basswood, Tung Wood, Pine, Plywood, Beech, Walnut, Bamboo, MDF, Lacquered Metal, Tinplate, Stainless Steel, Anodized Aluminum, Dark-colored Glass, Slate, Ceramics, Jade, Marble, Shale, Leather, Fabrics, Canvas, Corrugated Cardboard, Cardboard, Plastics, Dark-colored Acrylic (except blue)
-
-**2W IR Module**  
-All metals, leather, opaque plastics, dark non-transparent acrylic, stone, glass (with laser marking paper), ceramics (with laser marking paper), circuit boards
-
----
-
-### Software & Connectivity
-
-| Item | Specification |
-|---|---|
+| Supported Materials | Basswood, Tung Wood, Pine, Plywood, Beech, Walnut, Bamboo, MDF, Lacquered Metal, Tinplate, Stainless Steel, Anodized Aluminum, Dark-colored Glass, Slate, Ceramics, Jade, Marble, Shale, Leather, Fabrics, Canvas, Corrugated Cardboard, Cardboard, Plastics, Dark-colored Acrylic (except blue) | All metals, leather, opaque plastics, dark non-transparent acrylic, stone, glass (with laser marking paper), ceramics (with laser marking paper), circuit boards
 | Supported Software | TOOCAA Studio, LightBurn |
 | Supported OS | Windows, macOS |
 | Connectivity | USB Type-C, Wi-Fi, Bluetooth |
-
----
-
-### Power Adapter
-
 | Item | 10W | 20W | 2W IR |
-|---|---:|---:|---:|
 | Input | AC 100–240V, 50/60Hz, 2.5A | AC 100–240V, 50/60Hz, 2.5A | AC 100–240V, 50/60Hz, 3.0A |
 | Output | 24V 5A | 24V 7.5A | 24V 10A |
-
----
-
-### Certifications
-
-IEC 60825-1, CE RED, CE MD, RoHS, FCC SDoC, FDA
-
+| Certifications | IEC 60825-1 Class 1, CE RED, CE MD, RoHS, FCC SDoC, FDA |
 ---
 
 ## Packing List
