@@ -61,19 +61,6 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
 
 ---
 
-# Device Connection Instructions
-
-1. After unboxing, remove the **Laser Module**, **Laser Module Screws**, and **Wrench** from the foam compartment inside the machine.  
-   > Note: Screws and wrench are stored in the toolbox.
-2. Insert the **Laser Module** into the X-axis slot and secure it using the screws.
-3. Take out the **Power Adapter** and **Power Cable**, then connect them to the machine.
-4. Remove the **Air Assist Set**, **Air Pipe**, and **XT30 Cable**.
-5. Connect the **Air Pipe** and **XT30 Cable** between the Air Assist Set and the machine.
-6. Insert the **Air Hose** into the exhaust port and rotate counterclockwise until locked.
-7. Check the position of the **A4 Positioning Block** to prevent material misalignment.
-
----
-
 ## TOOCAA NOVA & TOOCAA Studio User Tutorial
 
 1. Power on **TOOCAA NOVA**, then open **TOOCAA Studio** in Google Chrome (recommended).  
