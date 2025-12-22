@@ -60,8 +60,7 @@ sidebar_label: 了解您的TOOCAA NOVA
 
 # 设备连接操作（Device Connection Instructions）
 
-1. 开箱后，从机身内置泡棉中取出 **激光模组、激光模组螺丝与扳手**  
-   > 注：螺丝与扳手位于 ToolBox 内
+1. 开箱后，从机身内置泡棉中取出 **激光模组、激光模组螺丝与扳手**  注：螺丝与扳手位于 ToolBox 内
 2. 将激光模组沿 X 轴底槽插入，并使用螺丝固定
 3. 取出电源适配器与电源线，按指示方向正确连接
 4. 取出气泵、气管与 XT30 线
@@ -76,28 +75,32 @@ sidebar_label: 了解您的TOOCAA NOVA
 1. 启动 **TOOCAA NOVA**，并使用 Google Chrome 打开 **TOOCAA Studio**  
    👉 https://www.toocaastudio.com/
 2. 点击界面右上角 **连接设备**
+   <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87.png)" alt="图片描述" width="1000" />
 3. 选择 **TOOCAA NOVA**，点击 **Confirm**
+     <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%80%89%E6%8B%A9%E8%AE%BE%E5%A4%87.png)" alt="图片描述" width="1000" />
 4. 选择连接方式（USB / Wi-Fi）
-
+    <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E9%80%89%E6%8B%A9.png)" alt="图片描述" width="1000" />
 ---
 
 ### USB 连接
 
 1. 使用 USB Type-C 数据线连接 NOVA 与电脑  
 2. 在设备连接弹窗中点击 **Connect**
+    <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%9C%89%E7%BA%BF%E7%A1%AE%E8%AE%A4.png)" alt="图片描述" width="1000" />
 3. 在浏览器串口选择窗口中选择对应设备
 
 ---
 
 ### Wi-Fi 连接
 
-> 请确保 NOVA 与电脑连接至 **同一 Wi-Fi 网络，并处于同一 IP 网段**
-
+WIFI连接前需确认当前环境有稳定WIFI，确认WIFI稳定后在触摸屏主页滑动至设置页并点击WIFI
+Tips：WIFI类型请选择仅需输入密码即可登录的WIFI，避免选择需要二次验证的公共WIFI， 同时请确保 NOVA 设备与电脑连接至同一 Wi-Fi 网络，并处于同一 IP 网段下。
 1. 在 NOVA 触摸屏进入 **设置 → Wi-Fi**
-2. 选择 Wi-Fi 并输入密码
-3. 在 TOOCAA Studio 中选择 **Wi-Fi 连接 → 连接新设备**
-4. 输入 NOVA 的 **IP 地址** 并点击 **Connect**
-5. 在 NOVA 触摸屏上点击绿色 **确认** 按钮完成连接
+    <img src="[http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Setting.png" alt="图片描述" width="1000" />
+3. 选择 Wi-Fi 并输入密码
+4. 在 TOOCAA Studio 中选择 **Wi-Fi 连接 → 连接新设备**
+5. 输入 NOVA 的 **IP 地址** 并点击 **Connect**
+6. 在 NOVA 触摸屏上点击绿色 **确认** 按钮完成连接
 
 连接成功后，TOOCAA Studio 将显示当前已连接设备（激光模组、气泵、旋转配件等）。
 
