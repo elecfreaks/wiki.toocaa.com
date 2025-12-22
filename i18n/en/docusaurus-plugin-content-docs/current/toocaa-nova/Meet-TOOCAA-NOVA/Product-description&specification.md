@@ -93,11 +93,10 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E6%96%B0%E8%AE%BE%E5%A4%87.png" alt="图片描述" width="1000" />
 4. Enter the NOVA **IP address** and click **Connect**.<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" />
-5. Confirm the connection on the NOVA touchscreen.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
+5. Confirm the connection on the NOVA touchscreen.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" /><br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="400" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="400" /><br/>
 Once completed, TOOCAA Studio will display all connected devices and the NOVA is ready to use.<br/>
-<img src="" alt="图片描述" width="1000" />
 ---
 
 ## TOOCAA Studio Creation Guide
@@ -114,54 +113,51 @@ The QR code recognition function will activate automatically, and after a short 
 4. After clicking **OK**, the material information on the right will automatically update to reflect the current material.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%80%97%E6%9D%90%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%96%B0.png" alt="图片描述" width="1000" />
 5. At this point, the recommended parameters will also update automatically.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B01.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B01.png" alt="图片描述" width="1000" /><br/>
 Tips: If all icons on the left of the processing parameters show a thumbs-up, the current parameters are already optimal for the material.
 If a red Update icon appears, it indicates that the current parameters are customized. The user can choose to update to the recommended parameters or keep the custom settings for processing.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E6%8E%A8%E8%8D%90%E5%8F%82%E6%95%B02.png" alt="图片描述" width="1000" />
-6. Remove the 001 2.8mm Basswood Material ID Card from the processing area and close the cover.After closing the cover, click **Frame**.<br/>
-(The purpose of Frame is to confirm the processing position.)
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Frame.png" alt="图片描述" width="1000" />
-Do not open the cover while the laser is tracing the frame.
-If you need to open the cover, wait until the laser head has finished tracing the frame and returned to its home position.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Framing.png" alt="图片描述" width="1000" />
-7. After confirming that the processing area is correct, click **Auto Focus**.
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" />
-Tips: For harder materials, simply use **Auto Focus**.
-For softer materials or materials unsuitable for automatic focusing, click **Advanced Focus** next to Auto Focus to manually adjust the laser head height, or manually focus by entering the material thickness.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%AB%98%E7%BA%A7%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" />
+6. Remove the 001 2.8mm Basswood Material ID Card from the processing area and close the cover.After closing the cover, click **Frame**.(The purpose of Frame is to confirm the processing position.)<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Frame.png" alt="图片描述" width="1000" /><br/>
+Do not open the cover while the laser is tracing the frame.If you need to open the cover, wait until the laser head has finished tracing the frame and returned to its home position.<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Framing.png" alt="图片描述" width="1000" /><br/>
+7. After confirming that the processing area is correct, click **Auto Focus**.<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" /><br/>
+Tips: For harder materials, simply use **Auto Focus**.For softer materials or materials unsuitable for automatic focusing, click **Advanced Focus** next to Auto Focus to manually adjust the laser head height, or manually focus by entering the material thickness.<br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%AB%98%E7%BA%A7%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="1000" /><br/>
 8. Once focusing is complete, click Start Processing.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" />
-9. After clicking **Let's create**, you can modify the file name in the Processing Preview pop-up.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" /><br/>
+9. After clicking **Let's create**, you can modify the file name in the Processing Preview pop-up.<br/>
 Tips: Files created and processed in TOOCAA Studio are saved locally on the TOOCAA NOVA. They can be reused later through the NOVA’s local file mode.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%A2%84%E8%A7%88.png" alt="图片描述" width="1000" />
-10. After renaming the file, click **Start** to begin processing.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E9%A2%84%E8%A7%88.png" alt="图片描述" width="1000" /><br/>
+10. After renaming the file, click **Start** to begin processing.<br/>
 Tips: You can pause and resume freely during processing; however, clicking Stop will halt the current job and return to the home screen, requiring you to start processing again.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" />
-Once the processing is complete, your very first creation is finished!
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="1000" /><br/>
+Once the processing is complete, your very first creation is finished!<br/>
 Enjoy your creative journey ahead!
 ---
 
 ## TOOCAA NOVA Creation Guide
 
 1. Select **Offline Mode**.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F.png" alt="图片描述" width="400" /><br/>
 2. Select the **Lucky Koi!** file.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F%E4%B8%8B%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F%E4%B8%8B%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6.png" alt="图片描述" width="400" /><br/>
 3. Place the 3 mm basswood board properly in the processing area, close the cover, and then clic **Next**<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%94%BE%E5%85%A5%E8%80%97%E6%9D%90.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E6%94%BE%E5%85%A5%E8%80%97%E6%9D%90.png" alt="图片描述" width="400" /><br/>
 4. Click **Frame**.(Do not open the cover while framing.)<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86.png" alt="图片描述" width="400" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E4%B8%AD.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E4%B8%AD.png" alt="图片描述" width="400" /><br/>
 5. Next After framing is complete, click **Next**.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E5%AE%8C%E6%88%90.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%B5%B0%E8%BE%B9%E6%A1%86%E5%AE%8C%E6%88%90.png" alt="图片描述" width="400" /><br/>
 6. Click **Auto Focus**.(Do not open the cover during focusing.)<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="400" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6%E4%B8%AD.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6.png" alt="图片描述" width="400" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E8%87%AA%E5%8A%A8%E5%AF%B9%E7%84%A6%E4%B8%AD.png" alt="图片描述" width="400" /><br/>
 7.Once focusing is complete, ensure the cover is closed and click **Next**.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%87%86%E5%A4%87%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%87%86%E5%A4%87%E5%8A%A0%E5%B7%A5.png" alt="图片描述" width="400" /><br/>
 8.Review the processing content and estimated processing time. Once confirmed, press the green Start button to begin.
 Tips: You can pause and resume freely during processing; however, clicking Stop will halt the current job and return to the home screen, requiring you to start processing again.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93-%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91.png" alt="图片描述" width="400" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/Work1%2020_25%2060%25.png" alt="图片描述" width="400" />
-9. Once processing is complete, your first creation is finished.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E8%A7%A6%E6%91%B8%E5%B1%8F/Work1%2020_25%2060%25.png" alt="图片描述" width="400" /><br/>
+9. Once processing is complete, your first creation is finished.<br/>
 Begin your creative journey and enjoy exploring your ideas!
