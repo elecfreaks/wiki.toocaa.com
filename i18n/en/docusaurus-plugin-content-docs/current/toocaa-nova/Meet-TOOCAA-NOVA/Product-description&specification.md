@@ -94,20 +94,20 @@ Powered by **TOOCAA Studio**, the AI-assisted software automates image generatio
 4. Enter the NOVA **IP address** and click **Connect**.<br/>
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/IP%E8%BE%93%E5%87%BA.png" alt="图片描述" width="1000" />
 5. Confirm the connection on the NOVA touchscreen.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="400" />
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="1000" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="400" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E4%BD%8D%E6%9C%BA%E7%A1%AE%E8%AE%A4%E7%95%8C%E9%9D%A2.png" alt="图片描述" width="400" /><img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%B8%8B%E6%8B%89%E7%95%8C%E9%9D%A2(%E5%B9%B3%E9%9D%A2%E6%A8%A1%E5%BC%8F).png" alt="图片描述" width="400" /><br/>
 Once completed, TOOCAA Studio will display all connected devices and the NOVA is ready to use.<br/>
 <img src="" alt="图片描述" width="1000" />
 ---
 
 ## TOOCAA Studio Creation Guide
 
-1. 1. Save this TOOCAA Studio project file to your computer.
+1. Save this TOOCAA Studio project file to your computer.
 After successfully connecting the device following the steps above,  Go to the File and click **Open**, and when the Clear Canvas notification pop-up appears, click **Yes**.<br/>
 [Lucky Koi](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/Lucky%20Koi!.TCS)
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/Open.png" alt="图片描述" width="1000" />
 2. Remove the basswood board and its corresponding 001 Basswood Material ID Card from the NOVA packaging.<br/>
-<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%80%97%E6%9D%90%E8%AF%86%E5%88%AB.png" alt="图片描述" width="1000" />
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E8%80%97%E6%9D%90%E8%AF%86%E5%88%AB.png" alt="图片描述" width="600" />
 3. Place the 001 2.8mm Basswood Material ID Card in the NOVA processing area and close the cover.
 The QR code recognition function will activate automatically, and after a short moment, a QR Code Recognition Result pop-up will appear.<br/>
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/User%20guide/%E6%95%B4%E6%9C%BA%E8%BF%9E%E6%8E%A5/%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%E7%A1%AE%E8%AE%A4.png" alt="图片描述" width="1000" />
