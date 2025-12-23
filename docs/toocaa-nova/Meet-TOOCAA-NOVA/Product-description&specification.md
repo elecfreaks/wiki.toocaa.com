@@ -46,15 +46,14 @@ sidebar_label: 了解您的TOOCAA NOVA
 
 ## 包装清单
 
-![](https://cdn.nlark.com/yuque/0/2025/jpeg/47382939/1763603728523-fb59c463-cf43-4adc-9f1e-1c2b1ac45ab8.jpeg)
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/List.png" alt="图片描述" width="1000" /><br/>
 
 ---
 
 ## 产品细节
 
-![](https://cdn.nlark.com/yuque/0/2025/jpeg/47382939/1763603763026-57ad7c88-c820-4a4a-832b-b42fde58b255.jpeg)
-
-![](https://cdn.nlark.com/yuque/0/2025/jpeg/47382939/1763603761921-2bf7f458-daa9-4878-ae68-fe71df9507f1.jpeg)
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Meet%20Your%20TOOCAA%20NOVA1.png" alt="图片描述" width="1000" /><br/>
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Meet%20Your%20TOOCAA%20NOVA2.png" alt="图片描述" width="1000" /><br/>
 
 ---
 
