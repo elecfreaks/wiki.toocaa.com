@@ -4,7 +4,6 @@ sidebar_position: 1
 sidebar_label: TOOCAA NOVA旋转配件
 
 ---
-# TOOCAA NOVA旋转配件
 # 了解您的TOOCAA NOVA旋转配件
 
 TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的精密加工而设计。  
@@ -35,7 +34,7 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 | 产品尺寸 | 130.00 × 106.00 × 80.00 mm |
 | 产品重量 | 净重 0.83 kg |
 | 配件种类 | 卡盘旋转 / 环形旋转 |
-| 雕刻直径范围 | 卡盘旋转：0–120 mm<br>环形旋转：12–100 mm |
+| 雕刻直径范围 | 卡盘旋转：0–120 mm<br/>环形旋转：12–100 mm |
 | 兼容机器 | TOOCAA NOVA |
 | 兼容软件 | TOOCAA Studio / LightBurn |
 
@@ -58,7 +57,7 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
    通过调节旋钮，使卡盘展开或收缩，方便插入拓展夹爪。
 
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 向下按住卡盘顶部按键，将匹配耗材尺寸的拓展夹爪插入卡盘。
 
@@ -71,11 +70,11 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 1. 顺时针旋转卡盘旋钮解锁，逆时针旋转锁紧，通过调节卡盘尺寸，便于插入卡盘卡针。
 
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 向下按住卡盘顶部按键，将卡盘卡针插入与耗材尺寸匹配的位置。
 
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/8.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/8.jpg" alt="图片描述" width="1000" /><br/>
 
 ---
 
@@ -84,7 +83,7 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 1. 在关机状态下，通过橙色提手取出 TOOCAA NOVA 刀板与底板。
 
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 逆时针旋转 X 轴旋钮 3 圈，将 X 轴翻转 90° 后拧紧，并移至机器底侧。
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/11.jpg" alt="图片描述" width="1000" /><br/>
@@ -113,11 +112,11 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 1. 启动 TOOCAA NOVA，并打开 **TOOCAA Studio**。  
    正确连接设备后，界面将显示当前已连接的配件。
 
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/17.jpg" alt="图片描述" width="1000" /><br/>
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/17.png" alt="图片描述" width="1000" /><br/>
 
 2. 输入 **物体直径**。
 
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/1.jpg" alt="图片描述" width="1000" /><br/>
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/18.png" alt="图片描述" width="1000" /><br/>
 
 3. 在画布内完成创作后，执行 **走边框（Frame）** 操作，确认加工区域位于耗材上，避免激光打穿机器。
 
