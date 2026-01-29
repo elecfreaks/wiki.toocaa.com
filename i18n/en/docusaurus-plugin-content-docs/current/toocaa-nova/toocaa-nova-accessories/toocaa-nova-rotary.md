@@ -4,7 +4,6 @@ sidebar_position: 1
 sidebar_label: TOOCAA NOVA Rotary
 
 ---
-# TOOCAA NOVA Rotary
 # Learn About Your TOOCAA NOVA Rotary
 
 ## Key Features
@@ -53,7 +52,7 @@ When engraving large or irregularly shaped materials, different accessories may 
 
 
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 
 2. Press and hold the button on top of the chuck, then insert the rotary jaws that match the size of the material into the chuck.
@@ -65,7 +64,7 @@ When engraving large or irregularly shaped materials, different accessories may 
 
 1. With the device powered off, remove the TOOCAA NOVA blade cutting panel and aluminum protective plate using the orange handle.
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br>
+     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
 
 2. Turn the X-axis knob counterclockwise for three full rotations. Rotate the X-axis 90°, tighten the knob, and move the X-axis to the bottom side of the machine.
 
@@ -96,11 +95,11 @@ When engraving large or irregularly shaped materials, different accessories may 
 1. Start TOOCAA NOVA and launch TOOCAA Studio.  
    Once the device is correctly connected, all detected accessories will be displayed.
 
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/17.jpg" alt="图片描述" width="1000" /><br/>
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/17.png" alt="图片描述" width="1000" /><br/>
 
 2. Enter the diameter of the object at the actual processing location.
 
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/1.jpg" alt="图片描述" width="1000" /><br/>
+  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/18.png" alt="图片描述" width="1000" /><br/>/>
 
 3. After completing your design on the canvas, perform a **Frame** operation.  
    Ensure the processing area is positioned on the material to prevent the laser from cutting into the machine.
