@@ -1,14 +1,13 @@
 ---
 
 sidebar_position: 1
-sidebar_label: TOOCAA NOVA Rotary
+sidebar_label: TOOCAA NOVA旋转配件
 
 ---
-# TOOCAA NOVA Rotary
-# Learn About Your TOOCAA NOVA Rotary
-# 了解您的 TOOCAA NOVA Rotary
+# TOOCAA NOVA旋转配件
+# 了解您的TOOCAA NOVA旋转配件
 
-TOOCAA NOVA Rotary 是一款多功能旋转配件，专为各种材料的精密加工而设计。  
+TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的精密加工而设计。  
 它提供 **2 种配件类型**，可在多种场景下处理不同类型的材料，满足追求高质量雕刻与切割解决方案的爱好者与专业人士需求。  
 适用于：**手工项目、模型制作、小批量生产及教育用途**。
 
