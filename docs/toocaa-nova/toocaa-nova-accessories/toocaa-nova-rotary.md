@@ -73,10 +73,10 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
     
 <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
-2. 向下按住卡盘顶部按键，将卡盘卡针插入与耗材尺寸匹配的位置。
+2. 向下按住卡盘顶部按键，将卡盘卡针/插入与耗材尺寸匹配的位置。
 
      <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/8.jpg" alt="图片描述" width="1000" /><br/>
-
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/8.jpg" alt="图片描述" width="1000" /><br/>
 ---
 
 ## 设备连接操作
