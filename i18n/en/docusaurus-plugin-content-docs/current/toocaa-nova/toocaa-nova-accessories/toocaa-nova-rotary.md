@@ -50,9 +50,9 @@ When engraving large or irregularly shaped materials, different accessories may 
 
 1. As shown in the figure, turn the chuck knob clockwise to unlock and counterclockwise to lock. Adjusting the knob allows the jaws to expand or contract for easier insertion of the rotary jaws.  
 
-
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
+ 
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 
 2. Press and hold the button on top of the chuck, then insert the rotary jaws that match the size of the material into the chuck.
@@ -63,14 +63,14 @@ When engraving large or irregularly shaped materials, different accessories may 
 ## Device Connection Operation
 
 1. With the device powered off, remove the TOOCAA NOVA blade cutting panel and aluminum protective plate using the orange handle.
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
+
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
 
 2. Turn the X-axis knob counterclockwise for three full rotations. Rotate the X-axis 90°, tighten the knob, and move the X-axis to the bottom side of the machine.
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/11.jpg" alt="图片描述" width="1000" /><br/>
 
-
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/11.jpg" alt="图片描述" width="1000" /><br/>
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/12.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/12.jpg" alt="图片描述" width="1000" /><br/>
 
 3. Insert the rotary attachment into the connection port on the right side of the machine, then tighten the screws.
 
