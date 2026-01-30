@@ -48,15 +48,17 @@ When engraving large or irregularly shaped materials, different accessories may 
 
 ## Rotary Accessory Installation Guide
 
-1. As shown in the figure, turn the chuck knob clockwise to unlock and counterclockwise to lock. Adjusting the knob allows the jaws to expand or contract for easier insertion of the rotary jaws.  
+1. As shown in the figure, turn the chuck knob clockwise to unlock and counterclockwise to lock. Adjusting the knob allows the jaws to expand or contract for easier insertion of the rotary jaws / needles.  
 
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
  
  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 
-2. Press and hold the button on top of the chuck, then insert the rotary jaws that match the size of the material into the chuck.
+2. Press and hold the button on top of the chuck, then insert the rotary jaws / needles that match the size of the material into the chuck.
     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/5.jpg" alt="图片描述" width="1000" /><br/>
+    
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/8.jpg" alt="图片描述" width="1000" /><br/>
 
 ---
 
@@ -109,6 +111,7 @@ When engraving large or irregularly shaped materials, different accessories may 
    - For soft materials, manually adjust the laser head to the appropriate height.
 
 5. After focusing is complete, start processing.
+
 
 ## Frequently Asked Questions (FAQ)
 
