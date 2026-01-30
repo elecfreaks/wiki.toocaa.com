@@ -55,9 +55,9 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 
 1. 如图所示，**顺时针旋转卡盘旋钮为解锁**，**逆时针旋转为锁紧**。  
    通过调节旋钮，使卡盘展开或收缩，方便插入拓展夹爪。
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
 
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 向下按住卡盘顶部按键，将匹配耗材尺寸的拓展夹爪插入卡盘。
 
@@ -69,8 +69,9 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 
 1. 顺时针旋转卡盘旋钮解锁，逆时针旋转锁紧，通过调节卡盘尺寸，便于插入卡盘卡针。
 
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/3.jpg" alt="图片描述" width="1000" /><br/>
+    
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/4.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 向下按住卡盘顶部按键，将卡盘卡针插入与耗材尺寸匹配的位置。
 
@@ -82,16 +83,18 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 
 1. 在关机状态下，通过橙色提手取出 TOOCAA NOVA 刀板与底板。
 
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
-     <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/9.jpg" alt="图片描述" width="1000" /><br/>
+
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/10.jpg" alt="图片描述" width="1000" /><br/>
 
 2. 逆时针旋转 X 轴旋钮 3 圈，将 X 轴翻转 90° 后拧紧，并移至机器底侧。
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/11.jpg" alt="图片描述" width="1000" /><br/>
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/12.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/11.jpg" alt="图片描述" width="1000" /><br/>
+
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/12.jpg" alt="图片描述" width="1000" /><br/>
 
 3. 将旋转配件插入机身右侧连接口，并拧紧螺丝。
 
-    <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/13.jpg" alt="图片描述" width="1000" /><br/>
+ <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/13.jpg" alt="图片描述" width="1000" /><br/>
 
    **连接位特写：**
 
@@ -143,8 +146,9 @@ TOOCAA NOVA 旋转配件是一款多功能旋转配件，专为各种材料的�
 
 请适当调节卡盘旋钮的松紧度后再尝试插入。
 
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/19.jpg" alt="图片描述" width="1000" /><br/>
-  <img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/20.jpg" alt="图片描述" width="1000" /><br/>
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/19.jpg" alt="图片描述" width="1000" /><br/>
+
+<img src="http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/NOVA/Rotary/20.jpg" alt="图片描述" width="1000" /><br/>
 
 ---
 
